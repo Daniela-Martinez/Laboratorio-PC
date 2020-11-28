@@ -1,0 +1,3635 @@
+Hive (C:\Users\Daniela\Desktop\ntuser.dat) is not dirty.
+
+adobe v.20200522
+(NTUSER.DAT) Gets user's Adobe app cRecentFiles values
+
+adobe v.20200522
+Could not access Software\Adobe\Adobe Acrobat\\AVGeneral\cRecentFiles
+
+Could not access Software\Adobe\Acrobat Reader\\AVGeneral\cRecentFiles
+
+----------------------------------------
+allowedenum v.20200511
+(NTUSER.DAT, Software) Extracts AllowedEnumeration values to determine hidden special folders
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+----------------------------------------
+appassoc v.20200515
+- Gets contents of user's ApplicationAssociationToasts key
+
+LastWrite: 2020-11-14 23:35:30Z
+
+IE.HTTPS_https
+IE.HTTP_http
+ChromeHTML_http
+ChromeHTML_https
+Microsoft.PhotoManager.videotype_.mp4
+mplayerc.mp4_.mp4
+WMP11.AssocFile.MP4_.mp4
+AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt_.mp4
+PowerPoint.Show.12_.pptx
+Word.Document.12_.docx
+docxfile_.docx
+jpegfile_.jpg
+xmlfile_.xml
+ms-windows-store_ms-windows-store
+pngfile_.png
+Microsoft.PhotoManager.imagetype_.png
+WindowsLive.PhotoGallery.png.16.4_.png
+PowerPoint.SlideShow.12_.ppsx
+WMP11.AssocFile.WMA_.wma
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wma
+Microsoft.PhotoManager.imagetype_.jpg
+WindowsLive.PhotoGallery.jpg.16.4_.jpg
+WindowsLive.MovieMaker.WLMP_.wlmp
+Applications\MSOXMLED.EXE_.mp4
+Applications\MovieMaker.exe_.mp4
+WinRAR_.rar
+PBrush_.jpg
+ChromeHTML_.htm
+IE.AssocFile.HTM_.htm
+htmlfile_.htm
+MSCFile_.msc
+WMP11.AssocFile.MP3_.mp3
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mp3
+FoxitReader.Document_.pdf
+AppX86746z2101ayy2ygv3g96e4eqdf8r99j_.pdf
+Applications\Winword.exe_.pdf
+CompressedFolder_.zip
+WinRAR.ZIP_.zip
+WMP11.AssocFile.M4A_.m4a
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m4a
+Word.Document.8_.doc
+CATFile_.cat
+dbfile_.db
+Applications\notepad.exe_.docx
+Word.RTF.8_.rtf
+rtffile_.rtf
+Word.Template.12_.dotx
+Applications\notepad.exe_.dotx
+Word.DocumentMacroEnabled.12_.docm
+Word.UriLink.15_MS-WORD
+Word.Wizard.8_.wiz
+Word.UriLink.15_WORD
+Word.Backup.8_.wbk
+Word.Template.8_.dot
+Word.TemplateMacroEnabled.12_.dotm
+Word.OpenDocumentText.12_.odt
+Publisher.Document.15_.pub
+CABFolder_.cab
+WMP11.AssocFile.WAV_.wav
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wav
+PBrush_.png
+Applications\iTunes.exe_.png
+WMP11.AssocFile.3GP_.3gp
+mplayerc.3gp_.3gp
+AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt_.3gp
+Microsoft.PhotoManager.videotype_.3gp
+iTunes.m4a_.m4a
+ttffile_.ttf
+PowerPoint.SlideShowMacroEnabled.12_.ppsm
+PowerPoint.SlideShow.8_.pps
+iTunes.mp3_.mp3
+mplayerc.wma_.wma
+WinRAR_.7z
+AdobeAudition8_mp3_.mp3
+iTunes.cda_.cda
+WMP11.AssocFile.CDA_.cda
+ChromeHTML_.html
+IE.AssocFile.HTM_.html
+htmlfile_.html
+AppXsbbgnfsv7a3rcbwghq3vyv59fy0tkn5a_mailto
+ChromeHTML_mailto
+Outlook.URL.mailto.15_mailto
+mplayerc.mkv_.mkv
+KLCP.WMP.mkv_.mkv
+AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt_.mkv
+WMP11.AssocFile.AVI_.avi
+mplayerc.avi_.avi
+AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt_.avi
+Microsoft.PhotoManager.videotype_.avi
+WindowsLive.PhotoGallery.video.16.4_.avi
+iTunes.m3u_.m3u
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m3u
+WMP11.AssocFile.m3u_.m3u
+Applications\RosadinTV.exe_.m3u
+Excel.Sheet.8_.xls
+giffile_.gif
+Microsoft.PhotoManager.imagetype_.gif
+WindowsLive.PhotoGallery.gif.16.4_.gif
+Explorer.AssocActionId.BurnSelection_Explorer.BurnSelection
+FoxitReader.FDFDoc_.FDF
+Excel.Sheet.12_.xlsx
+inifile_.ini
+mplayerc.flv_.flv
+Applications\FOXIT READER.EXE_.jpg
+Publisher.Document.16_.pub
+SPSS.DataDoc_.sav
+Access.Application.16_.accdb
+WindowsLive.PhotoGallery.ico.16.4_.ico
+PBrush_.ico
+icofile_.ico
+txtfile_.txt
+jpegfile_.jpeg
+Microsoft.PhotoManager.imagetype_.jpeg
+WindowsLive.PhotoGallery.jpg.16.4_.jpeg
+WMP11.AssocFile.WMV_.wmv
+mplayerc.wmv_.wmv
+AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt_.wmv
+Microsoft.PhotoManager.videotype_.wmv
+WindowsLive.PhotoGallery.video.16.4_.wmv
+SafeZoneStable_.pdf
+SafeZoneStable_mailto
+cmap_auto_file_.cmap
+Applications\WINWORD.EXE_.cmap
+PowerPoint.ShowMacroEnabled.12_.pptm
+ChromeHTML_.pdf
+PowerPoint.Show.8_.ppt
+AppXwce9wtyzypcsd3z7862jgzgmf4tzsr4n_.jpg
+AppXzgk6z54dy57cat7kcw8zm2fpctwc4yx6_.png
+SafeZoneStable_.html
+mplayerc.opus_.opus
+iTunes.wav_.wav
+WindowsLive.MovieMaker.MSWMM_.MSWMM
+Applications\WLXPhotoViewer.dll_.pdf
+PBrush_.gif
+Applications\SZBrowser.exe_.gif
+CSSfile_.css
+jarfile_.jar
+AvastHTML_.htm
+AvastHTML_.html
+AvastHTML_.pdf
+AvastHTML_.shtml
+AvastHTML_.svg
+AvastHTML_.xht
+AvastHTML_.xhtml
+AvastHTML_.webp
+AvastHTML_ftp
+AvastHTML_http
+AvastHTML_https
+AvastHTML_irc
+AvastHTML_mailto
+AvastHTML_mms
+AvastHTML_news
+AvastHTML_nntp
+AvastHTML_sms
+AvastHTML_smsto
+AvastHTML_tel
+AvastHTML_urn
+AvastHTML_webcal
+Applications\FOXIT READER.EXE_.htm
+cplfile_.cpl
+Apowersoft.VideoEditor.Pro.ve_.ve
+Applications\WINWORD.EXE_.jpg
+Applications\photoviewer.dll_.pdf
+Python.File_.py
+Python.CompiledFile_.pyc
+Applications\WINWORD.EXE_.py
+AppX88mrte49zjwdjzar4y4d6g4yy1c45cma_.dat
+AppXtghwp6ekzybfyrm85j58f8j6f7qfkjpy_.pdf
+Applications\notepad.exe_.py
+Msi.Package_.msi
+chm.file_.chm
+py_auto_file_.py
+json_auto_file_.json
+Paint.Picture_.bmp
+Microsoft.PhotoManager.imagetype_.bmp
+WindowsLive.PhotoGallery.bmp.16.4_.bmp
+MSEdgePDF_.pdf
+Applications\notepad.exe_.pdf
+Microsoft.PowerShellScript.1_.ps1
+Microsoft.PowerShellData.1_.psd1
+Microsoft.PowerShellModule.1_.psm1
+Excel.CSV_.csv
+Outlook.File.msg.15_.msg
+Applications\pythonw.exe_.py
+Applications\NOTEPAD.EXE_.msg
+----------------------------------------
+appcompatflags v.20200525
+(NTUSER.DAT, Software) Extracts AppCompatFlags for Windows.
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+LastWrite Time 2020-05-31 01:44:55Z
+
+C:\Users\Usuario\Downloads\L110-L210-L300-L350-L355 Reset\Adjprogcracked.exe -> ~ WIN8RTM
+SIGN.MEDIA=152CBDA Setup.exe -> $ VistaSP2
+C:\Windows\System32\spool\drivers\x64\3\E_YINSI4E.EXE -> $ Win7RTM
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe -> $ WinBlueRTM
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Persisted
+  C:\Users\Usuario\AppData\Local\Temp\HiSuiteDownLoader\Setup.exe
+  C:\Users\Usuario\AppData\Local\Temp\Foxit Reader Updater.exe
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+  2013-08-22 06:57:05Z - C:\Users\Usuario\AppData\Local\Temp\{B364876D-0D06-48F8-983E-7374D12C17E8}\InstallFlashPlayer.exe
+  2013-08-21 23:53:01Z - C:\Windows\AutoKMS_VL_ALL\AutoKMS_VL_ALL.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=1A77A0 Programas de w8\Office 2013\setup.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Apps\2.0\MBBGZHDM.V1C\AWN82ZC3.W9G\goog...app_86fd5b6b43e66935_0001.0003_fc9e1c526b88b78e\clickonce_bootstrap.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\avg_free_stb_all_2015_ltst_285.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Setup.X86.es-es_O365ProPlusRetail_f9dfad47-1287-4eb7-8936-4c4e030afe27_TX_PR_.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Setup.X86.es-es_O365ProPlusRetail_f9dfad47-1287-4eb7-8936-4c4e030afe27_TX_PR_ (1).exe
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\office15\perfboost.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Microsoft Office 15\ClientX64\officec2rclient.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\office15\FIRSTRUN.EXE
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\office15\MSOUC.EXE
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\client\AppVLP.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\44.0.2403.130\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\wlsetup-web.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Windows Live\Photo Gallery\MovieMaker.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Windows Live\Photo Gallery\WLXPhotoGallery.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\44.0.2403.155\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\44.0.2403.157\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\filmora_setup_full1081.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Wondershare\Filmora\Filmora.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Microsoft Security Client\msseces.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=365B8 Setup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\K-Lite Codec Pack\Media Player Classic\mpc-hc.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\K-Lite Codec Pack\Tools\mediainfo.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Microsoft Office 15\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE15\MSOXMLED.EXE
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\avg_gsr_stb_all_ltst_801 (1).exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\avg_free_stb_all_2015_ltst_639_6140.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Actkms\KMSpico Install\KMSpico_setup.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\avg_gsr_stb_all_ltst_801.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\AVG\Framework\Common\avguix.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\L200_x86_670APS_C1.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\ccsetup509.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\office15\groove.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\45.0.2454.85\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\45.0.2454.93\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\45.0.2454.99\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Program Files\KMSpico\unins000.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Wondershare\Filmora\unins000.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\45.0.2454.101\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\WinsockxpFix-WinXP.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\avast_free_antivirus_setup_online.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\rcsetup152.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Recuva\recuva64.exe
+  2013-08-21 23:53:01Z - C:\Program Files\CCleaner\CCleaner.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Recuva\uninst.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\gunsetup.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Glary Undelete 5\FileUndelete.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Glary Utilities 5\upgrade.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Glary Utilities 5\Integrator.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Glary Utilities 5\SoftwareUpdate.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Glary Utilities 5\uninst.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Reader.exe
+  2013-08-22 06:57:05Z - C:\Users\Usuario\Desktop\winrar-x64-521es.exe
+  2013-08-22 06:57:05Z - C:\Program Files\WinRAR\WinRAR.exe
+  2013-08-22 06:57:05Z - C:\Program Files\WinRAR\Uninstall.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\rcsetup152.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\L200_x86_670APS_C1.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\46.0.2490.71\delegate_execute.exe
+  2013-08-22 06:57:05Z - C:\Users\Usuario\AppData\Local\Temp\{600E9785-C848-431F-B2AA-ACD818ADC805}\InstallFlashPlayer.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+  2013-08-22 06:57:05Z - C:\Users\Usuario\Downloads\iTunes6464Setup.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Temp\IXP908.TMP\SetupAdmin.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\46.0.2490.80\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\L200_x86_670APS_C1 (1).exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=152CBDA Setup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\ABBYY FineReader 9.0 Sprint\Sprint.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\ABBYY FineReader 9.0 Sprint\Bonus.ScreenshotReader.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Temp\Foxit Reader Updater.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Yahoo!\yset\{09EB5D19-F7B8-8848-B966-D08B96A8BD6E}\unset.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\disketchpsetup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\NCH Software\Disketch\disketch.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\46.0.2490.86\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\audacity-win-2.1.2rc1.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Audacity\unins000.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\audacity-win-2.1.2rc1.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Program4Pc\DJ Audio Editor\DJAudioEditor.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\audacity-win-2-0-6.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Audacity\audacity.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Adobe CS5\Soundbooth\Adobe Soundbooth CS5\Set-up.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Adobe\Adobe Soundbooth CS5\Adobe Soundbooth CS5.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\CreativeCloudSet-Up.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Adobe\Adobe Creative Cloud\ACC\Creative Cloud.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ElevationManager\Adobe Installer.exe
+  2013-08-21 23:53:01Z - C:\ProgramData\Package Cache\{050d4fc8-5d48-4b8f-8972-47c82c46020f}\vcredist_x64.exe
+  2013-08-21 23:53:01Z - C:\ProgramData\Package Cache\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\vcredist_x86.exe
+  2013-08-21 23:53:01Z - C:\ProgramData\Package Cache\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}\vcredist_x64.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Real Alternative\unins000.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\QuickTime Alternative\unins000.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Adobe\Adobe Audition CC 2015\Adobe Audition CC.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core\PDapp.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\office15\powerpnt.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\47.0.2526.80\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\mbam-setup-org-2.2.0.1024.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\47.0.2526.106\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Malwarebytes Anti-Malware\unins000.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\Creative Cloud Uninstaller.exe
+  2013-08-21 23:53:01Z - C:\Program Files\CCleaner\uninst.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\47.0.2526.111\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\TV\RosadinTV.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\TV\RTV Updater.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.97\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\TV\Archivos\RTMPDump\rtmpdump.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.103\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Temp\jre-8u73-windows-au.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.109\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Temp\GUM4720.tmp\GoogleUpdateSetup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.116\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\KMSpico.v9.3.1.290614\KMSpico Install\KMSpico_setup.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\otros\MEGAsyncSetup.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\MEGAsync\uninst.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\sony-vegas-movie-studio-hd-9.0c.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\InstallScreenRecorderLauncher-2.0.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\office15\WINWORD.EXE
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Temp\jre-8u77-windows-au.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Microsoft Office 15\ClientX64\officeclicktorun.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\video-editor-sonc_setup_full1107.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Wondershare\VideoEditor-sonc\VideoEditor.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\office15\EXCEL.EXE
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\office15\MSACCESS.EXE
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Spss 14\SPSS14Evaluation.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\SPSSEval\spssspla.exe
+  2013-08-22 06:57:05Z - SIGN.MEDIA=267CD Eliminar Virus.bat
+  2013-08-22 06:57:05Z - SIGN.MEDIA=3DDF631 .Trashes\Eliminar Virus.bat
+  2013-08-22 06:57:05Z - C:\Users\Usuario\Desktop\Eliminar Virus.bat
+  2013-08-22 06:57:05Z - SIGN.MEDIA=337D Eliminar Virus.bat
+  2013-08-22 06:57:05Z - SIGN.MEDIA=3395 Eliminar Virus.bat
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Temp\convertidor.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Convertidor de videos\convertidor.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Microsoft Office 15\root\office15\MSPUB.EXE
+  2013-08-21 23:53:01Z - SIGN.MEDIA=366075E WorldEnglishCD.exe
+  2013-08-22 06:57:05Z - SIGN.MEDIA=3147EBF0 Todo\lalalalalalalal\Facu83\Eliminar Virus.bat
+  2013-08-21 23:53:01Z - SIGN.MEDIA=361E0 Setup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\SPSSEval\spsswin.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\root\Office16\MSACCESS.EXE
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Rosadin TV\Archivos\MPV\mpv.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Rosadin TV\Archivos\MPV\mpv.com
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Rosadin TV\RosadinTV.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Rosadin TV\Archivos\MPV\rtmpdump.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Rosadin TV\Archivos\MPV\youtube-dl.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\Rosadin TV\Archivos\Updater\RosadinTV.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\RosadinTV.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\RosadinTV\RosadinTV.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=1028D9 autorun.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Facebook\Games\FacebookGames.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Screen Recorder Launcher\Uninstall.exe
+  2013-08-21 23:53:01Z - C:\Program Files\AVAST Software\Avast\VisthAux.exe
+  2013-08-21 23:53:01Z - C:\Program Files\AVAST Software\Avast\setup\instup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Convertidor de videos\unins000.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\360TS_Setup_Mini.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\360\Total Security\QHSafeMain.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\360\Total Security\Uninstall.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\avast_free_antivirus_setup_online_cnet_2.exe
+  2013-08-21 23:53:01Z - C:\Windows\SysWOW64\regedit.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\ccsetup520.exe
+  2013-08-22 06:57:05Z - C:\Program Files\CCleaner\CCleaner64.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\FixAss.exe
+  2013-08-22 06:57:05Z - C:\Program Files\KMSpico\scripts\Log.cmd
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Epson Software\Easy Photo Print\EPQuicker.exe
+  2013-08-22 06:57:05Z - C:\Windows\System32\spool\drivers\x64\3\E_IARNGUL.EXE
+  2013-08-22 06:57:05Z - C:\Windows\System32\spool\drivers\x64\3\E_GUPA30.EXE
+  2013-08-22 06:57:05Z - SIGN.MEDIA=13E87 Eliminar Virus.bat
+  2013-08-22 06:57:05Z - SIGN.MEDIA=3317 Eliminar Virus.bat
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Resetter Epson L200\AdjProg.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\InstallShield Installation Information\{B2D55EB8-32C5-4B43-9006-9E97DECBA178}\setup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\InstallShield Installation Information\{79D0F056-39DE-4FDD-83FD-1554CE2C6443}\setup.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=285F86 Espanol\Guide\setup.exe
+  2013-08-22 06:57:05Z - C:\Users\Usuario\Desktop\sara\Eliminar Virus.bat
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Apple Software Update\SoftwareUpdate.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=26266C autorun.exe
+  2013-08-21 23:53:01Z - C:\Program Files\KMSpico\UninsHs.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Temp\Rar$EXa0.608\KMSAC1.4.2\KMSAuto Net.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Dropbox\Client\Dropbox.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Epson Reset\wicreset.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Epson Reset\Resetter Epson L200\reset.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=49FF8 Setup.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\L120\AdjProg.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\WICReset\WICReset\WIC(x32).exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\WIC\WICreset.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\WIC\unins000.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\L110-L210-L300-L350-L355 Reset\Adjprogcracked.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\wat\wat.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Wondershare\VideoEditor-sonc\unins000.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\activador de windows 8.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\KMSpico.v10.2.0.FINAL\KMSpico Install\KMSpico_setup.exe
+  2013-08-22 06:57:05Z - C:\Program Files\KMSpico\AutoPico.exe
+  2013-08-22 06:57:05Z - C:\Program Files\KMSpico\KMSELDI.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=CED3C MSetup4.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Canon\IJ Manual\Easy Guide Viewer\cmview.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\epson\guide\L120_sl\unins000.exe
+  2013-08-22 06:57:05Z - C:\Windows\System32\spool\drivers\x64\3\E_YINSLUE.EXE
+  2013-08-21 23:53:01Z - C:\Windows\SysWOW64\msiexec.exe
+  2013-08-22 06:57:05Z - C:\Windows\System32\spool\drivers\x64\3\E_YINSI4E.EXE
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Epson Software\Common\Easy Photo Print Plugin\WLPG_E\EPPUNINS.EXE
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\InstallShield Installation Information\{3E31400D-274E-4647-916C-2CACC3741799}\ENPSETUP.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\epson\escndv\setup\setup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Java\jre1.8.0_65\bin\javacpl.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Dropbox\Client\DropboxUninstaller.exe
+  2013-08-21 23:53:01Z - C:\Program Files\AVAST Software\SZBrowser\launcher.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\WicReset\wicreset.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Canon\Quick Menu\CNQMMAIN.EXE
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Temp\IXP318.TMP\SetupAdmin.exe
+  2013-08-22 06:57:05Z - C:\Program Files\iTunes\iTunes.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Documents\KMSP931\KMSpico.v9.3.1.290614\KMSpico Install\KMSpico_setup.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\ShapeCollage-3.1-Setup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Shape Collage\ShapeCollage.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\KAREL ESPAÑOL.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\KAREL ESPAÑOL (1).exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Documents\Videos dany\JKarelRobot.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\JKarelRobot.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Java\jre1.8.0_65\bin\javaw.exe
+  2013-08-21 23:53:01Z - C:\Windows\twain_32\escndv\escndv.exe
+  2013-08-21 23:53:01Z - C:\Windows\avastSS.scr
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\AVAST Software\Browser\Application\AvastBrowser.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\AVAST Software\Browser\AvastBrowserUninstall.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\filmora_setup_full846 (1).exe
+  2013-08-22 06:57:05Z - C:\Program Files\Wondershare\Wondershare Filmora\Filmora.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\video-editor-pro (1).exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Setup.X86.es-es_O365ProPlusRetail_0df4d563-7041-4beb-bfc7-aaa70e0a31b3_TX_PR_b_16_.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Apowersoft\Video Editor Pro\Video Editor Pro.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=1D1304 HiSuiteDownLoader.exe
+  2013-08-22 06:57:05Z - C:\Program Files\AVAST Software\Avast\AvastUI.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Winrar\Uninstall.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\HiSuite\userdata\hwtools\hdbtransport.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\epson\MyEpson Portal\mep.exe
+  2013-08-22 06:57:05Z - C:\Windows\System32\spool\drivers\x64\3\E_GATO46.EXE
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Winrar\WinRAR.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\python-3.7.4.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Programs\Python\Python37-32\python.exe
+  2013-08-22 06:57:05Z - C:\Users\Usuario\Anaconda3\pythonw.exe
+  2013-08-22 06:57:05Z - C:\Users\Usuario\Anaconda3\python.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Programs\Python\Python37-32\pythonw.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Anaconda2-2019.07-Windows-x86_64.exe
+  2013-08-22 06:57:05Z - C:\Users\Usuario\Anaconda2\pythonw.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Canon\MyPrinter\BJMyDgn.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Anaconda2\Uninstall-Anaconda2.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Package Cache\{b66087e3-469e-4725-8b9b-f0981244afea}\python-3.7.4.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Apowersoft\Video Editor Pro\unins000.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Wondershare\Wondershare Filmora\unins000.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\python-3.8.1.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Anaconda3-2019.10-Windows-x86_64.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\fuu_-win-g3000-1_1-ea7\Printer Update.exe
+  2013-08-22 06:57:05Z - C:\Users\Usuario\Downloads\putty-64bit-0.73-installer.msi
+  2013-08-22 06:57:05Z - C:\Program Files\PuTTY\psftp.exe
+  2013-08-22 06:57:05Z - C:\Program Files\PuTTY\puttygen.exe
+  2013-08-22 06:57:05Z - C:\Program Files\PuTTY\pageant.exe
+  2013-08-22 06:57:05Z - C:\Program Files\PuTTY\putty.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Package Cache\{4e3c79d9-fd08-4d23-ba50-d6f19553b0ee}\python-3.8.1.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Shape Collage\Uninstall.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Microsoft\Teams\current\Teams.exe
+  2013-08-22 06:57:05Z - C:\Users\Usuario\AppData\Local\Programs\Microsoft VS Code\Code.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Programs\Microsoft VS Code\unins000.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\WhatsApp\Update.exe
+  2013-08-21 23:53:01Z - C:\Program Files\K-Lite Codec Pack x64\unins000.exe
+  2013-08-22 06:57:05Z - C:\Windows\System32\spool\drivers\x64\3\E_IINSGUL.EXE
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Teams_windows_x64.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\anaconda3\Uninstall-Anaconda3.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Package Cache\{3182483d-078b-48fa-92c2-798baa1fe27d}\python-3.8.2.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\Teams_windows_x64 (2).exe
+  2013-08-22 06:57:05Z - C:\Program Files\JetBrains\PyCharm Community Edition 2020.1.1\bin\pycharm64.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Package Cache\{6b043b92-4219-49e9-98cb-80558c6db697}\python-3.7.7-amd64.exe
+  2013-08-21 23:53:01Z - C:\Program Files\JetBrains\PyCharm Community Edition 2020.1.1\bin\Uninstall.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\miniconda3\Uninstall-Miniconda3.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+  2013-08-21 23:53:01Z - C:\ProgramData\Package Cache\{7d607fb4-7e28-4c7a-a92f-3fcdaf555faf}\VC_redist.x64.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Microsoft\Teams\Update.exe
+  2013-08-21 23:53:01Z - C:\ProgramData\Package Cache\{86380aef-fd23-4fc3-8723-a98ccad8f2c6}\VC_redist.x86.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32\pythonw.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32\python.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\anaconda3.1\pythonw.exe
+  2013-08-21 23:53:01Z - C:\Windows\py.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\VirtualBox-6.1.10-138449-Win.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Xming\Xming.exe
+  2013-08-22 06:57:05Z - C:\Windows\Temp\OfficeClickToRun.exe.bak
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Desktop\RESET EPSON-L100-L210-L300-L350-L355\Adjprogcracked.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Xming\unins000.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Discord\Update.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Git\git-bash.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\root\Office16\ONENOTE.EXE
+  2013-08-22 06:57:05Z - C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\root\Office16\MSPUB.EXE
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\root\Office16\POWERPNT.EXE
+  2013-08-22 06:57:05Z - C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\nmap-7.91-setup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Nmap\zenmap.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Cyberduck\Cyberduck.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\FileZilla FTP Client\filezilla.exe
+  2013-08-22 06:57:05Z - C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\anaconda3.1\Uninstall-Anaconda3.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32\Scripts\pip.exe
+  2013-08-21 23:53:01Z - C:\Users\Usuario\AppData\Local\Microsoft\OneDrive\StandaloneUpdater\OneDriveSetup.exe
+  2013-08-21 23:53:01Z - C:\ProgramData\Package Cache\{7ff82b99-bd95-4708-b3fc-00cee82877f0}\Cyberduck-Installer-7.7.0.33744.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\FileZilla FTP Client\uninstall.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\root\vfs\ProgramFilesCommonX86\Microsoft Shared\OFFICE16\MSOXMLED.EXE
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE
+  2013-08-21 23:53:01Z - C:\Users\Usuario\Downloads\RegRipper3.0-master\rr.exe
+----------------------------------------
+appkeys v.20200517
+(NTUSER.DAT, Software) Extracts AppKeys entries.
+
+----------------------------------------
+applets v.20200525
+(NTUSER.DAT) Gets contents of user's Applets key
+
+Applets
+Software\Microsoft\Windows\CurrentVersion\Applets
+LastWrite Time 2017-02-01 02:29:54Z
+
+Software\Microsoft\Windows\CurrentVersion\Applets\Paint\Recent File List
+LastWrite Time 2020-11-15 00:57:27Z
+  File1 -> C:\Users\Usuario\Pictures\65293083_1222943111207992_2949881498506887168_n.jpg
+  File2 -> C:\Users\Usuario\Desktop\imagenes\20190513_104551.jpg
+  File3 -> C:\Users\Usuario\Desktop\sara tareas\lalala\Sin título.png
+  File4 -> C:\Users\Usuario\Downloads\41860742_258906424809666_5006788190359519232_n.jpg
+
+Software\Microsoft\Windows\CurrentVersion\Applets\Regedit
+LastWrite Time 2016-08-04 05:57:24Z
+----------------------------------------
+apppaths v.20200511
+(NTUSER.DAT,Software) Gets content of App Paths subkeys
+
+----------------------------------------
+Software\Microsoft\IntelliPoint\AppSpecific not found.
+----------------------------------------
+appx v.20200427
+(NTUSER.DAT, USRCLASS.DAT) Checks for persistence via Universal Windows Platform Apps
+
+----------------------------------------
+arpcache v.20200515
+(NTUSER.DAT) Retrieves CurrentVersion\App Management\ARPCache entries
+
+Software\Microsoft\Windows\CurrentVersion\App Management\ARPCache not found.
+----------------------------------------
+attachmgr v.20200525
+(NTUSER.DAT) Checks user's keys that manage the Attachment Manager functionality
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Associations not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Attachments not found.
+
+----------------------------------------
+cached v.20200525
+(NTUSER.DAT) Gets cached Shell Extensions from NTUSER.DAT hive
+
+Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached
+LastWrite Time 2020-11-16 22:49:02Z
+
+2013-08-21 23:50:43Z  First Load: {4234D49B-0245-4DF3-B780-3893943456E1} (IShellFolder)
+2013-08-21 23:53:45Z  First Load: {40DD6E20-7C17-11CE-A804-00AA003CA9F6} (IShellCopyHookW)
+2013-08-21 23:54:16Z  First Load: {289AF617-1CC3-42A6-926C-E6A863F0E3BA} (IDelegateFolder)
+2013-08-21 23:54:16Z  First Load: {35786D3C-B075-49B9-88DD-029876E11C01} (IDelegateFolder)
+2013-08-21 23:55:55Z  First Load: {ED228FDF-9EA8-4870-83B1-96B02CFE0D52} (IShellFolder)
+2013-08-21 23:56:07Z  First Load: {04731B67-D933-450A-90E6-4ACD2E9408FE} (IDelegateFolder)
+2013-08-21 23:56:07Z  First Load: {98F275B4-4FFF-11E0-89E2-7B86DFD72085} (IShellFolder)
+2013-08-21 23:56:10Z  First Load: {C7657C4A-9F68-40FA-A4DF-96BC08EB3551} ({E357FCCD-A995-4576-B01F-234630154E96})
+2013-08-21 23:56:10Z  First Load: {E345F35F-9397-435C-8F95-4E922C26259E} (IShellFolder)
+2013-08-21 23:56:10Z  First Load: {B2952B16-0E07-4E5A-B993-58C52CB94CAE} (IShellFolder)
+2013-08-21 23:56:10Z  First Load: {871C5380-42A0-1069-A2EA-08002B30309D} (IShellFolder)
+2013-08-21 23:56:14Z  First Load: {2227A280-3AEA-1069-A2DE-08002B30309D} (IShellFolder)
+2013-08-21 23:57:35Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IShellLinkW)
+2013-08-21 23:57:40Z  First Load: {FCF8EBCB-D6CD-4F87-BE38-D40B90EF2FB8} (IExecuteCommand)
+2013-08-21 23:57:41Z  First Load: {F02C1A0D-BE21-4350-88B0-7367FC96EF3C} (IShellFolder)
+2013-08-21 23:57:42Z  First Load: {596AB062-B4D2-4215-9F74-E9109B0A8153} (IContextMenu)
+2013-08-21 23:57:42Z  First Load: {474C98EE-CF3D-41F5-80E3-4AAB0AB04301} (IContextMenu)
+2013-08-21 23:57:43Z  First Load: {B41DB860-64E4-11D2-9906-E49FADC173CA} (IContextMenu)
+2013-08-21 23:57:43Z  First Load: {85BBD920-42A0-1069-A2E4-08002B30309D} (IContextMenu)
+2013-08-21 23:57:43Z  First Load: {11DBB47C-A525-400B-9E80-A54615A090C0} (IExecuteCommand)
+2013-08-21 23:57:43Z  First Load: {B7373566-8FF2-45D8-AF1F-DA39F289BCF9} (IExplorerCommand)
+2013-08-21 23:57:44Z  First Load: {9113A02D-00A3-46B9-BC5F-9C04DADDD5D7} (IDelegateFolder)
+2013-08-21 23:57:44Z  First Load: {D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D} (IShellIconOverlayIdentifier)
+2013-08-21 23:57:44Z  First Load: {4E77131D-3629-431C-9818-C5679DC83E81} (IShellIconOverlayIdentifier)
+2013-08-21 23:57:48Z  First Load: {2854F705-3548-414C-A113-93E27C808C85} (IContextMenu)
+2013-08-21 23:57:48Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IExtractIconW)
+2015-08-07 04:41:42Z  First Load: {BD7A2E7B-21CB-41B2-A086-B309680C6B7E} (IShellFolder)
+2015-08-07 04:42:38Z  First Load: {44090B31-CDF9-4AD1-8182-DB5DA3627974} (IExecuteCommand)
+2015-08-07 04:42:48Z  First Load: {9C73F5E5-7AE7-4E32-A8E8-8D23B85255BF} (IShellFolder)
+2015-08-07 17:14:01Z  First Load: {513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8} ({000214E9-0000-0000-C000-000000000046})
+2015-08-07 17:14:01Z  First Load: {B41DB860-64E4-11D2-9906-E49FADC173CA} ({000214E9-0000-0000-C000-000000000046})
+2015-08-07 17:14:02Z  First Load: {85BBD920-42A0-1069-A2E4-08002B30309D} ({000214E9-0000-0000-C000-000000000046})
+2015-08-07 17:14:02Z  First Load: {7444C719-39BF-11D1-8CD9-00C04FC29D45} ({000214E9-0000-0000-C000-000000000046})
+2015-08-07 17:14:03Z  First Load: {748F920F-FB24-4D09-B360-BAF6F199AD6D} ({000214E9-0000-0000-C000-000000000046})
+2015-08-07 17:14:03Z  First Load: {1F2E5C40-9550-11CE-99D2-00AA006E086C} ({000214E9-0000-0000-C000-000000000046})
+2015-08-07 17:14:03Z  First Load: {3EA48300-8CF6-101B-84FB-666CCB9BCD32} ({000214E9-0000-0000-C000-000000000046})
+2015-08-07 17:14:03Z  First Load: {596AB062-B4D2-4215-9F74-E9109B0A8153} ({000214E9-0000-0000-C000-000000000046})
+2015-08-07 17:14:03Z  First Load: {7EFA68C6-086B-43E1-A2D2-55A113531240} ({000214E9-0000-0000-C000-000000000046})
+2015-08-07 17:15:16Z  First Load: {2C673043-FC2E-4D67-8920-517D24DEBD2C} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2015-08-07 17:15:37Z  First Load: {A38B883C-1682-497E-97B0-0A3A9E801682} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2015-08-07 17:15:40Z  First Load: {E44E9428-BDBC-4987-A099-40DC8FD255E7} (IExecuteCommand)
+2015-08-07 17:15:41Z  First Load: {FF393560-C2A7-11CF-BFF4-444553540000} (IShellFolder)
+2013-08-21 17:25:17Z  First Load: {17FE9752-0B5A-4665-84CD-569794602F5C} (IExecuteCommand)
+2013-08-21 17:27:53Z  First Load: {C2B136E2-D50E-405C-8784-363C582BF43E} (IDelegateFolder)
+2013-08-21 17:28:00Z  First Load: {49C407EF-78B9-4C82-A40B-2FE02F8E771D} ({E357FCCD-A995-4576-B01F-234630154E96})
+2013-08-21 17:28:20Z  First Load: {98859A6C-02F2-43FC-ADB0-CE6D10F1A1AA} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2013-08-21 17:31:39Z  First Load: {D8F0F5E7-11C5-4E95-BBFF-0F110C0221C4} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2013-08-21 17:39:28Z  First Load: {18277AB8-9922-4D26-A4F5-1D10069D106A} (IExecuteCommand)
+2015-08-07 18:01:07Z  First Load: {006E61DF-1A43-4F2C-B26F-780BAEA3A92D} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2015-08-07 18:27:16Z  First Load: {11016101-E366-4D22-BC06-4ADA335C892B} (IShellFolder)
+2015-08-07 18:37:07Z  First Load: {B41DB860-8EE4-11D2-9906-E49FADC173CA} (IContextMenu)
+2015-08-07 18:37:08Z  First Load: {888DCA60-FC0A-11CF-8F0F-00C04FD7D062} (IDropTarget)
+2015-08-07 18:37:08Z  First Load: {F81E9010-6EA4-11CE-A7FF-00AA003CA9F6} (IContextMenu)
+2015-08-07 18:37:08Z  First Load: {1D27F844-3A1F-4410-85AC-14651078412D} (IContextMenu)
+2015-08-07 18:37:09Z  First Load: {E44E9428-BDBC-4987-A099-40DC8FD255E7} ({6A283FE2-ECFA-4599-91C4-E80957137B26})
+2015-08-07 18:40:04Z  First Load: {2781761E-28E1-4109-99FE-B9D127C57AFE} ({56FFCC30-D398-11D0-B2AE-00A0C908FA49})
+2015-08-07 22:38:22Z  First Load: {A9249952-F4C6-4BCD-9B44-6A5BA9B5209E} (IExecuteCommand)
+2015-08-07 22:54:06Z  First Load: {5C65F4B0-3651-4514-B207-D10CB699B14B} (IExecuteCommand)
+2015-08-08 01:44:57Z  First Load: {ED1D0FDF-4414-470A-A56D-CFB68623FC58} (IExecuteCommand)
+2015-08-08 01:45:16Z  First Load: {F81B1B56-7613-4EE4-BC05-1FAB5DE5C07E} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2015-08-08 02:53:32Z  First Load: {E61BF828-5E63-4287-BEF1-60B1A4FDE0E3} (IContextMenu)
+2015-08-08 02:53:32Z  First Load: {99D353BC-C813-41EC-8F28-EAE61E702E57} (IExplorerCommand)
+2015-08-08 02:53:32Z  First Load: {09A47860-11B0-4DA5-AFA5-26D86198A780} (IContextMenu)
+2015-08-08 02:53:33Z  First Load: {23170F69-40C1-278A-1000-000100020000} (IContextMenu)
+2015-08-08 02:53:33Z  First Load: {9E56BE60-C50F-11CF-9A2C-00A0C90A90CE} (IDropTarget)
+2015-08-08 02:53:33Z  First Load: {ECF03A32-103D-11D2-854D-006008059367} (IDropTarget)
+2015-08-08 02:53:33Z  First Load: {9E56BE61-C50F-11CF-9A2C-00A0C90A90CE} (IDropTarget)
+2015-08-08 02:54:23Z  First Load: {8BA85C75-763B-4103-94EB-9470F12FE0F7} (IShellIconOverlayIdentifier)
+2015-08-08 02:54:42Z  First Load: {CD55129A-B1A1-438E-A425-CEBC7DC684EE} (IShellIconOverlayIdentifier)
+2015-08-08 02:54:42Z  First Load: {E768CD3B-BDDC-436D-9C13-E1B39CA257B1} (IShellIconOverlayIdentifier)
+2015-08-08 02:55:12Z  First Load: {E7E4BC40-E76A-11CE-A9BB-00AA004AE837} (IShellFolder)
+2015-08-08 03:12:16Z  First Load: {993BE281-6695-4BA5-8A2A-7AACBFAAB69E} ({0000013A-0000-0000-C000-000000000046})
+2015-08-08 03:52:12Z  First Load: {BD472F60-27FA-11CF-B8B4-444553540000} (IContextMenu)
+2015-08-08 03:52:20Z  First Load: {D6791A63-E7E2-4FEE-BF52-5DED8E86E9B8} (IContextMenu)
+2015-08-08 03:52:20Z  First Load: {59099400-57FF-11CE-BD94-0020AF85B590} (IContextMenu)
+2015-08-08 20:29:10Z  First Load: {C5AEC3EC-E812-4677-A9A7-4FEE1F9AA000} ({E357FCCD-A995-4576-B01F-234630154E96})
+2015-08-08 21:37:06Z  First Load: {C41662BB-1FA0-4CE0-8DC5-9B7F8279FF97} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2015-08-08 21:37:08Z  First Load: {C120DE80-FDE4-49F5-A713-E902EF062B8A} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2015-08-08 21:48:26Z  First Load: {FFE2A43C-56B9-4BF5-9A79-CC6D4285608A} (IContextMenu)
+2015-08-08 21:48:26Z  First Load: {4ED3A719-CEA8-4BD9-910D-E252F997AFC2} (IExecuteCommand)
+2015-08-08 21:48:50Z  First Load: {9E175B8B-F52A-11D8-B9A5-505054503030} (IDBProperties)
+2015-08-09 18:28:33Z  First Load: {AB968F1E-E20B-403A-9EB8-72EB0EB6797E} (IExtractIconW)
+2015-08-10 11:47:55Z  First Load: {7AD84985-87B4-4A16-BE58-8B72A5B390F7} (IContextMenu)
+2015-08-15 18:16:16Z  First Load: {0BF754AA-C967-445C-AB3D-D8FDA9BAE7EF} (IContextMenu)
+2015-08-15 23:27:03Z  First Load: {FFE2A43C-56B9-4BF5-9A79-CC6D4285608A} (IDropTarget)
+2015-08-16 20:24:12Z  First Load: {F81E9010-6EA4-11CE-A7FF-00AA003CA9F6} ({000214E9-0000-0000-C000-000000000046})
+2015-08-16 20:24:12Z  First Load: {4A7DED0A-AD25-11D0-98A8-0800361B1103} ({000214E9-0000-0000-C000-000000000046})
+2015-08-16 20:24:12Z  First Load: {55B3A0BD-4D28-42FE-8CFB-FA3EDFF969B8} ({000214E9-0000-0000-C000-000000000046})
+2015-08-16 20:24:12Z  First Load: {7988B573-EC89-11CF-9C00-00AA00A14F56} ({000214E9-0000-0000-C000-000000000046})
+2015-08-16 20:24:12Z  First Load: {ECCDF543-45CC-11CE-B9BF-0080C87CDBA6} ({000214E9-0000-0000-C000-000000000046})
+2015-08-26 01:42:28Z  First Load: {289AF617-1CC3-42A6-926C-E6A863F0E3BA} (IShellFolder)
+2015-08-26 01:58:12Z  First Load: {AEB16279-B750-48F1-8586-97956060175A} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2015-08-28 03:11:33Z  First Load: {C5AEC3EC-E812-4677-A9A7-4FEE1F9AA000} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2015-08-30 04:36:57Z  First Load: {CACA7238-3C7E-4A25-AD73-DE1A4F8C7214} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2015-08-30 15:52:43Z  First Load: {BD84B380-8CA2-1069-AB1D-08000948F534} (IShellFolder)
+2015-09-02 01:56:48Z  First Load: {1D2680C9-0E2A-469D-B787-065558BC7D43} (IShellFolder)
+2015-09-02 01:56:49Z  First Load: {88C6C381-2E85-11D0-94DE-444553540000} (IShellFolder)
+2015-09-02 01:56:49Z  First Load: {F5175861-2688-11D0-9C5E-00AA00A45957} (IShellFolder)
+2015-09-02 21:01:24Z  First Load: {97E467B4-98C6-4F19-9588-161B7773D6F6} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2015-09-03 02:38:21Z  First Load: {3F30C968-480A-4C6C-862D-EFC0897BB84B} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2015-09-03 02:49:58Z  First Load: {7B81BE6A-CE2B-4676-A29E-EB907A5126C5} (IShellFolder)
+2015-09-03 02:52:59Z  First Load: {0CD7A5C0-9F37-11CE-AE65-08002B2E1262} (IShellFolder)
+2015-09-03 02:55:52Z  First Load: {B41DB860-64E4-11D2-9906-E49FADC173CA} (IDropTarget)
+2015-09-03 03:18:23Z  First Load: {B26388EA-AD62-430F-AF5C-CFA63BFE94A6} ({3718BB4E-A412-4194-B4F3-CBBAD67AD740})
+2015-09-03 03:44:43Z  First Load: {FF609CC7-D34D-4049-A1AA-2293517FFCC6} (IExecuteCommand)
+2015-09-03 19:42:38Z  First Load: {15FC1BAC-8D83-4E87-8CC2-A70C9F66F943} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2015-09-03 19:44:05Z  First Load: {DAF95313-E44D-46AF-BE1B-CBACEA2C3065} (IShellFolder)
+2015-09-04 17:38:50Z  First Load: {7007ACC7-3202-11D1-AAD2-00805FC1270E} (IShellFolder)
+2015-09-04 20:58:03Z  First Load: {F0152790-D56E-4445-850E-4F3117DB740C} ({000214E9-0000-0000-C000-000000000046})
+2015-09-22 01:48:48Z  First Load: {B28AA736-876B-46DA-B3A8-84C5E30BA492} (IShellFolder)
+2015-09-25 03:23:08Z  First Load: {9343812E-1C37-4A49-A12E-4B2D810D956B} (IShellFolder)
+2015-09-27 22:26:59Z  First Load: {A55803CC-4D53-404C-8557-FD63DBA95D24} ({C1FB73D0-EC3A-4BA2-B512-8CDB9187B6D1})
+2015-09-30 22:59:37Z  First Load: {863AA9FD-42DF-457B-8E4D-0DE1B8015C60} (IShellFolder)
+2015-09-30 23:52:53Z  First Load: {E88DCCE0-B7B3-11D1-A9F0-00AA0060FA31} (IShellFolder)
+2015-10-01 00:29:08Z  First Load: {1CD0938D-1AC1-49DE-AA04-F2C92D4A02D1} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2015-10-02 19:04:23Z  First Load: {8A734961-C4AA-4741-AC1E-791ACEBF5B39} (IContextMenu)
+2015-10-02 23:41:53Z  First Load: {21F5E992-636E-48DC-9C47-5B05DEF82372} ({E357FCCD-A995-4576-B01F-234630154E96})
+2015-10-03 01:52:19Z  First Load: {472083B0-C522-11CF-8763-00608CC02F24} (IShellIconOverlayIdentifier)
+2015-10-03 01:53:32Z  First Load: {472083B0-C522-11CF-8763-00608CC02F24} (IContextMenu)
+2015-10-03 02:24:23Z  First Load: {CEEFEA1B-3E29-4EF1-B34C-FEC79C4F70AF} ({01B8912E-05CD-4EB2-8B4B-9112E8C2A8BE})
+2015-10-03 02:28:25Z  First Load: {435E5DF5-2510-463C-B223-BDA47006D002} (IContextMenu)
+2015-10-03 02:32:02Z  First Load: {99325BBE-E0A7-48A1-A23E-716582D09FEF} (IExecuteCommand)
+2015-10-03 02:35:52Z  First Load: {A8A91A66-3A7D-4424-8D24-04E180695C7A} (IShellFolder)
+2015-10-03 02:39:01Z  First Load: {94AB5C27-C954-4218-B0A1-29640412EFBE} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2015-10-03 02:51:35Z  First Load: {7A80E4A8-8005-11D2-BCF8-00C04F72C717} (IExtractIconW)
+2015-10-03 03:00:14Z  First Load: {B3C418F8-922B-4FAF-915E-59BC14448CF7} (IContextMenu)
+2015-10-07 22:24:17Z  First Load: {2DECDA10-F265-4B42-9F2A-4C8BF8C0081D} ({786989D9-BE4F-4D71-BA23-FECBBD36E9CB})
+2015-10-11 01:27:39Z  First Load: {00F346CB-35A4-465B-8B8F-65A29DBAB1F6} (IDropTarget)
+2015-10-11 01:40:07Z  First Load: {0E32D9F9-10FB-4B90-8B24-826B07B084D0} (IExplorerCommand)
+2015-10-11 01:40:07Z  First Load: {69375D35-B310-40FD-A7DC-9548E1DBC3B5} (IExplorerCommand)
+2015-10-11 01:40:07Z  First Load: {35A5E985-12E6-46EE-B385-E887F3940FB0} (IExplorerCommand)
+2015-10-11 03:00:55Z  First Load: {9C07355E-C50A-45D2-B4A3-0A8235F8047F} (IExplorerCommand)
+2015-10-11 03:00:56Z  First Load: {BBB9389D-CB46-4855-ADA6-4570E7342B3C} (IExplorerCommand)
+2015-10-11 03:00:56Z  First Load: {C139C040-532D-451B-80CA-44D1F0839D2A} (IExplorerCommand)
+2015-10-11 03:00:56Z  First Load: {E2765AC3-564C-40F9-AC12-CD393FBAAB0F} (IExplorerCommand)
+2015-10-11 03:01:38Z  First Load: {FFE2A43C-56B9-4BF5-9A79-CC6D4285608A} (IExplorerCommandState)
+2015-10-11 03:01:39Z  First Load: {939D20AC-8036-406F-BD5C-BF672896BD71} (IExplorerCommand)
+2015-10-17 01:18:59Z  First Load: {84F66100-FF7C-4FB4-B0C0-02CD7FB668FE} ({8895B1C6-B41F-4C1C-A562-0D564250836F})
+2015-10-22 00:56:07Z  First Load: {E46787A1-4629-4423-A693-BE1F003B2742} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2015-10-25 17:44:21Z  First Load: {65235197-874B-4A07-BDC5-E65EA825B718} ({8895B1C6-B41F-4C1C-A562-0D564250836F})
+2015-10-25 17:44:24Z  First Load: {1B96FAD8-1C10-416E-8027-6EFF94045F6F} ({8895B1C6-B41F-4C1C-A562-0D564250836F})
+2015-10-27 00:54:11Z  First Load: {031EE060-67BC-460D-8847-E4A7C5E45A27} ({8895B1C6-B41F-4C1C-A562-0D564250836F})
+2015-11-06 02:11:51Z  First Load: {60FD46DE-F830-4894-A628-6FA81BC0190D} (IDropTarget)
+2015-11-09 19:51:20Z  First Load: {8BE9F5EA-E746-4E47-AD57-3FB191CA1EED} ({358B0897-FF98-48E7-9CA7-0F1D980BFB56})
+2015-11-17 05:37:12Z  First Load: {77597368-7B15-11D0-A0C2-080036AF3F03} (IContextMenu)
+2015-11-18 00:21:52Z  First Load: {1A184871-359E-4F67-AAD9-5B9905D62232} (IContextMenu)
+2015-11-18 00:22:08Z  First Load: {B8BE1E19-B9E4-4EBB-B7F6-A8FE1B3871E0} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2015-11-23 05:01:42Z  First Load: {F3F5824C-AD58-4728-AF59-A1EBE3392799} (IShellFolder)
+2015-12-04 04:51:03Z  First Load: {AB9CF9F8-8A96-4F9D-BF21-CE85714C3A47} (IShellIconOverlayIdentifier)
+2015-12-04 04:51:03Z  First Load: {853B7E05-C47D-4985-909A-D0DC5C6D7303} (IShellIconOverlayIdentifier)
+2015-12-04 04:51:03Z  First Load: {42D38F2E-98E9-4382-B546-E24E4D6D04BB} (IShellIconOverlayIdentifier)
+2015-12-04 18:01:02Z  First Load: {2A118EB5-5797-4F5E-8B3D-F4ECBA3C98E4} (IContextMenu)
+2015-12-04 20:01:53Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IContextMenu)
+2015-12-15 02:55:29Z  First Load: {4C8CC9CB-80CA-4E16-9F60-F5EB55092361} (IExplorerCommand)
+2015-12-15 02:55:29Z  First Load: {7B0C11A0-2FAF-40D4-9FE5-28FA27C85442} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {3613F1D2-C9A5-4F41-A070-E5BB823B2E5B} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {10E59D21-3860-4ED8-BD52-883E116A892E} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {DF46C02A-3568-4765-AAD3-88F5E1D42F92} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {C7F2FB0F-ACC2-4DDF-9D8A-5E6E80D61024} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {7C127AC8-EC8D-40F2-91D0-B791CFC2397B} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {A38E6420-19EC-490C-B4BF-51673C360213} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {87AB8051-37BD-4E70-83C0-1E4F9AE1D37D} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {576C5669-E07F-4A1B-9A7A-8F85D944283B} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {652527C4-4A72-4BD3-BFAB-4B06AB172D7C} (IExplorerCommand)
+2015-12-15 02:55:30Z  First Load: {CC3FA696-93B8-4745-B935-0599ACB97747} (IExplorerCommand)
+2016-01-10 22:51:00Z  First Load: {2DECDA10-F265-4B42-9F2A-4C8BF8C0081D} ({92AA9AC8-EA08-4331-A3C4-0E46890F7CFD})
+2016-01-20 02:43:13Z  First Load: {0C08E2BB-D10B-4CC9-B1B3-701F5BE9D6EC} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2016-01-23 23:50:30Z  First Load: {E2FB4720-F45F-4A3C-8CB2-2060E12425C3} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2016-01-26 22:00:29Z  First Load: {21F5E992-636E-48DC-9C47-5B05DEF82372} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2016-01-29 01:48:08Z  First Load: {42071712-76D4-11D1-8B24-00A0C9068FF3} ({000214E9-0000-0000-C000-000000000046})
+2016-01-29 01:48:08Z  First Load: {42071713-76D4-11D1-8B24-00A0C9068FF3} ({000214E9-0000-0000-C000-000000000046})
+2016-01-29 01:48:08Z  First Load: {5DB2625A-54DF-11D0-B6C4-0800091AA605} ({000214E9-0000-0000-C000-000000000046})
+2016-01-29 01:48:08Z  First Load: {41E300E0-78B6-11CE-849B-444553540000} ({000214E9-0000-0000-C000-000000000046})
+2016-02-02 19:06:23Z  First Load: {FB314ED9-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2016-02-02 19:06:23Z  First Load: {FB314EDA-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2016-02-02 19:06:23Z  First Load: {FB314EDD-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2016-02-02 19:06:23Z  First Load: {FB314EDE-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2016-02-02 19:06:23Z  First Load: {FB314EDB-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2016-02-02 19:06:23Z  First Load: {FB314EDF-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2016-02-02 19:06:23Z  First Load: {FB314EDC-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2016-02-02 19:06:23Z  First Load: {FB314EE0-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2016-02-02 19:08:39Z  First Load: {FBC9D74C-AF55-4309-9FB2-C426E071637F} (IShellCopyHookW)
+2016-02-02 20:02:51Z  First Load: {ECD97DE5-3C8F-4ACB-AEEE-CCAB78F7711C} (IContextMenu)
+2016-02-03 18:55:13Z  First Load: {005A3A96-BAC4-4B0A-94EA-C0CE100EA736} ({C1FB73D0-EC3A-4BA2-B512-8CDB9187B6D1})
+2016-02-04 20:35:40Z  First Load: {005A3A96-BAC4-4B0A-94EA-C0CE100EA736} (IDropTarget)
+2016-02-14 18:11:47Z  First Load: {5635493F-7D77-4372-A839-8AD89F5B3726} (IContextMenu)
+2016-02-16 20:42:59Z  First Load: {1E589E9D-8A8D-46D9-A2F9-E6D4F8161EE9} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2016-03-01 21:34:37Z  First Load: {C54D193E-4FA7-4E15-92C7-43D231604363} ({CEDCBD91-E5AC-4A58-8BEC-F6049EF73C41})
+2016-03-09 23:58:41Z  First Load: {056D528D-CE28-4194-9BA3-BA2E9197FF8C} (IShellIconOverlayIdentifier)
+2016-03-09 23:58:41Z  First Load: {05B38830-F4E9-4329-978B-1DD28605D202} (IShellIconOverlayIdentifier)
+2016-03-09 23:58:41Z  First Load: {0596C850-7BDD-4C9D-AFDF-873BE6890637} (IShellIconOverlayIdentifier)
+2016-03-10 00:02:39Z  First Load: {0229E5E7-09E9-45CF-9228-0228EC7D5F17} (IContextMenu)
+2016-03-10 01:28:07Z  First Load: {80009818-F38F-4AF1-87B5-EADAB9433E58} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2016-03-11 05:13:22Z  First Load: {E4D5B02C-82A9-4363-BD02-8BA595200BCF} (IExplorerCommand)
+2016-03-11 05:13:23Z  First Load: {ED8C22CA-7722-464A-A522-7967ABF63C35} (IExplorerCommand)
+2016-03-11 05:13:23Z  First Load: {AA2E2C5B-0B0C-4ECC-B32B-3935269E0588} (IExplorerCommand)
+2016-03-11 05:13:23Z  First Load: {7B90DAE3-4AD0-4F0D-BE80-A26B296C3156} (IExplorerCommand)
+2016-03-11 05:13:23Z  First Load: {C98F3822-3658-4D75-8A25-6621665ECD56} (IExplorerCommand)
+2016-03-11 05:14:41Z  First Load: {B9F8535E-BF74-41C2-A6A6-7124442450DC} (IExecuteCommand)
+2016-03-22 03:27:17Z  First Load: {5FA29220-36A1-40F9-89C6-F4B384B7642E} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2016-03-29 19:40:28Z  First Load: {D509C21A-B88C-4AD1-8FAD-D6A7572728E5} (IExplorerCommand)
+2016-03-29 19:40:32Z  First Load: {263A4743-BC0D-40B6-8F7F-1B2135C204D2} (IExplorerCommand)
+2016-03-29 19:40:32Z  First Load: {E2F33E30-B587-4F08-BF1A-F28D0F41000A} (IExplorerCommand)
+2016-04-17 03:29:15Z  First Load: {E598560B-28D5-46AA-A14A-8A3BEA34B576} (IContextMenu)
+2016-05-09 23:11:51Z  First Load: {CB3D0F55-BC2C-4C1A-85ED-23ED75B5106B} (IContextMenu)
+2016-05-22 23:58:15Z  First Load: {9421DD08-935F-4701-A9CA-22DF90AC4EA6} ({EB0FE172-1A3A-11D0-89B3-00A0C90A90AC})
+2016-06-01 01:52:55Z  First Load: {BF85540E-0DF3-47BC-AC5D-305442704708} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2016-06-03 03:39:59Z  First Load: {C472004D-44FB-41E9-AC0A-7B920384A850} (IExplorerCommand)
+2016-06-03 03:39:59Z  First Load: {4876DC0E-F963-4227-9A8F-19872B75D231} (IExplorerCommand)
+2016-06-03 03:39:59Z  First Load: {361778EC-D741-4CE1-90F9-743435F56E13} (IExplorerCommand)
+2016-06-03 03:39:59Z  First Load: {A8A91A66-3A7D-4424-8D24-04E180695C7A} (IExplorerCommand)
+2016-07-23 18:28:45Z  First Load: {086F171D-5ED1-4ED2-B736-CFF3AD6A128E} (IContextMenu)
+2016-08-03 20:37:30Z  First Load: {6AD7D671-3199-4D10-9372-F44DAF1DC867} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2016-08-03 21:46:19Z  First Load: {CFBFAE00-17A6-11D0-99CB-00C04FD64497} ({AC60F6A0-0FD9-11D0-99CB-00C04FD64497})
+2016-08-15 01:02:05Z  First Load: {B5A60A9E-A4C7-4A93-AC6E-0B76D1D87DC4} (IContextMenu)
+2016-08-15 01:02:06Z  First Load: {0E6DAA63-DD4E-47CE-BF9D-FDB72ECE4A0D} (IContextMenu)
+2016-08-15 01:05:26Z  First Load: {675F097E-4C4D-11D0-B6C1-0800091AA605} ({000214E9-0000-0000-C000-000000000046})
+2016-08-15 01:05:26Z  First Load: {F37C5810-4D3F-11D0-B4BF-00AA00BBB723} ({000214E9-0000-0000-C000-000000000046})
+2016-08-15 01:18:10Z  First Load: {2D1F634B-BA35-4BA0-A3B4-B03AC5FE724A} (IContextMenu)
+2016-08-16 00:32:45Z  First Load: {5C0D19E4-A364-4EF6-9288-DBD194593879} ({000214E9-0000-0000-C000-000000000046})
+2016-08-16 00:32:45Z  First Load: {5F884992-EE6D-418B-9E6C-0C2A0FA94D17} ({000214E9-0000-0000-C000-000000000046})
+2016-08-16 00:32:45Z  First Load: {61F7B364-432C-4D04-BBC1-7FC1BF3807A8} ({000214E9-0000-0000-C000-000000000046})
+2016-08-16 00:32:45Z  First Load: {F77C0A7D-7395-45C5-BDFC-B096BF6C4DA0} ({000214E9-0000-0000-C000-000000000046})
+2016-09-11 02:11:32Z  First Load: {80FCA77A-FBCB-4F7D-BC84-547E3F79D618} ({E357FCCD-A995-4576-B01F-234630154E96})
+2016-09-11 02:11:32Z  First Load: {9A02E012-6303-4E1E-B9A1-630F802592C5} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2016-10-25 00:12:40Z  First Load: {AB968F1E-E20B-403A-9EB8-72EB0EB6797E} ({000214EB-0000-0000-C000-000000000046})
+2016-11-19 02:07:58Z  First Load: {42042206-2D85-11D3-8CFF-005004838597} (IExtractIconW)
+2016-11-19 02:07:59Z  First Load: {42042206-2D85-11D3-8CFF-005004838597} ({000214EB-0000-0000-C000-000000000046})
+2017-02-02 02:51:33Z  First Load: {FB314EE1-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2017-02-02 02:51:33Z  First Load: {FB314EE2-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2017-03-26 00:54:18Z  First Load: {1D5532BB-1E08-4002-8445-8BA35E462045} ({4D16BC13-22E4-4126-8CAE-705A7A9DD787})
+2017-05-20 19:06:52Z  First Load: {12F0008F-2113-482A-80B3-FD5E91C12313} (IShellFolder)
+2017-07-03 18:25:22Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} ({00021500-0000-0000-C000-000000000046})
+2017-08-12 20:49:48Z  First Load: {355822FC-86F1-4BE8-B5F0-A33736789641} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2017-08-13 02:31:35Z  First Load: {264FFAF3-9A9C-42B7-AEDB-34896CDBC7C1} (IExecuteCommand)
+2017-08-24 01:06:08Z  First Load: {76CCA200-8292-4BC5-B400-9265D00C1193} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2017-09-15 01:16:21Z  First Load: {45597C98-80F6-4549-84FF-752CF55E2D29} (IExecuteCommand)
+2017-10-16 20:55:59Z  First Load: {40DD6E20-7C17-11CE-A804-00AA003CA9F6} ({000214EF-0000-0000-C000-000000000046})
+2018-01-19 02:59:01Z  First Load: {01BE4CFB-129A-452B-A209-F9D40B3B84A5} ({0000013A-0000-0000-C000-000000000046})
+2018-01-19 03:28:33Z  First Load: {35C5242B-7455-4F9C-962B-369EA43ED6F3} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2018-05-27 22:07:41Z  First Load: {33154C99-BF49-443D-A73C-303A23ABBE97} ({0000013A-0000-0000-C000-000000000046})
+2018-05-28 02:33:56Z  First Load: {72B66649-3DBF-429F-BD6F-7774A9784B78} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2018-08-13 00:26:13Z  First Load: {5985FC23-2588-4D9A-B38B-7E7AFFAB3155} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2018-08-22 05:03:08Z  First Load: {01BE4CFB-129A-452B-A209-F9D40B3B84A5} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2018-09-28 02:35:48Z  First Load: {33154C99-BF49-443D-A73C-303A23ABBE97} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2018-11-04 01:07:55Z  First Load: {8D80504A-0826-40C5-97E1-EBC68F953792} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2018-11-19 20:10:58Z  First Load: {0875DCB6-C686-4243-9432-ADCCF0B9F2D7} (IShellFolder)
+2018-12-17 14:26:08Z  First Load: {94E03510-31B9-47A0-A44E-E932AC86BB17} ({C1FB73D0-EC3A-4BA2-B512-8CDB9187B6D1})
+2019-08-31 03:26:17Z  First Load: {BEA218D2-6950-497B-9434-61683EC065FE} (IDropTarget)
+2020-10-02 21:20:03Z  First Load: {0907616E-F5E6-48D8-9D61-A91C3D28106D} (IShellFolder)
+2020-11-14 16:24:34Z  First Load: {DB70412E-EEC9-479C-BBA9-BE36BFDDA41B} (IShellCopyHookW)
+2020-11-16 19:15:57Z  First Load: {138508BC-1E03-49EA-9C8F-EA9E1D05D65D} (IShellFolder)
+2020-11-16 22:49:02Z  First Load: {DB70412E-EEC9-479C-BBA9-BE36BFDDA41B} ({000214EF-0000-0000-C000-000000000046})
+----------------------------------------
+cmdproc v.20200515
+(NTUSER.DAT) Autostart - get Command Processor\AutoRun value from NTUSER.DAT hive
+
+Software\Microsoft\Command Processor
+LastWrite Time 2013-08-21 23:50:37Z
+AutoRun value not found.
+----------------------------------------
+comdlg32 v.20200517
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32
+LastWrite Time 2018-02-28 01:53:07Z
+CIDSizeMRU
+LastWrite: 2020-11-27 03:21:56Z
+Note: All value names are listed in MRUListEx order.
+
+  {4D209DC1-6CD9-4681-BAB3-756B64B3CFAD}
+  chrome.exe
+  {2977B9F5-2520-406C-B2F0-7C6958FAA16B}
+  pythonw.exe
+  {8FBEBE07-B1DB-4E03-85D9-AEC3FAA8762E}
+  notepad.exe
+  powershell_ise.exe
+  OpenWith.exe
+  {C6B06DFE-4CB6-4EF9-8564-20ACC0BDCC5A}
+  {E3E0FBAF-AF64-4CC9-B1CE-4B2B719F0242}
+  {A2DFFEF7-0C5D-4C05-9416-9664CCC19A48}
+  VirtualBox.exe
+  Code.exe
+  {C54F906C-1F03-49D2-A8BB-A6CBCAA65A0C}
+  {863805C1-26D6-47CD-BAC8-E2EC62508802}
+  {DC2CF870-A18E-4F0C-A9F4-894EE7297169}
+  Teams.exe
+  {3385313B-D5ED-4B10-9A14-5CCA744C6F5B}
+  {8F4B517C-6154-4E1E-96CD-758D8C75A166}
+  SCANUTILITY.exe
+  {60816642-4C14-4E10-8535-2DCC6ACF8512}
+  {F82C2777-CD55-4B20-AA43-405FB1F5A4DD}
+  Video Editor Pro.exe
+  {3CBF5DEB-A1B5-4A80-B8AC-36F79C2E782A}
+  {003CFABC-3138-413D-BC17-A0D8BD870D0F}
+  {DCA5A612-EAD8-4B45-A852-E5F7D4055031}
+  mspaint.exe
+  iexplore.exe
+  WINWORD.EXE
+  {4D7BD1C7-DEF0-4011-8C47-C58EE507D9D9}
+  {C7589A71-1635-46D6-896A-ACFF36B0E02D}
+  {CAE824DA-120E-4429-9E32-8EE7AAD63C7F}
+
+FirstFolder
+LastWrite time: 2018-09-29 04:11:28Z
+Note: All value names are listed in MRUListEx order.
+
+  C:\Windows\system32\mspaint.exe C:\Users\Usuario\Pictures 
+  C:\Program Files (x86)\Google\Chrome\Application\chrome.exe  
+
+LastVisitedPidlMRU
+LastWrite time: 2020-11-27 03:21:56Z
+Note: All value names are listed in MRUListEx order.
+
+  {4D209DC1-6CD9-4681-BAB3-756B64B3CFAD} - My Computer\C:\Users\Usuario\Documents
+  chrome.exe - My Computer\CLSID_Documents
+  {2977B9F5-2520-406C-B2F0-7C6958FAA16B} - My Computer\C:\Users\Usuario\Documents
+  pythonw.exe - Users\AppData\Local\Programs\Python\Python38-32
+  {8FBEBE07-B1DB-4E03-85D9-AEC3FAA8762E} - My Computer\CLSID_Documents
+  NOTEPAD.EXE - My Computer\CLSID_Documents
+  powershell_ise.exe - My Computer\CLSID_Documents
+  OpenWith.exe - My Computer\C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32
+  {A2DFFEF7-0C5D-4C05-9416-9664CCC19A48} - My Computer\CLSID_Documents
+  VirtualBox.exe - My Computer\CLSID_Downloads
+  {C54F906C-1F03-49D2-A8BB-A6CBCAA65A0C} - My Computer\CLSID_Documents
+  Teams.exe - FACULTAD\ALGEBRA
+  {8F4B517C-6154-4E1E-96CD-758D8C75A166} - My Computer\CLSID_Documents
+  Video Editor Pro.exe - My Computer\CLSID_Documents
+  {3CBF5DEB-A1B5-4A80-B8AC-36F79C2E782A} - My Computer\CLSID_Downloads
+  {60816642-4C14-4E10-8535-2DCC6ACF8512} - My Computer\C:\Users\Usuario\Desktop\sara tareas\lalala
+  mspaint.exe - sara tareas\lalala
+  iexplore.exe - My Computer\D:\Documentos\FIEL_MARS970101C87_20180926104156
+  {4D7BD1C7-DEF0-4011-8C47-C58EE507D9D9} - My Computer\CLSID_Downloads
+   - 
+  {3385313B-D5ED-4B10-9A14-5CCA744C6F5B} - My Computer\C:\Users\Usuario\AppData\Local\Microsoft\Office\UnsavedFiles
+  {CAE824DA-120E-4429-9E32-8EE7AAD63C7F} - My Computer\C:\Users\Usuario\Downloads
+
+OpenSavePidlMRU
+LastWrite time: 2020-10-04 22:16:31Z
+OpenSavePidlMRU\*
+LastWrite Time: Fri Nov 27 03:21:56 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\Usuario\Documents\kp.docx
+  My Computer\C:\Users\Usuario\Documents\df.docx
+  My Computer\CLSID_Documents\Daniela-Martinez_E16-20.pdf
+  My Computer\CLSID_Documents\Daniela-Martinez_16-20.pdf
+  My Computer\C:\Users\Usuario\Documents\Daniela-Martinez_E16-20.pdf
+  My Computer\CLSID_Pictures\127174454_1010465639473611_8080006969028150197_n.jpg
+  Beca 21\Comprobante.pdf
+  Beca 21\CEN120413T60_MAMA721113TWA_bf24b167-fca2-47bd-bbf5-9f735be137d1.pdf
+  Beca 21\CEN120413T60_MAMA721113TWA_f4c5713a-cfe0-4406-87f4-520efdff94ea.pdf
+  Beca 21\CEN120413T60_MAMA721113TWA_450af1a5-fc5e-4f16-b244-9a232ad4e168.pdf
+  Beca 21\Recibo 3.pdf
+  Beca 21\Recibo 2.pdf
+  Beca 21\Recibo 1.pdf
+  My Computer\CLSID_Desktop\Beca 21\acta.pdf
+  My Computer\CLSID_Downloads\Comprobante.jpg
+  My Computer\CLSID_Pictures\Recibo 3.jpg
+  My Computer\CLSID_Pictures\Recibo 2.jpg
+  My Computer\CLSID_Pictures\Recibo 1.jpg
+  My Computer\CLSID_Pictures\Comprobante.jpg
+  Tarea-4.zip
+
+OpenSavePidlMRU\asd
+LastWrite Time: Wed Sep  5 21:22:37 2018
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\Usuario\AppData\Local\Microsoft\Office\UnsavedFiles\Doc1((Unsaved-306885613189918944)).asd
+  My Computer\C:\Users\Usuario\AppData\Local\Microsoft\Office\UnsavedFiles\Universidad Autónoma de Nuevo León((Unsaved-306545553942496720)).asd
+
+OpenSavePidlMRU\cer
+LastWrite Time: Wed Sep 26 19:39:16 2018
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Documentos\FIEL_MARS970101C87_20180926104156\mars970101c87.cer
+
+OpenSavePidlMRU\dat
+LastWrite Time: Sat Aug 31 05:35:04 2019
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Downloads\tarea.dat
+
+OpenSavePidlMRU\doc
+LastWrite Time: Fri Sep  4 21:58:04 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Downloads\FORMATOS DE REGISTRO DE EQUIPOS DE TRABAJO - Malala Yusufzai.doc
+  My Computer\CLSID_Downloads\GUIA-DE-APRENDIZAJE-INGLES-PROGRESIVO-III-2018.doc
+
+OpenSavePidlMRU\docx
+LastWrite Time: Fri Nov 27 03:21:56 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\Usuario\Documents\kp.docx
+  My Computer\C:\Users\Usuario\Documents\df.docx
+  My Computer\C:\Users\Usuario\Documents\Tarea4.PC.docx
+  My Computer\C:\Users\Usuario\Documents\j.docx
+  My Computer\C:\Users\Usuario\Documents\g.docx
+  My Computer\CLSID_Documents\Tarea-6.docx
+  My Computer\C:\Users\Usuario\Documents\ja.docx
+  My Computer\C:\Users\Usuario\Documents\parcial2.docx
+  My Computer\C:\Users\Usuario\Documents\srrg.docx
+  My Computer\C:\Users\Usuario\Documents\dfgggf.docx
+  My Computer\CLSID_Documents\Propuesta.docx
+  My Computer\C:\Users\Usuario\Documents\fghk.docx
+  My Computer\C:\Users\Usuario\Documents\Unknown Type (0x36)
+  My Computer\C:\Users\Usuario\Documents\T10.docx
+  My Computer\CLSID_Documents\10.docx
+  My Computer\CLSID_Documents\7.docx
+  My Computer\CLSID_Documents\T8.docx
+  My Computer\CLSID_Documents\E8.docx
+  My Computer\C:\Users\Usuario\Documents\12-16.docx
+  My Computer\C:\Users\Usuario\Documents\Labs.docx
+
+OpenSavePidlMRU\exe
+LastWrite Time: Sat Nov 14 18:37:02 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32\pythonw.exe
+  JKarelRobot.exe
+
+OpenSavePidlMRU\FSO
+LastWrite Time: Sat May  9 06:14:28 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\FSO.FSO
+
+OpenSavePidlMRU\gif
+LastWrite Time: Thu May 17 21:42:28 2018
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\Usuario\Downloads\050bca922223a6bb5d56d5b163f1ee57.gif
+  My Computer\CLSID_Downloads\050bca922223a6bb5d56d5b163f1ee57.gif
+
+OpenSavePidlMRU\htm
+LastWrite Time: Sun Sep  2 03:00:58 2018
+Note: All value names are listed in MRUListEx order.
+
+  sara tareas\Peritaje Social.htm
+
+OpenSavePidlMRU\html
+LastWrite Time: Thu May 17 21:45:33 2018
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Downloads\normal-0-21-false-false-false-es-pe-x.html
+
+OpenSavePidlMRU\iso
+LastWrite Time: Fri Oct  2 20:39:54 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Downloads\kali-linux-2020.3-installer-i386.iso
+
+OpenSavePidlMRU\jpeg
+LastWrite Time: Sat Sep 29 04:44:49 2018
+Note: All value names are listed in MRUListEx order.
+
+  sara tareas\lalala\549416.jpeg
+  sara tareas\lalala\social.jpeg
+
+OpenSavePidlMRU\jpg
+LastWrite Time: Thu Nov 26 23:20:46 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Pictures\127174454_1010465639473611_8080006969028150197_n.jpg
+  My Computer\CLSID_Downloads\Comprobante.jpg
+  My Computer\CLSID_Pictures\Recibo 3.jpg
+  My Computer\CLSID_Pictures\Recibo 2.jpg
+  My Computer\CLSID_Pictures\Recibo 1.jpg
+  My Computer\CLSID_Pictures\Comprobante.jpg
+  My Computer\CLSID_Pictures\Moon.jpg
+  My Computer\CLSID_Pictures\descarga (2).jpg
+  My Computer\CLSID_Pictures\Unknown Type (0x36)
+  My Computer\CLSID_Pictures\photo.jpg
+  My Computer\CLSID_Pictures\estacion-catorce.jpg
+  My Computer\CLSID_Pictures\descarga (1).jpg
+  My Computer\CLSID_Pictures\descarga.jpg
+  My Computer\CLSID_Pictures\65293083_1222943111207992_2949881498506887168_n.jpg
+  My Computer\CLSID_Documents\82c261b4-89af-424c-81f4-2afc0fc86348.jpg
+  My Computer\CLSID_Downloads\81283812_118170833014948_8215609698024423424_n.jpg
+  My Computer\CLSID_Downloads\27747920_467521013645595_132040776537420055_o.jpg
+  My Computer\CLSID_Downloads\29217076_10156698054518974_2209727475285608642_n.jpg
+  sara tareas\lalala\11-680x457.jpg
+  My Computer\C:\Users\Usuario\Desktop\sara tareas\lalala\iStock-494617082.jpg
+
+OpenSavePidlMRU\key
+LastWrite Time: Wed Sep 26 19:39:09 2018
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Documentos\FIEL_MARS970101C87_20180926104156\Claveprivada_FIEL_MARS970101C87_20180926_104156.key
+
+OpenSavePidlMRU\mp3
+LastWrite Time: Sat Nov 17 00:36:38 2018
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Downloads\video-1542081984 (online-audio-converter.com).mp3
+
+OpenSavePidlMRU\mp4
+LastWrite Time: Sat Nov 17 03:18:12 2018
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\VIDEO DE INGLES.mp4
+  My Computer\CLSID_Downloads\videoplayback (2).mp4
+  My Computer\CLSID_Downloads\video-1542422647.mp4
+  My Computer\CLSID_Downloads\video-1542081984.mp4
+  My Computer\CLSID_Downloads\videoplayback (1).mp4
+  My Computer\CLSID_Downloads\videoplayback.mp4
+  My Computer\C:\Users\Usuario\Downloads\¿Que causa el calentamiento global Video  Calentamiento global animado.mp4
+  My Computer\CLSID_Downloads\Día Mundial del Agua 2016 video oficial.mp4
+  My Computer\C:\Users\Usuario\Downloads\LLUVIA ÁCIDA.mp4
+  My Computer\C:\Users\Usuario\Downloads\EL DAÑO DE LA EXTRACCIÓN PETROLERA.mp4
+
+OpenSavePidlMRU\pdf
+LastWrite Time: Fri Nov 27 03:20:55 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\Daniela-Martinez_E16-20.pdf
+  My Computer\CLSID_Documents\Daniela-Martinez_16-20.pdf
+  My Computer\C:\Users\Usuario\Documents\Daniela-Martinez_E16-20.pdf
+  Beca 21\Comprobante.pdf
+  Beca 21\CEN120413T60_MAMA721113TWA_bf24b167-fca2-47bd-bbf5-9f735be137d1.pdf
+  Beca 21\CEN120413T60_MAMA721113TWA_f4c5713a-cfe0-4406-87f4-520efdff94ea.pdf
+  Beca 21\CEN120413T60_MAMA721113TWA_450af1a5-fc5e-4f16-b244-9a232ad4e168.pdf
+  Beca 21\Recibo 3.pdf
+  Beca 21\Recibo 2.pdf
+  Beca 21\Recibo 1.pdf
+  My Computer\CLSID_Desktop\Beca 21\acta.pdf
+  My Computer\CLSID_Desktop\Nueva carpeta\Tarea4.PC.pdf
+  My Computer\CLSID_Downloads\T5.pdf
+  My Computer\CLSID_Documents\Tarea 8. Equipo 2.pdf
+  My Computer\CLSID_Documents\DanielaMartinez_09-13.pdf
+  My Computer\CLSID_Documents\Tarea-6.pdf
+  My Computer\C:\Users\Usuario\Documents\Tarea-6.pdf
+  My Computer\CLSID_Documents\Tarea-9.pdf
+  My Computer\C:\Users\Usuario\Documents\Tarea-9.pdf
+  My Computer\CLSID_Documents\Examen-2-DanielaMartinez.pdf
+
+OpenSavePidlMRU\png
+LastWrite Time: Sat Nov 17 00:14:47 2018
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Downloads\46200406_1496102457200371_2600436430954037248_n.png
+  My Computer\C:\Users\Usuario\Desktop\sara tareas\lalala\Cómo-La-Tecnología-Ha-Transformado-La-Educación.png
+  sara tareas\lalala\Unknown Type (0x36)
+  sara tareas\lalala\Unknown Type (0x36)
+  sara tareas\lalala\Social-Work-LOGO-PNG-1.png
+  My Computer\CLSID_Downloads\portagafete-acrilico-horizontal-10.5x6.51-493x384.png
+  My Computer\C:\Users\Usuario\Desktop\sara tareas\lalala\mente-alpha-home.png
+  sara tareas\lalala\mente-alpha-home.png
+  My Computer\C:\Users\Usuario\Desktop\sara tareas\lalala\loupe.png
+  sara tareas\lalala\loupe.png
+  My Computer\C:\Users\Usuario\Desktop\sara tareas\lalala\logo-diseño-politicas-publicas.png
+  sara tareas\lalala\ebc3e0fab90fd02af07750dc708cef43-de-dibujos-animados-secretaria-de-sexo-femenino-by-vexels.png
+  sara tareas\lalala\Unknown Type (0x36)
+  My Computer\C:\Users\Usuario\Desktop\sara tareas\lalala\mama.png
+  My Computer\C:\Users\Usuario\Desktop\sara tareas\lalala\16b188bfc4743bc79ba391d9324721fe.png
+  sara tareas\lalala\mama.png
+  sara tareas\lalala\16b188bfc4743bc79ba391d9324721fe.png
+
+OpenSavePidlMRU\pptm
+LastWrite Time: Thu May 16 23:39:35 2019
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\Integradora etapa 4.pptm
+  My Computer\CLSID_Downloads\FARQ. FIME. FCFM..pptm
+  My Computer\CLSID_Downloads\orientacion.pptm
+  My Computer\CLSID_Documents\orientacion.pptm
+  My Computer\CLSID_Documents\metacognicion orientacion 3.pptm
+  My Computer\CLSID_Documents\CARTEL.pptm
+  My Computer\CLSID_Documents\INTEGRADORA 1 QUIMICA.pptm
+  My Computer\C:\Users\Usuario\Documents\INTEGRADORA 1 QUIMICA.pptm
+  My Computer\CLSID_Documents\Integradora Quimica.pptm
+  My Computer\C:\Users\Usuario\Documents\Integradora Quimica.pptm
+  My Computer\CLSID_Documents\QUIMICA 3.pptm
+  My Computer\CLSID_Downloads\PIA DEFINITIVO.pptm
+  My Computer\CLSID_Documents\PIA QUIMICA.pptm
+  My Computer\CLSID_Documents\INTEGRADORA TIC 2.pptm
+  My Computer\CLSID_Documents\INTEGRADORA QUIMICA 2.pptm
+
+OpenSavePidlMRU\pptx
+LastWrite Time: Mon Jun  1 02:09:04 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Downloads\PIA MAMALON 2.0.pptx
+  My Computer\CLSID_Documents\Ingel.pptx
+  My Computer\CLSID_Documents\Mercadotecnia.pptx
+  My Computer\C:\Users\Usuario\Documents\Mercadotecnia.pptx
+  My Computer\CLSID_Documents\MRD.pptx
+  My Computer\CLSID_Documents\integradora etapa 3.pptx
+  sara tareas\Tareas\Tic\evi 4.pptx
+  My Computer\CLSID_Downloads\CARTEL-QUIMICA.pptx
+  My Computer\CLSID_Documents\lalalalala.pptx
+  My Computer\C:\Users\Usuario\Desktop\sara tareas\cartel funcion del peritaje [Autoguardado].pptx
+  My Computer\CLSID_Desktop\sara tareas\cartel funcion del peritaje.pptx
+  My Computer\CLSID_Documents\preguntas.pptx
+  sara tareas\LALALALALALAL.pptx
+  My Computer\C:\Users\Usuario\Desktop\sara tareas\EVI. 3 Peritaje [Autoguardado].pptx
+  sara tareas\EVI. 3 Peritaje.pptx
+  My Computer\D:\INGLES\PIA INGLES.pptx
+  My Computer\CLSID_Documents\PIA LCE.pptx
+  My Computer\CLSID_Downloads\pia-artes.pptx
+  My Computer\CLSID_Documents\PIA INGLES.pptx
+  My Computer\CLSID_Documents\LLUVIA ACIDA.pptx
+
+OpenSavePidlMRU\ps1
+LastWrite Time: Fri Nov 20 04:43:20 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\script.ps1
+  My Computer\CLSID_Desktop\Practicas\Practica-4.1.ps1
+  My Computer\CLSID_Desktop\Practicas\Practica-4.ps1
+  My Computer\CLSID_Documents\E3-DMR.ps1
+
+OpenSavePidlMRU\pub
+LastWrite Time: Fri Oct  9 01:01:47 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\Tabloide.pub
+  My Computer\CLSID_Documents\INTEGRADORA DE INGLES ETAPA 4.pub
+  My Computer\C:\Users\Usuario\Documents\INTEGRADORA DE INGLES ETAPA 4.pub
+  My Computer\C:\Users\Usuario\Documents\INTEGRADORA DE INGLES 4.pub
+  My Computer\CLSID_Documents\mesa de dulces 2.pub
+  My Computer\CLSID_Documents\mesa de dulces.pub
+  My Computer\CLSID_Downloads\IMAGENES CANADA.pub
+  My Computer\CLSID_Documents\Unknown Type (0x36)
+  My Computer\CLSID_Documents\ingles.pub
+
+OpenSavePidlMRU\py
+LastWrite Time: Thu Nov 26 04:44:18 2020
+Note: All value names are listed in MRUListEx order.
+
+  Users\AppData\Local\Programs\Python\Python38-32\jd.py
+  Users\AppData\Local\Programs\Python\Python38-32\jxx.py
+  Users\AppData\Local\Programs\Python\Python38-32\ih.py
+  Users\AppData\Local\Programs\Python\Python38-32\dv.py
+  My Computer\CLSID_Downloads\clima.py
+  Users\AppData\Local\Programs\Python\Python38-32\et.py
+  My Computer\CLSID_Documents\Practica8.py
+  Users\AppData\Local\Programs\Python\Python38-32\uqs.py
+  Users\AppData\Local\Programs\Python\Python38-32\rtet35y3ry4.py
+  My Computer\CLSID_Documents\wen.py
+  My Computer\CLSID_Documents\prac.py
+  Users\AppData\Local\Programs\Python\Python38-32\idle.py
+  Users\AppData\Local\Programs\Python\Python38-32\Practica.py
+  Users\AppData\Local\Programs\Python\Python38-32\checar.py
+  Users\AppData\Local\Programs\Python\Python38-32\E8_nmap.py
+  Users\AppData\Local\Programs\Python\Python38-32\gf.py
+  Users\.spyder-py3\h.py
+  My Computer\CLSID_Documents\Practica-6.py
+  My Computer\CLSID_Downloads\extractDataFromImages.py
+  Proyectos\E2DMR.py
+
+OpenSavePidlMRU\rar
+LastWrite Time: Sun Nov 15 00:58:13 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Pictures\TXT.rar
+  My Computer\CLSID_Downloads\T3.rar
+  My Computer\CLSID_Downloads\Tarea 2.rar
+  My Computer\CLSID_Downloads\video.rar
+  My Computer\CLSID_Downloads\EJ3.rar
+
+OpenSavePidlMRU\txt
+LastWrite Time: Mon Nov 23 00:50:21 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\requirements.txt
+  My Computer\CLSID_Documents\hyg.txt
+  My Computer\CLSID_Documents\Practica6.txt
+  My Computer\CLSID_Documents\prac4.txt
+  My Computer\CLSID_Desktop\Practicas\Practica2.txt
+  My Computer\CLSID_Documents\Practica-2.txt
+  My Computer\CLSID_Documents\apis.txt
+  My Computer\CLSID_Documents\codigo.txt
+  My Computer\CLSID_Documents\cod.txt
+  My Computer\C:\Users\Usuario\.spyder-py3\Calendario2020.txt
+  My Computer\CLSID_Documents\ejercicio1.txt
+  My Computer\CLSID_Documents\Tarea 3.txt
+  My Computer\CLSID_Downloads\T_12345.txt
+  My Computer\CLSID_Downloads\tarea.txt
+
+OpenSavePidlMRU\ve
+LastWrite Time: Sat Nov 17 02:59:00 2018
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\PIA INGLES 3.ve
+  My Computer\CLSID_Documents\PIA INGLES 2.ve
+  My Computer\CLSID_Documents\PIA INGLES 1.ve
+  My Computer\CLSID_Documents\PIA INGLES.ve
+
+OpenSavePidlMRU\webp
+LastWrite Time: Fri Sep 28 20:52:42 2018
+Note: All value names are listed in MRUListEx order.
+
+  sara tareas\lalala\educacion.webp
+
+OpenSavePidlMRU\xlsx
+LastWrite Time: Sun Oct  4 22:16:31 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Downloads\EVELYN RAYAS ESTRADA 1914056 PRACTICA DE INDEMNINIZACION.xlsx
+
+OpenSavePidlMRU\zip
+LastWrite Time: Thu Nov 26 05:19:47 2020
+Note: All value names are listed in MRUListEx order.
+
+  Tarea-4.zip
+  My Computer\CLSID_Desktop\Tarea-4.zip
+  My Computer\CLSID_Documents\script.zip
+  Users\AppData\Local\Programs\Python\Python38-32\E8.zip
+  My Computer\CLSID_Desktop\Practicas\Practica-4.zip
+  My Computer\CLSID_Downloads\PIA.zip
+  My Computer\CLSID_Documents\Lab.2.zip
+  My Computer\CLSID_Downloads\Lab.1.zip
+
+
+----------------------------------------
+compdesc v.20200511
+(NTUSER.DAT) Gets contents of user's ComputerDescriptions key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComputerDescriptions not found.
+----------------------------------------
+DDO v.20140414
+(NTUSER.DAT) Gets user's DeviceDisplayObjects key contents
+
+Software\Microsoft\Windows NT\CurrentVersion\DeviceDisplayObjects not found.
+----------------------------------------
+disablemru v.20190924
+(NTUSER.DAT, Software) Checks settings disabling user's MRUs
+
+----------------------------------------
+environment v.20200512
+(System, NTUSER.DAT) Get environment vars from NTUSER.DAT & System hives
+
+Environment
+LastWrite Time: 2020-11-11 23:13:38Z
+
+MOZ_PLUGIN_PATH           C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\
+Path                      C:\Program Files (x86)\Nmap                       
+TEMP                      %USERPROFILE%\AppData\Local\Temp                  
+TMP                       %USERPROFILE%\AppData\Local\Temp                  
+----------------------------------------
+featureusage v.20200511
+(NTUSER.DAT) Extracts user's FeatureUsage data.
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage not found.
+----------------------------------------
+identities v.20200525
+(NTUSER.DAT) Extracts values from Identities key; NTUSER.DAT
+
+Identities
+LastWrite Time 2015-08-16 10:59:05Z
+
+Identity Ordinal                         1                             
+Migrated7                                1                             
+Last Username                            Identidad principal           
+Last User ID                             {047B74B9-E7D3-43C5-813A-103BAD21047B}
+Identity Login                           622675                        
+Default User ID                          {047B74B9-E7D3-43C5-813A-103BAD21047B}
+
+----------------------------------------
+injectdll64 v.20200427
+(NTUSER.DAT, Software) Retrieve values set to weaken Chrome security
+
+Software\Policies\Google\Chrome\CertificateTransparencyEnforcementDisabledForUrls not found.
+Policies\Google\Chrome\CertificateTransparencyEnforcementDisabledForUrls not found.
+----------------------------------------
+jumplistdata v.20200517
+Gets contents of user's JumpListData key
+
+Software\Microsoft\Windows\CurrentVersion\Search\JumpListData not found.
+----------------------------------------
+knowndev v.20200515
+(NTUSER.DAT) Gets user's KnownDevices key contents
+
+KnownDevices
+Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices
+LastWrite Time 2020-06-19 02:14:07Z
+
+WpdDeviceHandler_USB#VID_04E8&PID_6860&MS_COMP_MTP&SAMSUNG_ANDROID#6&53BBF40&0&0000  2016-09-19 23:33:37Z
+Label: Galaxy J7
+
+WpdDeviceHandler_USB#VID_05AC&PID_12AB&MI_00#0  2017-12-19 06:25:28Z
+Label: iPad de usuario
+
+WpdDeviceHandler_USB#VID_0BB4&PID_2008#0123456789ABCDEF  2016-06-13 21:13:51Z
+Label: S750
+
+WpdDeviceHandler_USB#VID_1004&PID_631C#FI89558HKNPBJ7BI  2016-07-08 22:39:07Z
+Label: L30 Sporty
+
+WpdDeviceHandler_USB#VID_12D1&PID_107F&MI_00#6&DA81E13&0&0000  2018-12-17 14:25:49Z
+Label: MYA-L13
+
+WpdDeviceHandler_USB#VID_12D1&PID_1082&MI_00#6&15652F25&3&0000  2017-04-25 03:52:35Z
+Label: ALE-L23
+
+WpdDeviceHandler_USB#VID_12D1&PID_1082&MI_00#6&66B7AC5&2&0000  2017-05-19 03:14:36Z
+Label: ALE-L23
+
+WpdDeviceHandler_USB#VID_12D1&PID_1083&MI_00#6&6E1E65E&1&0000  2017-05-19 03:13:31Z
+Label: ALE-L23
+
+WpdDeviceHandler_USB#VID_12D1&SUBCLASS_FF&PROT_00#6&DA81E13&2&0000  2019-12-06 22:39:48Z
+Label: MYA-L13
+
+WpdDeviceHandler_USB#VID_17EF&PID_7A2B&MI_00#6&24589AB8&0&0000  2017-09-23 20:37:19Z
+Label: Lenovo K6
+
+WpdDeviceHandler_USB#VID_17EF&PID_7A2B&MI_00#6&24589AB8&1&0000  2018-03-01 03:06:41Z
+Label: Lenovo K6
+
+WpdDeviceHandler_USB#VID_17EF&PID_7A2B&MI_00#6&24589AB8&2&0000  2019-06-08 02:10:41Z
+Label: Lenovo K6
+
+WpdDeviceHandler_USB#VID_22B8&PID_2E82#ZL4223QQ7T  2019-04-16 21:30:18Z
+Label: moto g(6) play
+
+WpdDeviceHandler_USB#VID_22B8&PID_2E82#ZY223WBFV6  2018-02-01 00:28:18Z
+Label: Moto G Play
+
+WpdDeviceHandler_USB#VID_22B8&PID_2E82#ZY3263GLF9  2020-06-19 02:14:07Z
+Label: motorola one vision
+
+----------------------------------------
+listsoft v.20200517
+(NTUSER.DAT) Lists contents of user's Software key
+
+listsoft v.20200517
+List the contents of the Software key in the NTUSER.DAT hive
+file, in order by LastWrite time.
+
+2020-11-27 23:20:40Z 	Microsoft
+2020-11-19 20:51:05Z 	Python
+2020-11-14 23:23:18Z 	IM Providers
+2020-11-13 22:51:35Z 	iterate GmbH
+2020-11-11 02:31:26Z 	Nmap
+2020-09-17 21:13:13Z 	RegisteredApplications
+2020-09-08 20:31:20Z 	EPSON
+2020-09-08 19:53:44Z 	SEIKO EPSON CORPORATION
+2020-09-05 20:38:36Z 	Discord
+2020-04-28 03:34:12Z 	SimonTatham
+2020-04-26 23:34:45Z 	7-Zip
+2019-08-29 23:39:42Z 	QtProject
+2019-07-01 11:21:08Z 	Browser Cleanup
+2018-11-16 01:45:23Z 	Apowersoft
+2018-11-15 03:06:39Z 	CineForm
+2018-09-23 23:36:02Z 	WinRAR
+2018-08-29 06:14:28Z 	AVAST Software
+2018-02-10 22:22:30Z 	ShapeCollage
+2018-01-25 05:24:21Z 	Canon
+2017-12-16 18:13:58Z 	Apple Inc.
+2017-10-30 00:40:53Z 	Macromedia
+2017-06-16 16:42:40Z 	WicReset
+2017-05-20 03:47:30Z 	Dropbox
+2017-05-11 19:20:17Z 	Chromium
+2016-08-04 05:54:36Z 	Piriform
+2016-05-03 04:46:10Z 	Convertidor de Videos
+2016-05-03 03:43:39Z 	Gabest
+2016-04-21 23:27:51Z 	IEx_Img
+2016-04-21 23:25:23Z 	SPSS
+2016-03-13 04:54:55Z 	JavaSoft
+2016-03-09 23:58:53Z 	Trolltech
+2016-02-02 18:50:10Z 	DropboxUpdate
+2016-01-13 03:21:57Z 	Adobe
+2015-12-15 04:23:11Z 	MB_temp
+2015-12-04 20:08:37Z 	Apple Computer, Inc.
+2015-12-04 01:20:35Z 	Lagarith
+2015-12-03 00:51:35Z 	Audacity
+2015-12-02 23:01:37Z 	Program4Pc
+2015-11-06 02:21:51Z 	ABBYY
+2015-11-06 02:01:34Z 	Leadertech
+2015-10-25 17:44:34Z 	Foxit Software
+2015-10-25 17:44:34Z 	Wow6432Node
+2015-10-11 01:09:16Z 	WinRAR SFX
+2015-10-09 17:25:42Z 	Wintertree
+2015-10-03 03:07:59Z 	GlarySoft
+2015-08-30 06:12:21Z 	BugSplat
+2015-08-30 04:20:47Z 	Wondershare
+2015-08-15 17:48:35Z 	Google
+2015-08-08 02:52:42Z 	Netscape
+2015-08-08 02:52:42Z 	ODBC
+2015-08-07 18:38:14Z 	Clients
+2015-08-07 18:37:10Z 	MozillaPlugins
+2013-08-21 23:55:45Z 	AppDataLow
+2013-08-21 23:53:01Z 	GNU
+2013-08-21 23:53:01Z 	Haali
+2013-08-21 23:52:48Z 	Icaros
+2013-08-21 23:52:48Z 	madshi
+2013-08-21 23:52:48Z 	MediaInfo
+2013-08-21 23:50:38Z 	Policies
+2013-08-21 23:50:37Z 	Mine
+----------------------------------------
+load v.20200517
+(NTUSER.DAT) Gets load and run values from user hive
+
+load
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+LastWrite Time 2020-11-26 17:08:03Z
+
+load value not found.
+run value not found.
+----------------------------------------
+logonstats v.20200517
+Gets contents of user's LogonStats key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\LogonStats not found.
+----------------------------------------
+lxss v.20200511
+(NTUSER.DAT) Gets WSL config.
+
+Software\Microsoft\Windows\CurrentVersion\Lxss not found.
+----------------------------------------
+mixer v.20200517
+(NTUSER.DAT) Checks user's audio mixer settings
+
+LastWrite Time, App, Device GUID
+2015-10-03 01:49:47Z,\Device\HarddiskVolume2\Program Files\AVAST Software\Avast\AvastUI.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-12-04 20:28:43Z,\Device\HarddiskVolume2\Program Files\Adobe\Adobe Audition CC 2015\Adobe Audition CC.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-05-17 03:11:16Z,\Device\HarddiskVolume2\Program Files\AVAST Software\Avast\avastui.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2020-11-14 23:26:10Z,\Device\HarddiskVolume2\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-03-09 23:45:28Z,\Device\HarddiskVolume2\Program Files\KMSpico\AutoPico.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-08-15 17:48:22Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2018-02-10 22:22:56Z,\Device\HarddiskVolume2\Program Files (x86)\Shape Collage\ShapeCollage.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-03-13 04:57:04Z,\Device\HarddiskVolume2\Users\Usuario\AppData\Local\Screen Recorder Launcher\Screen Recorder Launcher.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2020-11-23 00:39:50Z,\Device\HarddiskVolume2\Windows\System32\conhost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2018-11-16 01:59:34Z,\Device\HarddiskVolume2\Program Files (x86)\Apowersoft\Video Editor Pro\Video Editor Pro.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-10-22 03:09:36Z,\Device\HarddiskVolume2\Program Files\iTunes\iTunes.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-08-07 18:37:22Z,#,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-05-25 02:22:50Z,\Device\HarddiskVolume2\Users\Usuario\Desktop\Rosadin TV\Archivos\MPV\mpv.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-01-29 01:33:32Z,\Device\HarddiskVolume2\Users\Usuario\Desktop\TV\Archivos\MPV\mpv.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2019-08-31 03:33:41Z,\Device\HarddiskVolume2\Users\Usuario\Anaconda3\pythonw.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2020-05-15 00:45:32Z,\Device\HarddiskVolume2\Users\Usuario\anaconda3\pythonw.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-09-03 03:01:31Z,\Device\HarddiskVolume2\Program Files\KMSpico\KMSELDI.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2020-10-22 04:47:14Z,\Device\HarddiskVolume2\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-06-28 02:54:50Z,\Device\HarddiskVolume2\Program Files (x86)\Microsoft Office\root\Office16\POWERPNT.EXE,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2020-05-08 00:44:20Z,\Device\HarddiskVolume2\Users\Usuario\AppData\Local\Microsoft\Teams\stage\Teams.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-12-01 03:04:18Z,\Device\HarddiskVolume2\Program Files (x86)\Audacity\audacity.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-09-26 02:10:29Z,\Device\HarddiskVolume2\Windows\explorer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-08-26 01:38:51Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-09-02 02:01:39Z,\Device\HarddiskVolume2\Program Files\Microsoft Office 15\root\office15\powerpnt.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2020-09-05 20:09:00Z,\Device\HarddiskVolume2\Users\Usuario\AppData\Local\Discord\app-0.0.307\Discord.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2020-05-04 22:01:04Z,\Device\HarddiskVolume2\Users\Usuario\AppData\Local\Microsoft\Teams\current\Teams.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-09-02 03:10:33Z,\Device\HarddiskVolume2\Program Files (x86)\K-Lite Codec Pack\Media Player Classic\mpc-hc.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2019-09-01 19:47:18Z,\Device\HarddiskVolume2\Users\Usuario\Anaconda2\pythonw.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2020-06-02 03:26:12Z,\Device\HarddiskVolume2\Users\Usuario\anaconda3.1\pythonw.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-08-08 03:15:36Z,\Device\HarddiskVolume2\Program Files\Microsoft Office 15\root\office15\POWERPNT.EXE,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-12-02 23:01:34Z,\Device\HarddiskVolume2\Program Files (x86)\Program4Pc\DJ Audio Editor\DJAudioEditor.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-07-02 03:32:18Z,\Device\HarddiskVolume2\Users\Usuario\AppData\Local\Facebook\Games\FacebookGames.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2020-05-09 04:54:49Z,\Device\HarddiskVolume2\Users\Usuario\AppData\Local\WhatsApp\app-2.2019.6\WhatsApp.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-04-16 18:59:22Z,\Device\HarddiskVolume2\Program Files (x86)\Wondershare\VideoEditor-sonc\VideoEditor.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-08-26 02:43:46Z,#,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2017-01-11 20:50:07Z,\Device\HarddiskVolume2\Users\Usuario\AppData\Local\Temp\Rar$EXa0.608\KMSAC1.4.2\KMSAuto Net.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-05-03 04:51:45Z,\Device\HarddiskVolume2\Program Files (x86)\Convertidor de videos\convertidor.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2017-11-02 02:24:40Z,\Device\HarddiskVolume2\Program Files\Internet Explorer\iexplore.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2019-06-21 04:10:28Z,\Device\HarddiskVolume2\Program Files (x86)\HiSuite\HiSuite.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2016-05-04 21:25:15Z,\Device\CdRom0\WorldEnglishCD.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+2015-12-04 01:20:19Z,\Device\HarddiskVolume2\Program Files (x86)\Adobe\Adobe Soundbooth CS5\Adobe Soundbooth CS5.exe,\\?\hdaudio#func_01&ven_10ec&dev_0262&subsys_104d3700&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eduplicatedhpspeakertopo/00010001
+----------------------------------------
+mmc v.20200517
+(NTUSER.DAT) Get contents of user's MMC\Recent File List key
+
+MMC - Recent File List
+Software\Microsoft\Microsoft Management Console\Recent File List
+LastWrite Time 2020-11-19 19:51:03Z
+  File1 -> C:\Windows\system32\devmgmt.msc
+  File2 -> C:\Windows\system32\virtmgmt.msc
+----------------------------------------
+mmo v.20200517
+(NTUSER.DAT) Checks NTUSER for Multimedia\Other values [malware]
+
+Software\Microsoft\Multimedia\Other not found.
+Software\Microsoft\CTF\LangBarAddIn not found.
+----------------------------------------
+mndmru v.20200517
+(NTUSER.DAT) Get contents of user's Map Network Drive MRU
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Map Network Drive MRU not found.
+----------------------------------------
+mp2 v.20200526
+(NTUSER.DAT) Gets user's MountPoints2 key contents
+
+MountPoints2
+Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2
+LastWrite Time 2020-09-10 18:07:18Z
+
+Remote Drives:
+
+Volumes:
+2020-11-24 02:26:42Z
+  {4866586c-4405-11e5-825c-001dbab3acc5}
+2020-10-24 04:42:59Z
+  {cdff0509-b2c0-11e9-83c3-001dbab3acc5}
+2020-10-09 01:05:17Z
+  {954730fd-83cf-11e9-83be-001dbab3acc5}
+2020-09-08 20:37:34Z
+  {8a21d5b7-0abb-11e3-824c-806e6f6e6963}
+2020-08-31 17:21:03Z
+  {199e155b-48d3-11e7-8347-001dbab3acc5}
+2020-06-19 02:11:58Z
+  {27d89bd3-a69e-11ea-83e1-001dbab3acc5}
+2020-04-24 00:03:13Z
+  {00d2b629-697e-11ea-83d4-001dbab3acc5}
+2020-01-18 23:29:53Z
+  {9694c67c-05be-11ea-83c9-001dbab3acc5}
+2019-12-23 03:35:46Z
+  {4d574d3d-1877-11ea-83cc-001dbab3acc5}
+2019-12-08 21:35:25Z
+  {4d574d99-1877-11ea-83cc-001dbab3acc5}
+2019-11-14 07:44:04Z
+  {d473441a-edb2-11e7-8378-001dbab3acc5}
+2019-10-28 01:08:08Z
+  {3f18f0b1-d8fb-11e9-83c7-001dbab3acc5}
+2019-10-08 01:39:00Z
+  {3f18eaca-d8fb-11e9-83c7-001dbab3acc5}
+2019-06-21 12:27:32Z
+  {f1ea0885-2718-11e9-83b3-001dbab3acc5}
+2019-06-21 05:33:53Z
+  {ddaffb42-9a40-11e6-830f-001dbab3acc5}
+2019-06-21 04:08:40Z
+  {b2bc589a-8be9-11e9-83bf-001dbab3acc5}
+2019-03-04 00:51:20Z
+  {f91c524b-37fb-11e9-83b7-001dbab3acc5}
+2019-03-04 00:47:18Z
+  {f91c5236-37fb-11e9-83b7-001dbab3acc5}
+2019-02-24 05:58:13Z
+  {187b9197-5ef9-11e8-8390-001dbab3acc5}
+2019-02-24 04:16:01Z
+  {a0e6e9b3-362c-11e9-83b6-001dbab3acc5}
+2018-12-17 14:26:02Z
+  {2b6fd673-ec31-11e8-83ab-001dbab3acc5}
+2018-12-13 00:53:08Z
+  {2b6fd599-ec31-11e8-83ab-001dbab3acc5}
+2018-11-14 20:40:18Z
+  {d7e1aa20-d248-11e8-83a4-001dbab3acc5}
+2018-11-14 20:40:12Z
+  {d7e1aa1d-d248-11e8-83a4-001dbab3acc5}
+2018-09-13 03:11:18Z
+  {34cfd174-b701-11e8-839d-001dbab3acc5}
+2018-08-13 00:26:05Z
+  {532dac56-9aac-11e8-8397-001dbab3acc5}
+2018-08-07 00:56:15Z
+  {e7b53078-8dfb-11e8-8396-001dbab3acc5}
+2018-05-18 02:47:06Z
+  {0a59e35b-2c80-11e8-8384-001dbab3acc5}
+2018-04-28 03:01:11Z
+  {b32dda28-48e4-11e8-8389-001dbab3acc5}
+2018-04-28 02:59:12Z
+  {b32dd9f7-48e4-11e8-8389-001dbab3acc5}
+2018-04-28 02:57:29Z
+  {b32dd940-48e4-11e8-8389-001dbab3acc5}
+2018-03-30 19:55:57Z
+  {0a59e754-2c80-11e8-8384-001dbab3acc5}
+2018-03-25 01:52:09Z
+  {a01fb80e-19d2-11e8-837f-001dbab3acc5}
+2018-03-05 04:10:40Z
+  {671734e6-2013-11e8-8382-001dbab3acc5}
+2018-03-01 03:06:41Z
+  {a01fbfe3-19d2-11e8-837f-001dbab3acc5}
+2018-02-23 01:23:57Z
+  {78895863-16bb-11e8-837f-001dbab3acc5}
+2017-11-17 02:41:17Z
+  {87d1c460-0c24-11e7-832f-001dbab3acc5}
+2017-11-08 02:08:43Z
+  {689f9315-c403-11e7-836a-001dbab3acc5}
+2017-10-30 00:45:13Z
+  {b9723dcb-bd08-11e5-82a8-001dbab3acc5}
+2017-10-24 02:31:49Z
+  {fd7a660e-b2b2-11e7-8363-001dbab3acc5}
+2017-09-23 20:36:33Z
+  {3613d806-9b44-11e7-8357-001dbab3acc5}
+2017-09-16 03:04:28Z
+  {ede2a3d8-aeaf-11e6-831a-001dbab3acc5}
+2017-08-19 15:43:12Z
+  {92a1f66a-82f2-11e7-8350-001dbab3acc5}
+2017-06-20 01:59:40Z
+  {0a0c2df7-697c-11e5-8287-001dbab3acc5}
+2017-06-15 06:20:47Z
+  {199e29ad-48d3-11e7-8347-001dbab3acc5}
+2017-05-24 03:18:35Z
+  {aadd8a16-e64d-11e6-8325-001dbab3acc5}
+2017-05-22 02:31:36Z
+  {2411adc8-3cc2-11e7-8343-001dbab3acc5}
+2017-05-19 03:14:23Z
+  {68e5b74c-3be6-11e7-8342-001dbab3acc5}
+2017-05-19 03:09:32Z
+  {68e5b9b7-3be6-11e7-8342-001dbab3acc5}
+2017-05-10 00:07:36Z
+  {7e336154-2c1c-11e7-833b-001dbab3acc5}
+2017-04-30 04:57:05Z
+  {8606db17-2798-11e7-833a-001dbab3acc5}
+2017-04-27 15:03:17Z
+  {8606df48-2798-11e7-833a-001dbab3acc5}
+2017-04-11 01:45:08Z
+  {1087d825-1bed-11e7-8335-001dbab3acc5}
+2017-04-04 17:45:15Z
+  {d2e4a2d3-18a4-11e7-8334-001dbab3acc5}
+2017-02-09 02:57:18Z
+  {9a871ddd-ec36-11e6-8327-001dbab3acc5}
+2017-01-29 01:06:12Z
+  {8481b633-e508-11e6-8324-001dbab3acc5}
+2017-01-10 03:18:34Z
+  {b7fd5f55-b10c-11e6-831b-001dbab3acc5}
+2016-12-24 19:56:20Z
+  {9d33a89a-72d1-11e5-828f-fa9fd7f5a681}
+2016-11-23 05:23:19Z
+  {ede2a717-aeaf-11e6-831a-001dbab3acc5}
+2016-11-22 15:47:17Z
+  {ede2a3c5-aeaf-11e6-831a-001dbab3acc5}
+2016-11-15 04:50:37Z
+  {25d290a9-8062-11e6-8307-001dbab3acc5}
+2016-11-08 02:26:03Z
+  {6d32403b-3d59-11e5-8251-001dbab3acc5}
+2016-11-02 21:54:27Z
+  {573b1059-3cbe-11e5-824e-00234de382a3}
+2016-11-02 02:39:39Z
+  {54ff233d-4af3-11e6-82ed-001dbab3acc5}
+2016-10-09 19:05:34Z
+  {5a0f74fd-8d3d-11e6-8309-001dbab3acc5}
+2016-10-04 01:01:43Z
+  {25d29175-8062-11e6-8307-001dbab3acc5}
+2016-09-20 02:22:11Z
+  {005dd21d-7eca-11e6-8306-001dbab3acc5}
+2016-08-31 00:08:52Z
+  {839a1e83-6d4b-11e6-82fe-001dbab3acc5}
+2016-07-24 18:03:07Z
+  {1a2775a4-1eff-11e6-82e0-001dbab3acc5}
+2016-07-08 22:43:31Z
+  {5d4d15f4-431c-11e6-82e8-001dbab3acc5}
+2016-07-08 22:37:04Z
+  {bd9055cd-3437-11e6-82e4-001dbab3acc5}
+2016-07-08 22:29:36Z
+  {dc353ed4-cdf4-11e5-82b5-001dbab3acc5}
+2016-06-18 03:17:18Z
+  {bd904936-3437-11e6-82e4-001dbab3acc5}
+2016-06-13 23:12:50Z
+  {0fd6d48b-2f39-11e6-82e3-001dbab3acc5}
+2016-05-25 02:03:35Z
+  {c6976481-2088-11e6-82e2-001dbab3acc5}
+2016-05-21 22:56:31Z
+  {1a27759d-1eff-11e6-82e0-001dbab3acc5}
+2016-04-05 02:44:23Z
+  {6391ea1a-5274-11e5-826b-001dbab3acc5}
+2016-03-09 22:54:37Z
+  {a5b20008-e4ad-11e5-82c3-001dbab3acc5}
+2016-03-09 22:54:36Z
+  {a5b20007-e4ad-11e5-82c3-001dbab3acc5}
+2016-03-07 03:45:52Z
+  {79728bf4-e339-11e5-82c2-001dbab3acc5}
+2016-03-04 01:31:01Z
+  {63ccd29c-d776-11e5-82bc-001dbab3acc5}
+2016-03-04 00:26:25Z
+  {63ccd28e-d776-11e5-82bc-001dbab3acc5}
+2016-03-04 00:17:31Z
+  {08faac86-dffb-11e5-82c0-001dbab3acc5}
+2016-01-30 18:46:48Z
+  {fb2b8539-c579-11e5-82ae-001dbab3acc5}
+2016-01-30 01:10:21Z
+  {630e373c-be11-11e5-82a9-001dbab3acc5}
+2015-12-18 02:18:29Z
+  {665d3f42-a051-11e5-829d-e50ee2426b64}
+2015-12-15 03:27:08Z
+  {2294e257-67d5-11e5-8280-f1cd2121d8c7}
+2015-12-09 02:30:04Z
+  {ab5ddaa0-9232-11e5-829a-c9f073d3d283}
+2015-11-18 04:33:32Z
+  {9d33a527-72d1-11e5-828f-fa9fd7f5a681}
+2015-11-13 18:20:16Z
+  {f53a2a2b-8a32-11e5-8297-806e6f6e6963}
+2015-11-08 23:51:38Z
+  {cc99a055-842d-11e5-8294-f91873322791}
+2015-10-21 21:46:29Z
+  {0a0c321b-697c-11e5-8287-001dbab3acc5}
+2015-08-28 02:44:43Z
+  {c03a26d2-4d06-11e5-8261-001dbab3acc5}
+2015-08-28 02:44:41Z
+  {c03a2718-4d06-11e5-8261-001dbab3acc5}
+2015-08-21 18:57:23Z
+  {3a5f6696-4829-11e5-825f-001dbab3acc5}
+2013-08-21 23:57:44Z
+  {8a21d5b2-0abb-11e3-824c-806e6f6e6963}
+  {8a21d5bb-0abb-11e3-824c-806e6f6e6963}
+
+Drives:
+2020-09-10 18:07:18Z - E
+2016-10-05 22:21:54Z - CPC
+2015-08-28 02:44:43Z - D
+
+Unique MAC Addresses:
+80:6E:6F:6E:69:63
+F1:CD:21:21:D8:C7
+00:1D:BA:B3:AC:C5
+E5:0E:E2:42:6B:64
+00:23:4D:E3:82:A3
+FA:9F:D7:F5:A6:81
+C9:F0:73:D3:D2:83
+F9:18:73:32:27:91
+
+Analysis Tip: Correlate the Volume entries to those found in the MountedDevices
+entries that begin with "\??\Volume".
+----------------------------------------
+mpmru v.20200517
+(NTUSER.DAT) Gets user's Media Player RecentFileList values
+
+Software\Microsoft\MediaPlayer\Player\RecentFileList not found.
+----------------------------------------
+msoffice v.20200518
+
+Office Identities
+Software\Microsoft\Office\15.0\Common\Internet
+LastWrite time: 2016-05-06 22:34:36Z
+UseRWHlinkNavigation value = C:\Users\Usuario\Desktop\4.1.3- Actividades y Cronograma..docx
+
+Word - TrustRecords
+2015-08-26 00:46:14Z: %USERPROFILE%/Downloads/2-LABORATORIO-DE-TEORÍA-ESTRUCTURAL-FUNCIONALISTA-1.docx
+2015-08-27 20:29:13Z: %USERPROFILE%/Downloads/laboratorio-2.docx
+2015-08-16 13:52:21Z: %USERPROFILE%/Downloads/Investigacion-Cualitativa-PIA.docx
+2015-08-28 20:34:02Z: %USERPROFILE%/Downloads/laboratorio-2%20(2).docx
+2015-09-13 00:17:12Z: %USERPROFILE%/Desktop/sara/LABORATORIO-DE-TEORÍA-crítica-Marx.docx
+2015-09-18 22:20:51Z: %USERPROFILE%/Downloads/desarrollo-mapa-1.docx
+2015-09-18 23:20:35Z: %USERPROFILE%/Downloads/evidencia-2-mapa-2.docx
+2015-09-20 03:22:22Z: %USERPROFILE%/Downloads/Evidencia1-DH..docx
+2015-09-25 23:43:57Z: %USERPROFILE%/Downloads/3%20Resumen%20Mapa%20y%20Evaluacion%20S.%20-%20copia..docx
+2015-10-07 23:01:09Z: %USERPROFILE%/Downloads/Evidencia-2-MACRO.docx
+2015-10-12 22:14:10Z: %USERPROFILE%/Downloads/cuadro-metodologias.docx
+2015-10-14 00:02:12Z: %USERPROFILE%/Downloads/Tarea.docx
+2015-11-13 22:42:27Z: %USERPROFILE%/Downloads/MARCO-TEORICO-CUANTI.docx
+2015-10-15 00:24:46Z: %USERPROFILE%/Downloads/cuali.docx
+2015-10-15 01:19:21Z: %USERPROFILE%/Downloads/como-afecta-la-homofobia-en-la-sociedad..docx
+2015-10-15 01:39:39Z: %USERPROFILE%/Downloads/Trascendencia.docx
+2015-10-17 21:09:42Z: %USERPROFILE%/Downloads/Evidencia_4.docx
+2015-10-17 21:21:07Z: %USERPROFILE%/Downloads/Cancion-Lennon-1.docx
+2015-10-21 18:15:35Z: %USERPROFILE%/Downloads/evidencia-4-macro.docx
+2015-10-21 21:54:44Z: %USERPROFILE%/Desktop/sara/tareas/Plantamiento%20de%20Cuanti.docx
+2015-10-24 22:00:41Z: %USERPROFILE%/Downloads/ANALISIS-DE-PELICULA-EL-NIÑO-CON-PIJAMA-DE-RAYAS.docx
+2015-10-25 00:17:47Z: %USERPROFILE%/Downloads/El-niño-con-el-pijama-de-rayas..docx
+2015-10-25 00:39:35Z: %USERPROFILE%/Downloads/ARTES-PELICULA-WW%20(1).docx
+2015-10-25 17:20:36Z: %USERPROFILE%/Downloads/ARTES-PELICULA-WW.docx
+2015-10-31 19:03:06Z: %USERPROFILE%/Downloads/Fundamentacion-proyecto-Modelos.docx
+2015-11-05 03:09:55Z: %USERPROFILE%/Downloads/evidencia%2010%20PIA.docx
+2015-11-07 20:48:19Z: %USERPROFILE%/Downloads/Tamaulipas.docx
+2015-11-07 21:43:55Z: %USERPROFILE%/Downloads/Historia-de-tamaulipas.docx
+2015-11-09 19:59:15Z: %USERPROFILE%/Downloads/Artes/Investigacion%20TEMAS%20de%20Danza,%20pintura,%20fotografia,%20teatro,%20cine%20y%20música.docx
+2015-11-09 19:49:39Z: %USERPROFILE%/Downloads/Artes/Reporte%20de%20lectura,%20mapa%20conceptual%20y%20evaluacion%20sumativa%20de%20la%20unidad1.docx
+2015-11-09 20:02:05Z: %USERPROFILE%/Downloads/Artes/Reporte%20de%20lectura%20de%20la%20Fase%204%20del%20libro%20y%201%20investigación.docx
+2015-11-09 20:02:13Z: %USERPROFILE%/Downloads/Artes/Mapa%20conceptual%20de%20la%20Fase%204%20del%20libro%20y%201%20investigación.docx
+2015-11-09 20:01:56Z: %USERPROFILE%/Downloads/Artes/Reporte%20de%20lectura%20%20de%20la%20Fase%203,del%20libro%20y%201%20investigación.docx
+2015-11-09 19:49:47Z: %USERPROFILE%/Downloads/Artes/Reporte%20de%20lectura%20de%20la%20unidad%201.docx
+2015-11-09 19:56:48Z: %USERPROFILE%/Downloads/Artes/Resumen%20(incluyendo%202%20consultas%20bibliográficas)%20que%20identifique%20los%20componentes%20de%20toda%20producción%20de%20lo%20artístico%20en%20los%20objetos%20culturales.%20(Imágenes,%20pintura,%20murales%20e%20inmuebles.).%202.docx
+2015-11-09 19:56:31Z: %USERPROFILE%/Downloads/Artes/Resumen%20MAPA%20(incluyendo%202%20consultas%20bibliográficas)%20que%20identifique%20los%20componentes%20de%20toda%20producción%20de%20lo%20artístico%20en%20los%20objetos%20culturales.%20(Imágenes,%20pintura,%20murales%20e%20inmuebles.)..docx
+2015-11-05 03:09:55Z: %USERPROFILE%/Desktop/evidencia%2010%20PIA.docx
+2015-11-05 03:09:55Z: %USERPROFILE%/Desktop/sara/tareas/evidencia%2010%20PIA.docx
+2015-11-10 23:17:22Z: file:///D:/sara/Artes/PIA/Tamaulipas.docx
+2015-11-07 20:48:19Z: %USERPROFILE%/Downloads/PIA%20Artes.docx
+2015-11-11 04:28:55Z: file:///D:/sara/evidencia%2010%20PIA.docx
+2015-11-12 00:10:28Z: %USERPROFILE%/Downloads/evidencia-8-dh.docx
+2015-10-15 00:21:04Z: %USERPROFILE%/Desktop/sara/tareas/MARCO-TEORICO-CUANTI.docx
+2015-10-15 00:22:00Z: %USERPROFILE%/Desktop/sara/tareas/MARCO-TEORICO-CUANTI%20(1).docx
+2015-11-14 05:36:22Z: %USERPROFILE%/Downloads/Evidencia%2010%20DH..docx
+2015-11-14 05:42:15Z: %USERPROFILE%/Downloads/Evidencia%2010%20DH...docx
+2015-11-15 00:32:54Z: %USERPROFILE%/Downloads/Marco-historico-Cuantitativa.docx
+2015-11-16 17:25:21Z: %USERPROFILE%/Downloads/PIA-DERECHO.docx
+2015-11-16 17:28:16Z: %USERPROFILE%/Downloads/PROYECTO-MODELOS-DE-COMUNIDAD%20(1).docx
+2015-11-16 17:34:36Z: %USERPROFILE%/Desktop/sara/PROYECTO-MODELOS-DE-COMUNIDAD%20(1).docx
+2015-11-16 17:34:36Z: %USERPROFILE%/Desktop/sara/PIA-DERECHO.docx
+2015-11-17 04:23:21Z: %USERPROFILE%/Downloads/EDICION-CUANTI.docx
+2015-11-17 04:35:18Z: %USERPROFILE%/Downloads/EDICION-CUANTI%20(1).docx
+2015-11-17 05:04:52Z: %USERPROFILE%/Downloads/Marco-historico-Cuantitativa%20(1).docx
+2015-11-17 22:41:19Z: %USERPROFILE%/Downloads/PIA-DERECHO(checado).docx
+2015-11-17 23:20:43Z: file:///D:/Tamaulipas.docx
+2015-11-18 00:13:26Z: %USERPROFILE%/Downloads/PROYECTO-MODELOS-DE-COMUNIDAD-1.docx
+2015-11-18 03:10:26Z: %USERPROFILE%/Downloads/PROYECTO-MODELOS-DE-COMUNIDAD-1%20(1).docx
+2015-11-18 04:10:20Z: %USERPROFILE%/Downloads/PIA-DERECHOchecado.docx
+2015-11-18 23:17:02Z: %USERPROFILE%/Desktop/PIA%20ARTES/Tamaulipas.docx
+2015-11-22 23:55:23Z: %USERPROFILE%/Downloads/Artes-Aprender.docx
+2015-11-23 22:44:12Z: %USERPROFILE%/Downloads/ingles-menu.docx
+2015-11-24 03:06:19Z: %USERPROFILE%/Downloads/ingles-menu%20(1).docx
+2015-10-15 01:19:21Z: %USERPROFILE%/Desktop/sara/tareas/3%20Semestre/Cuanti/como-afecta-la-homofobia-en-la-sociedad..docx
+2015-11-15 00:32:54Z: %USERPROFILE%/Desktop/sara/tareas/3%20Semestre/Cuanti/Marco-historico-Cuantitativa.docx
+2015-11-17 05:04:52Z: %USERPROFILE%/Desktop/sara/tareas/3%20Semestre/Cuanti/Marco-historico-Cuantitativa%20(1).docx
+2015-11-18 04:10:20Z: %USERPROFILE%/Desktop/sara/tareas/3%20Semestre/Derecho/PIA-DERECHOchecado.docx
+2016-01-13 02:51:47Z: %USERPROFILE%/Downloads/grupo-focal.docx
+2016-01-14 01:08:52Z: %USERPROFILE%/Downloads/PADRES-DE-FAMILIA.docx
+2016-01-14 01:09:17Z: %USERPROFILE%/Downloads/mamá-Sofía.docx
+2016-01-14 01:09:18Z: %USERPROFILE%/Downloads/papá-Sury.docx
+2016-01-14 01:09:32Z: %USERPROFILE%/Downloads/mamá-Rubí.docx
+2016-01-14 01:10:04Z: %USERPROFILE%/Downloads/papá-David.docx
+2016-01-14 01:09:29Z: %USERPROFILE%/Downloads/papá-Alfredo.docx
+2016-01-14 01:09:39Z: %USERPROFILE%/Downloads/2Gloria.docx
+2016-01-14 01:09:35Z: %USERPROFILE%/Downloads/3Rola.docx
+2016-01-14 01:09:57Z: %USERPROFILE%/Downloads/4-Omar.docx
+2016-01-14 01:09:43Z: %USERPROFILE%/Downloads/5Celina.docx
+2016-01-14 01:09:43Z: %USERPROFILE%/Downloads/6-Sarahi.docx
+2016-01-14 01:09:51Z: %USERPROFILE%/Downloads/7-Susy.docx
+2016-01-23 23:53:57Z: %USERPROFILE%/Desktop/sara/tareas/3%20Semestre/Cuanti/Plantamiento%20de%20Cuanti.docx
+2016-01-29 21:48:26Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Estadistica/Examen%201%20de%20Estadistica.docx
+2016-01-29 22:10:29Z: %USERPROFILE%/Downloads/1.docx
+2016-01-29 21:48:26Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Estadistica/Examen%201%20sin%20respuestas.docx
+2016-01-31 18:24:41Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Contexto%20social%20de%20la%20profesion/Evidencia1-DH..docx
+2016-01-31 18:24:41Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Contexto%20social%20de%20la%20profesion/Evidencia1%20Contex..docx
+2016-02-01 19:03:38Z: %USERPROFILE%/Downloads/mtto%20TPM.docx
+2016-02-02 20:56:57Z: %USERPROFILE%/Downloads/4.CONTEXTO%20DOI-033%20Enero-Junio%202016.docx
+2016-01-30 02:24:02Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Estadistica/Examen%201%20con%20respuestas.docx
+2016-02-07 01:28:00Z: %USERPROFILE%/Downloads/FORMATOS-HOMOLOGADOS.docx
+2016-02-07 18:01:46Z: %USERPROFILE%/Downloads/Cultura%20organizacional.docx
+2016-02-08 22:46:49Z: %USERPROFILE%/Downloads/ensayo.docx
+2016-02-09 00:26:44Z: %USERPROFILE%/Downloads/ensayo%20(1).docx
+2016-02-09 00:50:57Z: %USERPROFILE%/Downloads/ensayo%20(2).docx
+2016-02-09 00:50:57Z: %USERPROFILE%/Desktop/ensayo%20(2).docx
+2016-02-09 00:26:44Z: %USERPROFILE%/Desktop/ensayo%20(1).docx
+2016-02-09 00:50:57Z: %USERPROFILE%/Desktop/ensayo1ays.docx
+2016-02-07 01:28:00Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Practicas%20de%20Comunidad%20%231/FORMATOS-HOMOLOGADOS.docx
+2016-02-11 23:27:46Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Estadistica/Laboratorio%201.docx
+2016-02-15 23:36:01Z: %USERPROFILE%/Downloads/ambiente-ensayo-2.docx
+2016-02-22 02:27:56Z: %USERPROFILE%/Downloads/formatos%20homologados.docx
+2016-02-23 21:42:43Z: %USERPROFILE%/Downloads/PIA-DE-ENFOQUES.docx
+2016-02-23 22:58:05Z: %USERPROFILE%/Downloads/trilla%20resumen.doc
+2016-02-11 23:27:46Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Estadistica/Fase%201/Laboratorio%201.docx
+2016-02-24 22:39:57Z: %USERPROFILE%/Downloads/Laboratorio-1.docx
+2016-02-25 22:15:10Z: %USERPROFILE%/Downloads/Evidencia%202%20Guia%20de%20observacion%20comunitaria%20-%20copia.docx
+2016-02-26 02:06:09Z: %USERPROFILE%/Downloads/CANCIONCONTEXTO.docx
+2016-02-27 22:27:54Z: %USERPROFILE%/Downloads/escudo.docx
+2016-02-27 23:18:34Z: %USERPROFILE%/Downloads/Doc1.docx
+2016-02-28 01:47:28Z: %USERPROFILE%/Downloads/Escudo%20(1).docx
+2016-02-28 16:41:55Z: %USERPROFILE%/Downloads/Alejandra-escudo-desarrollo.docx
+2016-02-29 02:25:58Z: %USERPROFILE%/Downloads/El-Escudo-de-mi-Familia-Iris-Castruita-Rubio.docx
+2016-02-29 02:25:22Z: %USERPROFILE%/Downloads/EL-ESCUDO-DE-MI-FAMILIA-BETXUA-VALLE.docx
+2016-02-27 01:42:29Z: %USERPROFILE%/Downloads/Distribucion%20de%20Frecuencia.docx
+2016-03-04 01:38:47Z: %USERPROFILE%/Downloads/rev.docx
+2016-03-04 02:19:01Z: %USERPROFILE%/Downloads/derecho-cuadr-comparativo.docx
+2016-03-04 02:31:09Z: %USERPROFILE%/Downloads/CUADRO%20COMP.DERECHO.docx
+2016-03-04 02:49:44Z: %USERPROFILE%/Downloads/ConstDecl.docx
+2016-03-04 03:01:00Z: %USERPROFILE%/Downloads/derecho-3-articulos%20(1).docx
+2016-03-04 03:34:45Z: %USERPROFILE%/Downloads/Art.docx
+2016-03-04 04:14:28Z: %USERPROFILE%/Downloads/Cuadro%20comparativo%201-2.docx
+2016-03-08 02:55:42Z: %USERPROFILE%/Downloads/Integrantes.docx
+2016-03-10 22:26:11Z: %USERPROFILE%/Downloads/MAPEO.docx
+2016-03-11 03:28:54Z: %USERPROFILE%/Desktop/Practicas/guia%202%20prcticas.docx
+2016-03-10 22:26:11Z: %USERPROFILE%/Desktop/Practicas/VI.-%20ELABORACIÓN%20DEL%20MAPA%20COMUNITARIO..docx
+2016-03-11 03:17:34Z: %USERPROFILE%/Desktop/Practicas/Listado-de-necesidades.docx
+2016-03-11 03:16:02Z: %USERPROFILE%/Desktop/Practicas/Distribucion-de-Frecuencia-1.docx
+2016-03-11 04:30:16Z: %USERPROFILE%/Downloads/gobierno-local.docx
+2016-03-17 23:16:25Z: %USERPROFILE%/Downloads/Artículo%2015.docx
+2016-03-15 22:40:58Z: %USERPROFILE%/Desktop/sara/Check%20list%20para%20evidencias.docx
+2016-03-11 03:17:34Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Practicas%20de%20Comunidad%20%231/Practicas/Listado-de-necesidades.docx
+2016-03-19 02:27:05Z: %USERPROFILE%/Desktop/sara/EVIDENCIA%203%20TECNOLOGIA%20EN%20TRABAJO%20SOCIAL%20%20%20CONTEXTO%20SOCIAL%20DE%20LA%20PROFESION.docx
+2016-03-23 22:55:35Z: %USERPROFILE%/Downloads/estadisticas.docx
+2016-03-19 02:27:05Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Contexto%20social%20de%20la%20profesion/EVIDENCIA%203%20TECNOLOGIA%20EN%20TRABAJO%20SOCIAL%20%20%20CONTEXTO%20SOCIAL%20DE%20LA%20PROFESION.docx
+2016-04-05 02:50:09Z: %USERPROFILE%/Downloads/Mapa%20Conceptual%20ambin.docx
+2016-04-12 22:02:53Z: %USERPROFILE%/Downloads/actividades.docx
+2016-04-14 19:58:49Z: %USERPROFILE%/Downloads/Laboratorio%202.docx
+2016-04-14 20:44:46Z: %USERPROFILE%/Downloads/mapas%20mentales%20derecho.docx
+2016-04-15 00:28:30Z: %USERPROFILE%/Downloads/CONTROL%20DE%20ASISTENCIA.docx
+2016-04-15 01:34:20Z: %USERPROFILE%/Downloads/mapa-violencia-familiar%20(1).docx
+2016-04-15 00:48:34Z: %USERPROFILE%/Downloads/mapa-violencia-familiar.docx
+2016-04-15 00:50:33Z: %USERPROFILE%/Downloads/mapa-de-derecho.docx
+2016-04-15 21:32:44Z: %USERPROFILE%/Downloads/Mesa%20redonda%20%204%20D.docx
+2016-04-15 21:32:44Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Desarrollo%20Humano/Mesa%20redonda%20%204%20D.docx
+2016-04-21 23:48:28Z: %USERPROFILE%/Downloads/conclusion-DH.docx
+2016-04-21 23:48:58Z: %USERPROFILE%/Downloads/Conclusión.docx
+2016-04-21 23:50:32Z: %USERPROFILE%/Downloads/Introducción.doc
+2016-02-15 23:36:01Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Ambiente%20y%20sustentabilidad/ambiente-ensayo-2.docx
+2016-05-03 01:28:18Z: %USERPROFILE%/Downloads/CASO-PIA.docx
+2016-05-03 19:49:34Z: %USERPROFILE%/Downloads/Universidad-Autónoma-de-Nuevo-Leó1.docx
+2016-05-04 22:38:17Z: %USERPROFILE%/Downloads/CAPITULO-IIExploracion.docx
+2016-02-25 22:15:10Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Practicas%20de%20Comunidad%20%231/Evidencia%202%20Guia%20de%20observacion%20comunitaria%20-%20copia.docx
+2016-05-06 21:50:05Z: %USERPROFILE%/Downloads/Programa%20de%20comunidad%20%231.docx
+
+PowerPoint - TrustRecords
+2015-08-15 22:48:03Z: %USERPROFILE%/Downloads/Modelos-de-intervención-comunitaria.pptx
+2015-08-15 22:48:03Z: %USERPROFILE%/Documents/sara/Modelos-de-intervención-comunitaria.pptx
+2015-08-15 22:48:12Z: %USERPROFILE%/Desktop/Modelos-de-intervención-comunitaria%20(1).pptx
+2015-09-18 13:22:04Z: %USERPROFILE%/Downloads/derechp.pptx
+2015-11-09 20:26:18Z: %USERPROFILE%/Downloads/Artes/Clase%20de%20Artes%20Equipo1.pptx
+2015-11-09 21:02:24Z: file:///F:/sara/Artes/Clase%20de%20Artes%20Equipo1.pptx
+2015-11-25 13:48:02Z: %USERPROFILE%/Downloads/PIA-enfoques.pptx
+2016-01-26 02:27:02Z: %USERPROFILE%/Downloads/la-tierra.pptx
+2016-01-27 22:14:15Z: %USERPROFILE%/Downloads/estadisticas.pptx
+2016-01-28 01:51:45Z: %USERPROFILE%/Downloads/Estadistica.pptx
+2016-01-28 23:04:09Z: %USERPROFILE%/Downloads/Estadistica%20(1).pptx
+2016-02-02 20:18:08Z: %USERPROFILE%/Downloads/contexto.pptx
+1970-01-01 00:00:00Z: https://d.docs.live.net/a9b5f7ecab9440bc/2%20comunidades.pptx
+2016-02-20 00:21:08Z: %USERPROFILE%/Downloads/Representación-social-de-las-profesiones.pptx
+2016-02-21 18:41:03Z: %USERPROFILE%/Downloads/Magic%20servicie%20II.pptx
+2016-02-27 02:08:26Z: %USERPROFILE%/Downloads/escudo.pptx
+2016-02-27 03:31:40Z: %USERPROFILE%/Downloads/DH-ESCUDO.pptx
+2016-02-27 23:04:54Z: %USERPROFILE%/Downloads/escudo-desarrollo-ilse.pptx
+2016-02-27 23:07:14Z: %USERPROFILE%/Downloads/Escudo-Karla-Berlanga.pptx
+2016-02-29 02:26:09Z: %USERPROFILE%/Downloads/Actividad-2-Escudo-Meche.pptx
+2016-02-29 22:05:30Z: %USERPROFILE%/Downloads/ESCUDO-DESARROLLO-HUMANO.pptx
+2016-02-29 23:18:06Z: %USERPROFILE%/Downloads/EL-ESCUDO-DE-MI-FAMILIA.pptx
+2016-02-29 22:34:05Z: %USERPROFILE%/Downloads/ESCUDO-FAMILIA-DH.pptx
+2016-03-01 04:04:19Z: %USERPROFILE%/Downloads/El-escudo-de-mi-familia%20(1).pptx
+2016-03-13 03:55:31Z: %USERPROFILE%/Downloads/clase-de-derecho.pptx
+2016-03-29 21:18:50Z: %USERPROFILE%/Downloads/Clase-E4-Derecho-personas-con-discapacidad-1.pptx
+2016-03-29 21:18:50Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Derecho/Clase-E4-Derecho-personas-con-discapacidad-1.pptx
+2016-04-05 20:37:53Z: %USERPROFILE%/Downloads/medidas-de-dispersion-calis.pptx
+2016-02-03 20:47:36Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Ambiente%20y%20sustentabilidad/la-tierra%20(1).pptx
+2016-04-13 23:22:35Z: %USERPROFILE%/Downloads/violencia%20fam%20(1)/violencia%20fam/Clase%20D%20E%20R%20E%20C%20H%20O.pptx
+2016-04-19 03:21:06Z: %USERPROFILE%/Downloads/ambiente-clase.pptx
+
+Excel - TrustRecords
+2016-02-23 21:32:04Z: %USERPROFILE%/Downloads/AGEB%200884.xls
+2016-02-23 21:34:48Z: %USERPROFILE%/Downloads/Metroplex2005.xls
+2016-02-23 21:31:03Z: %USERPROFILE%/Downloads/AGEB%200901.xls
+2016-03-06 18:10:03Z: %USERPROFILE%/Downloads/Diagnóstico%20comunitario%202016.xls
+2016-03-06 18:10:03Z: %USERPROFILE%/Desktop/sara/tareas/4%20Semestre/Diagnóstico%20comunitario%202016.xls
+
+
+Word - Reading Locations
+2016-03-14 23:29:38Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Derecho\Mapa concep..docx (2016-03-14T17:29)
+2016-04-02 20:45:51Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Derecho\Mapa coonceptual.docx (2016-04-02T14:45)
+2016-03-24 19:19:24Z: C:\Users\Usuario\Desktop\sara\EVIDENCIA 3 TECNOLOGIA EN TRABAJO SOCIAL   CONTEXTO SOCIAL DE LA PROFESION.docx (2016-03-24T13:19)
+2016-04-06 01:28:25Z: C:\Users\Usuario\Downloads\estadisticas.docx (2016-04-05T20:28)
+2016-03-24 02:42:20Z: C:\Users\Usuario\Desktop\sara\Clase 2 Estadistica.docx (2016-03-23T20:42)
+2016-04-17 04:20:10Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Contexto social de la profesion\Evidencia 3 Reporte de Investigacion.docx (2016-04-16T23:20)
+2016-04-07 03:01:09Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Contexto social de la profesion\evi3.docx (2016-04-06T22:01)
+2016-04-06 22:51:29Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Contexto social de la profesion\EVIDENCIA 3 TECNOLOGIA EN TRABAJO SOCIAL   CONTEXTO SOCIAL DE LA PROFESION.docx (2016-04-06T17:51)
+2016-04-02 20:51:39Z: C:\Users\Usuario\Documents\Mapa Conceptual de Discapacidad.docx (2016-04-02T14:51)
+2016-04-14 01:32:21Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Derecho\Mapa Conceptual Violencia contra la Mujer.docx (2016-04-13T20:32)
+2016-04-04 19:39:29Z: C:\Users\Usuario\Documents\Esc2.docx (2016-04-04T14:39)
+2016-04-05 03:07:20Z: D:\Escuela\AMBIENTE 4\AMBIENTE MAPA CONCEPTUAL.docx (2016-04-04T22:07)
+2016-03-22 02:37:55Z: C:\Users\Usuario\Downloads\Artículo 15.docx (2016-03-21T20:37)
+2016-04-14 01:13:29Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Derecho\Mapa Conceptual de Discapacidad.docx (2016-04-13T20:13)
+2016-04-05 01:47:16Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Ambiente y sustentabilidad\Mapa Conceptual - copia.docx (2016-04-04T20:47)
+2016-04-05 02:41:57Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Estadistica\Clase 2 Estadistica.docx (2016-04-04T21:41)
+2016-04-05 03:45:06Z: C:\Users\Usuario\Downloads\Mapa Conceptual ambin.docx (2016-04-04T22:45)
+2016-04-08 03:28:27Z: C:\Users\Usuario\Documents\Niños con síndrome.docx (2016-04-07T22:28)
+2016-04-07 21:02:17Z: C:\Users\Usuario\Desktop\actividades.docx (2016-04-07T16:02)
+2016-04-08 19:24:03Z: C:\Users\Usuario\Desktop\admi.docx (2016-04-08T14:24)
+2016-05-05 04:47:35Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Practicas de Comunidad #1\Evidencia 1 Guia de observacion estructurada.docx (2016-05-04T23:47)
+2016-05-06 21:47:30Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Practicas de Comunidad #1\Evidencia 2 Guia de observacion comunitaria - copia.docx (2016-05-06T16:47)
+2016-04-09 18:01:26Z: D:\bluetooth\Laboratorio 1..docx (2016-04-09T13:01)
+2016-03-19 02:31:19Z: C:\Users\Usuario\Downloads\EVIDENCIA 3 TECNOLOGIA EN TRABAJO SOCIAL   CONTEXTO SOCIAL DE LA PROFESION.docx (2016-03-18T20:31)
+2016-04-14 01:34:17Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Derecho\Mapa conceptual violencia familiar.docx (2016-04-13T20:34)
+2016-04-12 20:01:51Z: C:\Users\Usuario\AppData\Local\Microsoft\Windows\INetCache\IE\7C7TIOVM\Ejercicio_10[1].docx (2016-04-12T15:01)
+2016-04-12 20:25:51Z: C:\Users\Usuario\AppData\Local\Microsoft\Windows\INetCache\IE\ORJ7CN1L\Ejercicio_10[1].docx (2016-04-12T15:25)
+2016-04-12 23:50:20Z: C:\Users\Usuario\Downloads\actividades.docx (2016-04-12T18:50)
+2016-04-12 23:50:36Z: C:\Users\Usuario\Desktop\CAJAS DE TORTUGAS Y CATARINA.docx (2016-04-12T18:50)
+2016-04-13 02:09:55Z: C:\Users\Usuario\AppData\Local\Microsoft\Windows\INetCache\IE\SLVHL6JN\Ejercicio_10[1].docx (2016-04-12T21:09)
+2016-04-15 22:15:50Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Desarrollo Humano\Evidencia 1 CORRECCION.docx (2016-04-15T17:15)
+2016-04-13 22:58:46Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Desarrollo Humano\evidencia 3.docx (2016-04-13T17:58)
+2016-04-15 00:39:55Z: C:\Users\Usuario\Downloads\Laboratorio 2.docx (2016-04-14T19:39)
+2016-04-14 23:52:53Z: C:\Users\Usuario\Downloads\Programa-de-comunidad-2.docx (2016-04-14T18:52)
+2016-04-05 01:47:10Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Ambiente y sustentabilidad\Mapa Conceptual.docx (2016-04-04T20:47)
+2016-04-14 23:53:00Z: C:\Users\Usuario\Downloads\Manual de codificación Diagnóstico Comunitario 2016.doc (2016-04-14T18:53)
+2016-04-15 00:44:21Z: D:\sara\Laboratorio 2.docx (2016-04-14T19:44)
+2016-04-15 01:35:26Z: C:\Users\Usuario\Downloads\mapas mentales derecho.docx (2016-04-14T20:35)
+2016-04-15 01:59:28Z: C:\Users\Usuario\Downloads\CONTROL DE ASISTENCIA.docx (2016-04-14T20:59)
+2016-04-15 01:45:32Z: C:\Users\Usuario\Downloads\mapa-violencia-familiar (1).docx (2016-04-14T20:45)
+2016-04-15 01:56:49Z: C:\Users\Usuario\Downloads\mapa-violencia-familiar.docx (2016-04-14T20:56)
+2016-04-15 01:59:34Z: C:\Users\Usuario\Downloads\mapa-de-derecho.docx (2016-04-14T20:59)
+2016-04-04 19:43:57Z: C:\Users\Usuario\Documents\Esc4.docx (2016-04-04T14:43)
+2016-04-15 21:46:37Z: C:\Users\Usuario\Downloads\Mesa redonda  4 D.docx (2016-04-15T16:46)
+2016-05-06 23:59:49Z: C:\Users\Usuario\Desktop\4.1.3- Actividades y Cronograma..docx (2016-05-06T18:59)
+2016-03-20 05:08:37Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Ambiente y sustentabilidad\Ensayo 3.docx (2016-03-19T23:08)
+2016-03-22 20:37:33Z: C:\Users\Usuario\Desktop\sara\Check list para evidencias.docx (2016-03-22T14:37)
+2016-03-22 04:50:13Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Desarrollo Humano\Sarahi Martinez Rodriguez Evi 1.docx (2016-03-21T22:50)
+2016-03-22 04:57:27Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Desarrollo Humano\Sarahi Martinez Rodriguez Evi 2.docx (2016-03-21T22:57)
+2016-03-22 05:10:40Z: C:\Users\Usuario\Desktop\sara\tareas\4 Semestre\Practicas de Comunidad #1\Practicas\Listado-de-necesidades.docx (2016-03-21T23:10)
+
+----------------------------------------
+muicache v.20200525
+(NTUSER.DAT,USRCLASS.DAT) Gets EXEs from user's MUICache key
+
+Software\Microsoft\Windows\ShellNoRoam\MUICache not found.
+
+Local Settings\Software\Microsoft\Windows\Shell\MUICache not found.
+----------------------------------------
+nation v.20200517
+(ntuser.dat) Gets region information from HKCU
+
+Nation Information Check
+Control Panel\International\Geo
+LastWrite time: 2013-08-21 23:50:37Z
+
+The Region value is : 166
+The Country Is: Mexico
+For more information please visit the link below:
+https://msdn.microsoft.com/en-us/library/aa723531.aspx
+
+----------------------------------------
+oisc v.20091125
+(NTUSER.DAT) Gets contents of user's Office Internet Server Cache
+
+Office Version: 15.0
+https://d.docs.live.net/
+LastWrite time: 2016-02-20 01:46:19Z
+Expiration    : 2016-03-02 03:22:19Z
+
+https://d.docs.live.net/a9b5f7ecab9440bc/
+LastWrite time: 2016-03-06 01:42:01Z
+Expiration    : 2016-03-13 13:42:01Z
+
+https://d.docs.live.net/a9b5f7ecab9440bc/Trabajo%20Socialn%20%5e0%20Desarrollo%20Humano/
+LastWrite time: 2015-09-22 01:49:10Z
+
+----------------------------------------
+onedrive v.20200515
+(NTUSER.DAT) Gets contents of user's OneDrive key
+
+Software\Microsoft\OneDrive
+----------------------------------------
+OSVersion
+Software\Microsoft
+LastWrite Time 2020-11-27 23:20:40Z
+
+OSVersion value not found.
+----------------------------------------
+outlookhomepage v.20201002
+(NTUSER.DAT, Software) Retrieve values set to attack Outlook WebView Homepage
+
+Looking for webview homepage modifications. If this value is pointing
+to a URL outside the corporate domain it may be a malicious site.
+
+Looking for key values associated with security.
+If you see:
+[Example]  EnableRoamingFolderHomepages : 1
+[Example]  NonDefaultStoreScript : 1
+[Example]  EnableUnsafeClientMailRules : 1
+You may have a security vulnerability that allows attackers to hijack the URL
+
+----------------------------------------
+pendinggpos v.20200427
+NTUSER.DAT - Gets contents of user's PendingGPOs key
+
+Software\Microsoft\IEAK\GroupPolicy\PendingGPOs not found.
+----------------------------------------
+profiler v.20200525
+(NTUSER.DAT, System) Environment profiler information
+
+Environment
+LastWrite Time 2020-11-11 23:13:38Z
+
+MOZ_PLUGIN_PATH -> C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\
+Path -> C:\Program Files (x86)\Nmap
+TEMP -> %USERPROFILE%\AppData\Local\Temp
+TMP -> %USERPROFILE%\AppData\Local\Temp
+
+----------------------------------------
+pslogging v.20200515
+(NTUSER.DAT, Software) Extracts PowerShell logging settings
+
+Software\Policies\Microsoft\Windows\PowerShell not found.
+Policies\Microsoft\Windows\PowerShell not found.
+----------------------------------------
+----------------------------------------
+putty v.20200515
+(NTUSER.DAT) Extracts the saved SshHostKeys for PuTTY.
+
+PuTTY
+Software\SimonTatham\PuTTY\SshHostKeys
+LastWrite Time 2020-05-08 00:42:57Z
+
+ssh-ed25519@22:189.202.224.28 -> 0x50d2d033d2b5e9b494d83b9bdc2d2c75d182ffa1af0c11d5da5e5f4d74aa4ac5,0x30a9ba0436bf53ea77de69c3e70a84e0742ea55856c89ccdf6591191c14d539a
+ssh-ed25519@23171:189.202.224.28 -> 0x422febbc2a0d12f3c727df67d3483bd69779f7af297a025e8be497fa31580f96,0x4c142a8e6f5c02aac864cb2968b4df85c7c0d6b77f82b3f794951cc910877f8b
+
+----------------------------------------
+recentapps v.20200515
+- Gets contents of user's RecentApps key
+
+Software\Microsoft\Windows\CurrentVersion\Search\RecentApps not found.
+----------------------------------------
+recentdocs v.20200427
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time: 2020-11-28 00:28:14Z
+  25 = Usuario
+  1 = ntuser.dat
+  92 = REPORTE.txt
+  31 = kp.docx
+  137 = df.docx
+  70 = Daniela-Martinez_E16-20.pdf
+  69 = Daniela-Martinez_16-20.pdf
+  109 = 127174454_1010465639473611_8080006969028150197_n.jpg
+  6 = BECA
+  115 = Nomina 1.pdf
+  147 = Nomina 2.pdf
+  128 = Nomina 3.pdf
+  54 = Beca 21
+  42 = Comprobante.pdf
+  120 = CEN120413T60_MAMA721113TWA_bf24b167-fca2-47bd-bbf5-9f735be137d1.pdf
+  13 = CEN120413T60_MAMA721113TWA_f4c5713a-cfe0-4406-87f4-520efdff94ea.pdf
+  63 = CEN120413T60_MAMA721113TWA_450af1a5-fc5e-4f16-b244-9a232ad4e168.pdf
+  83 = Recibo 3.pdf
+  0 = Descargas
+  29 = Comprobante.jpg
+  121 = Recibo 3.jpg
+  97 = Recibo 2.jpg
+  87 = Recibo 1.jpg
+  139 = ilovepdf_jpg-to-pdf.zip
+  18 = Tarea-4.zip
+  133 = Tarea-4
+  59 = Nueva carpeta
+  20 = Tarea4.PC.docx
+  8 = Python38-32
+  144 = jd.py
+  28 = jxx.py
+  33 = Herramientas Python.docx
+  2 = sueldosfps
+  35 = CEN120413T60_MAMA721113TWA_bf24b167-fca2-47bd-bbf5-9f735be137d1.xml
+  19 = PS
+  9 = PS.E2.docx
+  73 = script.zip
+  27 = ih.py
+  100 = Tarea 8. Equipo 2.xlsx
+  148 = requirements.txt
+  130 = apis.txt
+  57 = hyg.txt
+  143 = dv.py
+  7 = clima.py
+  4 = j.docx
+  74 = script.ps1
+  112 = et.py
+  124 = Moon.jpg
+  106 = descarga (2).jpg
+  77 = tipos-de-imágenes-1280x720.jpg
+  53 = pyExif.py
+  50 = exifXtract.ps1
+  38 = Tarea-6.docx
+  67 = g.docx
+  16 = Cultura
+  55 = Tarea 4.docx
+  113 = TXT.rar
+  85 = 65293083_1222943111207992_2949881498506887168_n.jpg
+  79 = Practica8.py
+  60 = uqs.py
+  122 = j
+  39 = welcome.msg
+  118 = nueva
+  26 = ja.docx
+  126 = rtet35y3ry4.py
+  90 = TXT
+  107 = lista.txt
+  111 = E8.zip
+  136 = Datos.csv
+  142 = Resultados.csv
+  135 = dx.csv
+  146 = output.csv
+  11 = Res.csv
+  14 = .spyder-py3
+  15 = nmap
+  72 = pdb_history.sqlite
+  149 = T3.rar
+  24 = Discretas
+  141 = photo.jpg
+  32 = Clima.txt
+  103 = Calendario2020.txt
+  119 = Practica6.txt
+  47 = RealdeCatorce.txt
+  71 = Tarea 2.rar
+  36 = imagenes
+  99 = msg.txt
+  116 = PIL
+  88 = Proyectos
+  104 = video.rar
+  23 = imagenes.rar
+  5 = Practica-4.zip
+  86 = Practicas
+  134 = .git
+  140 = Practica-4.1.ps1
+  98 = EJ3.rar
+  80 = Practica-4.ps1
+  51 = E3IP.rar
+  21 = IP
+  30 = Tabloide.pub
+  3 = Camera
+  10 = EVELYN RAYAS ESTRADA 1914056 PRACTICA DE INDEMNINIZACION.xlsx
+  138 = JAZMIN MICHELLE SALAS MÁRQUEZ 1900443 PRACTICA DE INDEMNINIZACION.xlsx
+  131 = kali-linux-2020.3-installer-i386.iso
+  82 = kali-linux-2020.3-installer-amd64.iso
+  56 = 2 semestre
+  129 = EJ3
+  125 = E3Sc.ps1
+  48 = E3Mod.psm1
+  12 = E3Mod.psd1
+  52 = E3IP
+  81 = E3IP.ps1
+  34 = E3-DMR.ps1
+  44 = Templates
+  41 = Normal.dotm
+  64 = WhatsApp Images
+  17 = FSI
+  95 = FORMATOS DE REGISTRO DE EQUIPOS DE TRABAJO - Malala Yusufzai.doc
+  45 = Identificacion Alumno.dotx
+  145 = RESET-EPSON-L100-L210-L300-L350-L355.rar
+  46 = cfdi_51085 (2).zip
+  43 = cfdi_51085 (3).zip
+  123 = cfdi_51085 (4).zip
+  108 = cfdi_51085.zip
+  76 = PIA.pptx
+  61 = PIA.zip
+  105 = Cal2020.json
+  89 = city.list.json
+  117 = city.list.json.gz
+  101 = obo-t17800628-33.html
+  58 = PIA MAMALON 2.0.pptx
+  22 = Aliena · SlidesCarnival.pptx
+  49 = PIA MAMALON.pptx
+  110 = Eglamour · SlidesCarnival.pptx
+  78 = FSO.FSO
+  84 = putty.chm
+  37 = st4905.rar
+  114 = MSGR_PHOTO_FOR_UPLOAD_1524236564976.jpg_1524236567531.jpeg
+  65 = received_543887496072005.jpeg
+  94 = received_284951458783609.jpeg
+  66 = received_670613273339114.jpeg
+  132 = received_1903510219953622.jpeg
+  93 = received_1956466731325623.jpeg
+  127 = received_2277090719188156~2.jpeg
+  91 = received_1487024341384709.jpeg
+  102 = Screenshot_20180511-150748.png
+  96 = Screenshot_20180510-232921.png
+  68 = Screenshot_20180509-065910.png
+  40 = Screenshot_20180508-180755.png
+  75 = Screenshot_20180502-215808.png
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.asd
+LastWrite Time 2018-09-06 03:12:14Z
+MRUListEx = 1,0
+  1 = Doc1((Unsaved-306885613189918944)).asd
+  0 = Universidad Autónoma de Nuevo León((Unsaved-306545553942496720)).asd
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.cer
+LastWrite Time 2018-09-28 17:31:54Z
+MRUListEx = 0
+  0 = mars970101c87.cer
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.chm
+LastWrite Time 2020-04-28 03:22:33Z
+MRUListEx = 0
+  0 = putty.chm
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.crdownload
+LastWrite Time 2019-08-27 23:04:57Z
+MRUListEx = 0
+  0 = Sin confirmar 926159.crdownload
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.csv
+LastWrite Time 2020-11-12 03:48:06Z
+MRUListEx = 2,0,4,3,1
+  2 = Datos.csv
+  0 = Resultados.csv
+  4 = dx.csv
+  3 = output.csv
+  1 = Res.csv
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.dat
+LastWrite Time 2020-11-28 00:28:14Z
+MRUListEx = 3,1,2,0
+  3 = ntuser.dat
+  1 = T_190803.dat
+  2 = tarea.dat
+  0 = 236949_26-08-2019_05-30-06_7.dat
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.doc
+LastWrite Time 2020-09-04 21:58:05Z
+MRUListEx = 4,1,3,2,0
+  4 = FORMATOS DE REGISTRO DE EQUIPOS DE TRABAJO - Malala Yusufzai.doc
+  1 = GUIA-DE-APRENDIZAJE-INGLES-PROGRESIVO-III-2018.doc
+  3 = PIA-DE-MATE-3-AD2018.doc
+  2 = LABORATORIO-2DO-PARCIAL-MATE-3.doc
+  0 = Reacciones_de_las_Aminas.doc
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.docx
+LastWrite Time 2020-11-27 03:21:57Z
+MRUListEx = 3,5,8,0,1,2,4,7,6,9
+  3 = kp.docx
+  5 = df.docx
+  8 = Tarea4.PC.docx
+  0 = Herramientas Python.docx
+  1 = PS.E2.docx
+  2 = j.docx
+  4 = Tarea-6.docx
+  7 = g.docx
+  6 = Tarea 4.docx
+  9 = ja.docx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.dotm
+LastWrite Time 2020-09-21 15:51:49Z
+MRUListEx = 0
+  0 = Normal.dotm
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.dotx
+LastWrite Time 2020-09-04 21:13:04Z
+MRUListEx = 1,0
+  1 = Identificacion Alumno.dotx
+  0 = Currículum vítae conjunto rosa.dotx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.DSC
+LastWrite Time 2019-02-24 04:35:33Z
+MRUListEx = 0
+  0 = NIKON001.DSC
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.FlashReading_svpzzx4171ng6
+LastWrite Time 2019-09-01 22:37:42Z
+MRUListEx = 0
+  0 = InstallProgress?PFN=60061LinaManjarresApps.FlashReading_svpzzx4171ng6
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.FSO
+LastWrite Time 2020-05-09 06:14:30Z
+MRUListEx = 0
+  0 = FSO.FSO
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.gif
+LastWrite Time 2018-05-17 21:41:58Z
+MRUListEx = 0
+  0 = 050bca922223a6bb5d56d5b163f1ee57.gif
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.gz
+LastWrite Time 2020-06-04 07:00:59Z
+MRUListEx = 0
+  0 = city.list.json.gz
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.htm
+LastWrite Time 2018-09-02 03:02:11Z
+MRUListEx = 0
+  0 = Peritaje Social.htm
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.html
+LastWrite Time 2020-06-03 04:48:15Z
+MRUListEx = 2,1,0
+  2 = obo-t17800628-33.html
+  1 = index.html
+  0 = normal-0-21-false-false-false-es-pe-x.html
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ico
+LastWrite Time 2018-04-21 01:45:17Z
+MRUListEx = 0
+  0 = RBKarelTitle.gif.ico
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.iso
+LastWrite Time 2020-10-02 20:39:55Z
+MRUListEx = 1,0
+  1 = kali-linux-2020.3-installer-i386.iso
+  0 = kali-linux-2020.3-installer-amd64.iso
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpeg
+LastWrite Time 2019-12-08 21:08:48Z
+MRUListEx = 9,8,7,6,5,4,3,2,1,0
+  9 = MSGR_PHOTO_FOR_UPLOAD_1524236564976.jpg_1524236567531.jpeg
+  8 = received_543887496072005.jpeg
+  7 = received_284951458783609.jpeg
+  6 = received_670613273339114.jpeg
+  5 = received_1903510219953622.jpeg
+  4 = received_1956466731325623.jpeg
+  3 = received_2277090719188156~2.jpeg
+  2 = received_1487024341384709.jpeg
+  1 = IMG-20180920-WA0010.jpeg
+  0 = received_1632368167009319.jpeg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpg
+LastWrite Time 2020-11-26 23:20:49Z
+MRUListEx = 0,4,5,6,7,8,2,3,1,9
+  0 = 127174454_1010465639473611_8080006969028150197_n.jpg
+  4 = Comprobante.jpg
+  5 = Recibo 3.jpg
+  6 = Recibo 2.jpg
+  7 = Recibo 1.jpg
+  8 = Moon.jpg
+  2 = descarga (2).jpg
+  3 = tipos-de-imágenes-1280x720.jpg
+  1 = 65293083_1222943111207992_2949881498506887168_n.jpg
+  9 = photo.jpg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.json
+LastWrite Time 2020-06-04 18:29:18Z
+MRUListEx = 0,1
+  0 = Cal2020.json
+  1 = city.list.json
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.key
+LastWrite Time 2018-09-28 17:31:51Z
+MRUListEx = 0
+  0 = Claveprivada_FIEL_MARS970101C87_20180926_104156.key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.msg
+LastWrite Time 2020-11-14 23:39:53Z
+MRUListEx = 0
+  0 = welcome.msg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pdf
+LastWrite Time 2020-11-27 03:20:56Z
+MRUListEx = 5,2,0,4,1,8,9,7,3,6
+  5 = Daniela-Martinez_E16-20.pdf
+  2 = Daniela-Martinez_16-20.pdf
+  0 = Nomina 1.pdf
+  4 = Nomina 2.pdf
+  1 = Nomina 3.pdf
+  8 = Comprobante.pdf
+  9 = CEN120413T60_MAMA721113TWA_bf24b167-fca2-47bd-bbf5-9f735be137d1.pdf
+  7 = CEN120413T60_MAMA721113TWA_f4c5713a-cfe0-4406-87f4-520efdff94ea.pdf
+  3 = CEN120413T60_MAMA721113TWA_450af1a5-fc5e-4f16-b244-9a232ad4e168.pdf
+  6 = Recibo 3.pdf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pkg
+LastWrite Time 2019-09-01 18:19:32Z
+MRUListEx = 0
+  0 = Anaconda2-2019.07-MacOSX-x86_64.pkg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.png
+LastWrite Time 2019-12-08 21:03:42Z
+MRUListEx = 6,5,4,3,2,1,0,9,8,7
+  6 = Screenshot_20180511-150748.png
+  5 = Screenshot_20180510-232921.png
+  4 = Screenshot_20180509-065910.png
+  3 = Screenshot_20180508-180755.png
+  2 = Screenshot_20180502-215808.png
+  1 = Screenshot_20180502-164316.png
+  0 = Screenshot_20180430-232214.png
+  9 = Screenshot_20180430-211110.png
+  8 = Screenshot_20180430-141841.png
+  7 = Screenshot_20180430-065049.png
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ppt
+LastWrite Time 2018-11-15 03:58:05Z
+MRUListEx = 0
+  0 = Aprendizaje_problemas_y_proyectos.ppt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pptm
+LastWrite Time 2019-05-16 23:50:17Z
+MRUListEx = 2,5,6,4,9,3,8,0,1,7
+  2 = Integradora etapa 4.pptm
+  5 = orientacion.pptm
+  6 = FARQ. FIME. FCFM..pptm
+  4 = metacognicion orientacion 3.pptm
+  9 = INTEGRADORA 1 QUIMICA.pptm
+  3 = CARTEL.pptm
+  8 = Integradora Quimica.pptm
+  0 = INTEGRADORA-1-QUIMICA (1).pptm
+  1 = INTEGRADORA-1-QUIMICA.pptm
+  7 = QUIMICA 3.pptm
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pptx
+LastWrite Time 2020-06-05 22:28:23Z
+MRUListEx = 6,8,1,2,5,7,9,3,0,4
+  6 = PIA.pptx
+  8 = PIA MAMALON 2.0.pptx
+  1 = Aliena · SlidesCarnival.pptx
+  2 = PIA MAMALON.pptx
+  5 = Eglamour · SlidesCarnival.pptx
+  7 = Ingel.pptx
+  9 = MRD.pptx
+  3 = Mercadotecnia.pptx
+  0 = ERE.pptx
+  4 = ORIENTACION-CLASE (1).pptx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ps1
+LastWrite Time 2020-11-20 04:43:22Z
+MRUListEx = 6,5,4,3,2,1,0
+  6 = script.ps1
+  5 = exifXtract.ps1
+  4 = Practica-4.1.ps1
+  3 = Practica-4.ps1
+  2 = E3Sc.ps1
+  1 = E3IP.ps1
+  0 = E3-DMR.ps1
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.psd1
+LastWrite Time 2020-09-24 02:24:03Z
+MRUListEx = 0
+  0 = E3Mod.psd1
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.psm1
+LastWrite Time 2020-09-24 02:24:22Z
+MRUListEx = 0
+  0 = E3Mod.psm1
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pub
+LastWrite Time 2020-10-12 23:26:19Z
+MRUListEx = 7,6,5,4,3,2,1,0
+  7 = Tabloide.pub
+  6 = INTEGRADORA DE INGLES ETAPA 4.pub
+  5 = INTEGRADORA DE INGLES 4.pub
+  4 = mesa de dulces 2.pub
+  3 = mesa de dulces.pub
+  2 = IMAGENES CANADA.pub
+  1 = Publicación3.pub
+  0 = ingles.pub
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.py
+LastWrite Time 2020-11-26 04:44:20Z
+MRUListEx = 5,4,1,8,0,6,7,2,3,9
+  5 = jd.py
+  4 = jxx.py
+  1 = ih.py
+  8 = dv.py
+  0 = clima.py
+  6 = et.py
+  7 = pyExif.py
+  2 = Practica8.py
+  3 = uqs.py
+  9 = rtet35y3ry4.py
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pyc
+LastWrite Time 2019-08-31 04:38:01Z
+MRUListEx = 0
+  0 = __init__.cpython-37.pyc
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rar
+LastWrite Time 2020-11-15 00:58:13Z
+MRUListEx = 0,9,8,7,6,5,4,3,2,1
+  0 = TXT.rar
+  9 = T3.rar
+  8 = Tarea 2.rar
+  7 = video.rar
+  6 = imagenes.rar
+  5 = EJ3.rar
+  4 = E3IP.rar
+  3 = RESET-EPSON-L100-L210-L300-L350-L355.rar
+  2 = st4905.rar
+  1 = T_190803.rar
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rtf
+LastWrite Time 2018-09-11 22:03:03Z
+MRUListEx = 0
+  0 = top notch 3 unidade 7 completo.rtf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.sqlite
+LastWrite Time 2020-11-11 02:58:26Z
+MRUListEx = 0
+  0 = pdb_history.sqlite
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt
+LastWrite Time 2020-11-28 00:27:59Z
+MRUListEx = 7,6,5,2,3,1,0,9,8,4
+  7 = REPORTE.txt
+  6 = requirements.txt
+  5 = apis.txt
+  2 = hyg.txt
+  3 = lista.txt
+  1 = Clima.txt
+  0 = Calendario2020.txt
+  9 = Practica6.txt
+  8 = RealdeCatorce.txt
+  4 = msg.txt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ve
+LastWrite Time 2018-11-17 03:02:11Z
+MRUListEx = 3,2,1,0
+  3 = PIA INGLES 3.ve
+  2 = PIA INGLES 2.ve
+  1 = PIA INGLES 1.ve
+  0 = PIA INGLES.ve
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.webp
+LastWrite Time 2018-09-28 20:52:43Z
+MRUListEx = 0
+  0 = educacion.webp
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xls
+LastWrite Time 2018-12-07 04:19:16Z
+MRUListEx = 0
+  0 = Guia_Regularizacion_Fisica_2_3er_sem_.xls
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xlsx
+LastWrite Time 2020-11-23 14:21:25Z
+MRUListEx = 5,4,3,1,2,0
+  5 = Tarea 8. Equipo 2.xlsx
+  4 = EVELYN RAYAS ESTRADA 1914056 PRACTICA DE INDEMNINIZACION.xlsx
+  3 = JAZMIN MICHELLE SALAS MÁRQUEZ 1900443 PRACTICA DE INDEMNINIZACION.xlsx
+  1 = nla95fiib1802.xlsx
+  2 = nla95fiia1802.xlsx
+  0 = Requisición de Personal (1).xlsx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xml
+LastWrite Time 2020-11-24 02:04:32Z
+MRUListEx = 1,0
+  1 = CEN120413T60_MAMA721113TWA_bf24b167-fca2-47bd-bbf5-9f735be137d1.xml
+  0 = aaa195ea-c760-463b-85d8-47efab2d6dfa.xml
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.zip
+LastWrite Time 2020-11-26 17:20:27Z
+MRUListEx = 0,9,7,5,4,8,2,3,6,1
+  0 = ilovepdf_jpg-to-pdf.zip
+  9 = Tarea-4.zip
+  7 = script.zip
+  5 = E8.zip
+  4 = Practica-4.zip
+  8 = cfdi_51085 (2).zip
+  2 = cfdi_51085 (3).zip
+  3 = cfdi_51085 (4).zip
+  6 = cfdi_51085.zip
+  1 = PIA.zip
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder
+LastWrite Time 2020-11-28 00:28:14Z
+MRUListEx = 17,7,18,1,15,19,29,8,25,27,12,14,23,3,2,13,24,6,9,0,21,26,20,11,28,5,4,22,10,16
+  17 = Usuario
+  7 = BECA
+  18 = Beca 21
+  1 = Descargas
+  15 = Tarea-4
+  19 = Nueva carpeta
+  29 = Python38-32
+  8 = sueldosfps
+  25 = PS
+  27 = Cultura
+  12 = j
+  14 = nueva
+  23 = TXT
+  3 = lista.txt
+  2 = .spyder-py3
+  13 = nmap
+  24 = Discretas
+  6 = imagenes
+  9 = PIL
+  0 = Proyectos
+  21 = Practicas
+  26 = .git
+  20 = IP
+  11 = Camera
+  28 = 2 semestre
+  5 = EJ3
+  4 = E3IP
+  22 = Templates
+  10 = WhatsApp Images
+  16 = FSI
+
+----------------------------------------
+run v.20200511
+(Software, NTUSER.DAT) [Autostart] Get autostart key contents from Software hive
+
+Software\Microsoft\Windows\CurrentVersion\Run
+LastWrite Time 2020-11-16 22:33:16Z
+  CCleaner Smart Cleaning - "C:\Program Files\CCleaner\CCleaner64.exe" /MONITOR
+  Discord - C:\Users\Usuario\AppData\Local\Discord\app-0.0.307\Discord.exe
+
+Software\Microsoft\Windows\CurrentVersion\Run has no subkeys.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+LastWrite Time 2020-11-23 14:12:34Z
+  Uninstall C:\Users\Usuario\AppData\Local\Microsoft\OneDrive\17.3.6386.0412\amd64 - C:\Windows\system32\cmd.exe /q /c rmdir /s /q "C:\Users\Usuario\AppData\Local\Microsoft\OneDrive\17.3.6386.0412\amd64"
+
+Software\Microsoft\Windows\CurrentVersion\RunOnce has no subkeys.
+
+Software\Microsoft\Windows\CurrentVersion\RunServices not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunServicesOnce not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run32 not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\StartupFolder not found.
+
+----------------------------------------
+runmru v.20200525
+(NTUSER.DAT) Gets contents of user's RunMRU key
+
+RunMru
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+LastWrite Time 2020-10-02 22:07:18Z
+MRUList = ba
+a   WINWORD /SAFE\1
+b   Msinfo32\1
+----------------------------------------
+runvirtual v.20200427
+(NTUSER.DAT, Software) Gets RunVirtual entries
+
+----------------------------------------
+searchscopes v.20200517
+- Gets contents of user's SearchScopes key
+
+SearchScopes
+Software\Microsoft\Internet Explorer\SearchScopes
+DefaultScope: {637D6E3C-DF93-48A5-8362-159A8AC56B11}
+
+{0633EE93-D776-472f-A0FF-E1416B8B2E3A} [2015-08-07 18:27:54Z]
+DisplayName: Bing
+
+{637D6E3C-DF93-48A5-8362-159A8AC56B11} [2015-08-16 21:37:41Z]
+DisplayName: Google
+
+{6CBD5EED-2F09-4AA3-AB3D-26BEC8AD6C9C} [2016-02-28 17:03:18Z]
+DisplayName: Bing
+
+{F0B82B43-AB33-469A-9D84-45F3D45DE70D} [2015-10-21 22:22:27Z]
+DisplayName: Yahoo Search
+
+----------------------------------------
+PanelPath0: C:\Users\Usuario\Downloads\
+
+ArcHistory:
+PathHistory:
+CopyHistory:
+FolderHistory:
+  C:\Users\Usuario\Downloads\
+  
+Software\Wow6432Node\7-Zip not found.
+----------------------------------------
+shc v.20200427
+(NTUSER.DAT) Gets SHC entries from user hive
+
+Software\Microsoft\Windows\CurrentVersion\UFH\SHC
+LastWrite Time 2020-11-19 19:51:53Z
+
+Software\Microsoft\Windows\CurrentVersion\UFH\SHC has no values.
+File History may not be configured for this user.
+----------------------------------------
+shellfolders v.20200515
+Gets user's shell folders values
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+LastWrite Time 2013-08-21 23:55:54Z
+StartUp folder : C:\Users\Usuario\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+LastWrite Time 2019-09-01 22:43:18Z
+StartUp folder : %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+----------------------------------------
+speech v.20200427
+(NTUSER.DAT) Get values from user's Speech key
+
+Software\Microsoft\Speech
+CurrentUserLexicon Datafile value    : %1a%\Microsoft\Speech\Files\UserLexicons\SP_3344FE9DA04F450E8B4764020A89F5AD.dat
+
+Voices DefaultTokenId value          : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ES-ES_HELENA_11.0
+
+PhoneConverters DefaultTokenId value : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\PhoneConverters\Tokens\Spanish
+----------------------------------------
+Software\SysInternals not found.
+----------------------------------------
+Launching tsclient v.20200518
+(NTUSER.DAT) Displays contents of user's Terminal Server Client\Default key
+
+Software\Microsoft\Terminal Server Client\Default not found.
+
+Software\Microsoft\Terminal Server Client\Servers not found.
+----------------------------------------
+typedpaths v.20200526
+(NTUSER.DAT) Gets contents of user's typedpaths key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
+LastWrite Time 2020-11-12 04:01:23Z
+
+url1     C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32\Scripts
+url2     C:\Users\Usuario\.spyder-py3  
+url3     C:\Users\Usuario\.spyder-py3\temp.py
+url4     C:\                           
+----------------------------------------
+typedurls v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLs key.
+
+TypedURLs
+Software\Microsoft\Internet Explorer\TypedURLs
+LastWrite Time 2018-09-26 19:15:37Z
+  url1 -> https://www.sat.gob.mx/
+----------------------------------------
+typedurlstime v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLsTime key.
+
+TypedURLsTime
+Software\Microsoft\Internet Explorer\TypedURLsTime
+LastWrite Time 2018-09-27 21:11:50Z
+  url1 -> 2018-09-27 21:11:50Z (https://www.sat.gob.mx/)
+----------------------------------------
+uninstall v.20200525
+(Software, NTUSER.DAT) Gets contents of Uninstall keys from Software, NTUSER.DAT hives
+
+Uninstall
+Software\Microsoft\Windows\CurrentVersion\Uninstall
+
+2020-11-26 02:25:35Z
+  Microsoft Teams v.1.2.00.17057
+
+2020-11-22 23:10:10Z
+  Microsoft OneDrive v.20.201.1005.0008
+
+2020-09-10 18:34:47Z
+  Discord v.0.0.308
+
+2020-05-31 23:16:33Z
+  Python 3.8.3 (32-bit) v.3.8.3150.0
+
+----------------------------------------
+UserAssist
+Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+LastWrite Time 2013-08-21 23:57:40Z
+
+{9E04CAB2-CC14-11DF-BB8C-A2F1DED72085}
+
+Value names with no time stamps:
+
+{A3D53349-6E61-4557-8FC7-0028EDCEEBF6}
+2017-07-23 06:05:37Z
+  FileManager_cw5n1h2txyewy:Microsoft.Windows.FileManager (0)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+
+{B267E3AD-A825-4A09-82B9-EEC22AA3B847}
+
+{BCB48336-4DDD-48FF-BB0B-D3190DACB3E2}
+2020-10-29 04:30:31Z
+  txt_3191675073_es-ES (0)
+2020-10-25 04:21:43Z
+  txt_2588555124_es-ES (0)
+2020-10-02 22:14:52Z
+  txt_2777989289_es-es (0)
+2020-09-18 20:22:26Z
+  txt_2596991712_es-ES (0)
+2020-05-25 22:45:38Z
+  txt_2461656702_es-ES (0)
+2020-04-23 22:57:50Z
+  txt_2381796460_es-ES (0)
+2019-07-28 17:47:52Z
+  txt_2663903171_es-ES (0)
+2019-07-28 17:47:03Z
+  txt_525504197_es-ES (0)
+2019-03-05 02:32:29Z
+  txt_2902700871_es-es (0)
+2018-05-19 00:15:55Z
+  txt_79259808_es-ES (0)
+2018-04-21 01:32:54Z
+  txt_1463205127_es-ES (0)
+2017-10-09 21:23:50Z
+  set_126018132_es-es (0)
+2017-10-09 21:23:37Z
+  txt_2967180836_es-ES (0)
+2017-07-13 14:28:38Z
+  set_1903583335_es-es (0)
+2017-05-14 04:04:39Z
+  txt_85721550_es-ES (0)
+2017-05-14 03:11:25Z
+  txt_2331370715_es-ES (0)
+2017-05-12 17:26:57Z
+  txt_3312272567_es-ES (0)
+2017-04-01 21:15:48Z
+  txt_532170717_es-ES (0)
+2017-01-10 03:09:57Z
+  txt_2611560166_es-es (0)
+2016-11-28 20:09:16Z
+  txt_256067693_es-ES (0)
+2016-11-28 05:06:19Z
+  txt_4238653044_es-ES (0)
+2016-10-28 02:06:21Z
+  txt_1268363514_es-ES (0)
+2016-08-04 04:55:49Z
+  txt_4077868140_es-es (0)
+2016-08-04 04:44:31Z
+  txt_3415000799_es-ES (0)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+  txt_645314757_es-ES
+
+{CAA59E3C-4792-41A5-9909-6A6A8D32490E}
+2020-06-04 04:19:13Z
+  FileManager_cw5n1h2txyewy:Microsoft.Windows.FileManager (0)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+
+{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}
+2020-11-28 00:45:09Z
+  windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel (2)
+2020-11-28 00:27:58Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\notepad.exe (5)
+2020-11-28 00:26:37Z
+  C:\Users\Usuario\Downloads\RegRipper3.0-master\rr.exe (2)
+2020-11-28 00:26:10Z
+  Microsoft.Windows.Desktop (6)
+2020-11-27 23:33:25Z
+  Chrome (12)
+2020-11-27 03:05:48Z
+  Microsoft.Office.WINWORD.EXE.15 (4)
+2020-11-26 17:20:15Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Winrar\WinRAR.exe (1)
+2020-11-26 02:36:55Z
+  Microsoft.AutoGenerated.{6B3C11A4-358E-4AE2-70EA-41028A13BB37} (7)
+2020-11-26 02:30:57Z
+  C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32\pythonw.exe (2)
+2020-11-26 02:28:43Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Root\Office16\WINWORD.EXE (4)
+2020-11-24 02:15:54Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Nmap\zenmap.exe (1)
+2020-11-24 02:04:30Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Root\VFS\ProgramFilesCommonX86\Microsoft Shared\Office16\MSOXMLED.EXE (1)
+2020-11-23 20:21:45Z
+  Microsoft.Office.OUTLOOK.EXE.15 (2)
+2020-11-23 03:59:49Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\powershell.exe (1)
+2020-11-23 03:14:06Z
+  Microsoft.Office.EXCEL.EXE.15 (1)
+2020-11-23 00:11:48Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cmd.exe (3)
+2020-11-21 05:23:20Z
+  C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32\Scripts\pip.exe (0)
+2020-11-15 00:57:23Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\mspaint.exe (0)
+2020-11-14 23:38:24Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Root\Office16\OUTLOOK.EXE (0)
+2020-11-14 19:46:48Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Cyberduck\Cyberduck.exe (0)
+2020-11-14 19:46:18Z
+  FileZilla.Client.AppID (0)
+2020-11-14 18:37:51Z
+  C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32\python.exe (0)
+2020-11-14 18:33:32Z
+  {F38BF404-1D43-42F2-9305-67DE0B28FC23}\py.exe (0)
+2020-11-12 03:48:06Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Root\Office16\EXCEL.EXE (0)
+2020-11-11 22:47:58Z
+  Microsoft.AutoGenerated.{34C7D30E-B7BE-871F-DE40-3781A45D3D8E} (0)
+2020-11-11 02:44:20Z
+  C:\Users\Usuario\Downloads\nmap-7.91-setup.exe (0)
+2020-10-29 04:39:24Z
+  Microsoft.AutoGenerated.{AB0C2D6C-EBDF-C343-FF33-6711E91B9932} (0)
+2020-10-24 15:43:20Z
+  Microsoft.MoCamera_cw5n1h2txyewy!Microsoft.Camera (0)
+2020-10-22 04:45:25Z
+  MSEdge (0)
+2020-10-17 19:30:13Z
+  GitForWindows.Bash (0)
+2020-10-13 13:22:34Z
+  Microsoft.Office.POWERPNT.EXE.15 (0)
+2020-10-12 21:04:22Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Root\Office16\MSPUB.EXE (0)
+2020-10-10 15:42:27Z
+  Microsoft.Reader_8wekyb3d8bbwe!Microsoft.Reader (0)
+2020-10-09 16:48:04Z
+  C:\Users\Usuario\Desktop\RESET EPSON-L100-L210-L300-L350-L355\Adjprogcracked.exe (0)
+2020-10-08 19:33:48Z
+  Microsoft.Office.MSPUB.EXE.15 (0)
+2020-10-03 04:47:32Z
+  Microsoft.Windows.StickyNotes (0)
+2020-10-02 23:37:01Z
+  Microsoft.AutoGenerated.{5F9BD4B9-527D-3D48-02BA-47AAA53FB395} (0)
+2020-10-02 23:13:52Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBox.exe (0)
+2020-10-02 23:09:37Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\Msinfo32.exe (0)
+2020-10-02 22:14:22Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\vmconnect.exe (0)
+2020-09-23 01:23:10Z
+  Microsoft.Office.ONENOTE.EXE.15 (0)
+2020-09-20 02:53:45Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\rundll32.exe (0)
+2020-09-20 02:53:42Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\control.exe (0)
+2020-09-14 02:06:54Z
+  Microsoft.AutoGenerated.{EDEE4D37-727D-3AAE-CCA0-9A0543E24CE3} (0)
+2020-09-08 19:50:08Z
+  E:\SETUP.exe (0)
+2020-09-05 17:30:53Z
+  com.squirrel.Discord.Discord (0)
+2020-09-04 21:36:13Z
+  Microsoft.WindowsCalculator_8wekyb3d8bbwe!App (0)
+2020-08-31 17:27:23Z
+  com.squirrel.Teams.Teams (0)
+2020-06-14 03:08:14Z
+  SimonTatham.PuTTY (0)
+2020-06-13 21:26:47Z
+  Microsoft.AutoGenerated.{B354561A-664E-F74B-1B58-58B5B82B8725} (0)
+2020-06-09 00:02:33Z
+  C:\Users\Usuario\Downloads\VirtualBox-6.1.10-138449-Win.exe (0)
+2020-06-04 18:29:17Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Windows NT\Accessories\wordpad.exe (0)
+2020-06-03 04:48:14Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Google\Chrome\Application\chrome.exe (0)
+2020-06-02 00:44:42Z
+  Microsoft.AutoGenerated.{8430F065-2EBB-B6BA-4A4B-214E223D42ED} (0)
+2020-06-02 00:34:38Z
+  Microsoft.AutoGenerated.{33BCADC6-684A-FC4E-C1FB-7D2C2D933000} (0)
+2020-06-01 00:48:29Z
+  Microsoft.AutoGenerated.{98ED31B4-D81D-8DB3-177D-85261DEA9FF8} (0)
+2020-05-31 23:17:58Z
+  Microsoft.AutoGenerated.{50D59526-E958-2759-97FD-C205642E926A} (0)
+2020-05-31 23:05:19Z
+  Microsoft.VisualStudioCode (0)
+2020-05-29 02:25:31Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Root\Office16\POWERPNT.EXE (0)
+2020-05-28 21:35:05Z
+  {F38BF404-1D43-42F2-9305-67DE0B28FC23}\twain_32\escndv\escndv.exe (0)
+2020-05-27 21:14:10Z
+  VisualStudio.1f4ffbc2 (0)
+2020-05-27 19:09:23Z
+  Microsoft.AutoGenerated.{E878FDC9-44FC-ABD2-79F4-F9742E372DD0} (0)
+2020-05-27 19:08:58Z
+  Microsoft.AutoGenerated.{4CDEFA20-CDF4-A16A-A8A9-9933B9BF31BE} (0)
+2020-05-27 18:08:32Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\JetBrains\PyCharm Community Edition 2020.1.1\bin\pycharm64.exe (0)
+2020-05-26 01:02:19Z
+  C:\Users\Usuario\Downloads\Teams_windows_x64 (2).exe (0)
+2020-05-24 21:18:02Z
+  C:\Users\Usuario\Downloads\Teams_windows_x64.exe (0)
+2020-05-22 00:27:28Z
+  Microsoft.AutoGenerated.{8151BAF7-2668-3B5D-C66C-03A07A16B424} (0)
+2020-05-15 00:34:20Z
+  Microsoft.AutoGenerated.{C438B5CA-1F82-C040-1A21-5612B55F9BB9} (0)
+2020-05-14 22:59:17Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\K-Lite Codec Pack x64\unins000.exe (0)
+2020-05-14 20:18:17Z
+  Microsoft.AutoGenerated.{C599100F-68C5-571B-BCDC-0F52F3B453F2} (0)
+2020-05-12 02:26:39Z
+  winstore_cw5n1h2txyewy!Windows.Store (0)
+2020-05-02 02:18:18Z
+  FileManager_cw5n1h2txyewy!Microsoft.Windows.PhotoManager (0)
+2020-04-28 22:03:17Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\PuTTY\pageant.exe (0)
+2020-04-28 20:35:03Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\PuTTY\psftp.exe (0)
+2020-04-28 20:26:43Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\PuTTY\puttygen.exe (0)
+2020-04-28 03:27:14Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msiexec.exe (0)
+2020-04-28 03:22:30Z
+  {F38BF404-1D43-42F2-9305-67DE0B28FC23}\hh.exe (0)
+2020-04-26 23:42:22Z
+  C:\Users\Usuario\Downloads\fuu_-win-g3000-1_1-ea7\Printer Update.exe (0)
+2020-03-10 20:09:04Z
+  Chrome.UserData.Default (0)
+2020-02-13 21:00:10Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Internet Explorer\iexplore.exe (0)
+2020-02-09 21:17:04Z
+  Microsoft.AutoGenerated.{9D9DF16C-1E37-72EC-4DDF-519E83C3DD24} (0)
+2020-02-09 21:01:05Z
+  C:\Users\Usuario\Downloads\Anaconda3-2019.10-Windows-x86_64.exe (0)
+2020-02-09 02:30:57Z
+  C:\Users\Usuario\Downloads\python-3.8.1.exe (0)
+2019-12-06 22:51:37Z
+  F:\HiSuiteDownLoader.exe (0)
+2019-09-01 23:01:32Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Foxit Software\Foxit Reader\Foxit Reader.exe (0)
+2019-09-01 22:43:30Z
+  60061LinaManjarresApps.FlashReading_svpzzx4171ng6!App (0)
+2019-09-01 22:11:06Z
+  Microsoft.AutoGenerated.{B213C83A-DC88-4ABD-9A3D-5DED99378B27} (0)
+2019-09-01 18:31:57Z
+  C:\Users\Usuario\Downloads\Anaconda2-2019.07-Windows-x86_64.exe (0)
+2019-09-01 17:47:46Z
+  Microsoft.AutoGenerated.{46C70301-FEB3-1FF8-9B37-2E1821265871} (0)
+2019-09-01 17:47:11Z
+  Microsoft.AutoGenerated.{511B271A-2038-ADD1-A80F-4F16E00536DB} (0)
+2019-08-31 04:05:05Z
+  Microsoft.AutoGenerated.{15AF5F48-218F-3355-3DDF-3C66C5123512} (0)
+2019-08-31 03:05:19Z
+  Microsoft.AutoGenerated.{76F5A582-341D-C8B9-D317-643BFC83F051} (0)
+2019-08-31 03:04:57Z
+  Microsoft.AutoGenerated.{F80F9C74-F8B4-8679-0B97-A207A572BB5E} (0)
+2019-08-29 23:06:17Z
+  C:\Users\Usuario\AppData\Local\Programs\Python\Python37-32\python.exe (0)
+2019-08-27 23:04:17Z
+  C:\Users\Usuario\Downloads\python-3.7.4.exe (0)
+2019-07-28 20:18:09Z
+  Microsoft.AutoGenerated.{D0081D91-4754-4D4F-62A8-04ECE5E90246} (0)
+2019-07-28 20:07:27Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\spool\drivers\x64\3\E_GATO46.EXE (0)
+2019-06-27 19:09:09Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Canon\Quick Menu\CNQMMAIN.EXE (0)
+2019-06-11 01:59:46Z
+  Microsoft.AutoGenerated.{3A5BE4E4-7F40-3A21-5E0F-E8CCF4A34F46} (0)
+2019-03-05 02:31:35Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\SnippingTool.exe (0)
+2019-01-27 00:31:26Z
+  avast! antivirus (0)
+2018-12-17 14:28:19Z
+  D:\HiSuiteDownLoader.exe (0)
+2018-11-17 03:02:10Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Apowersoft\Video Editor Pro\Video Editor Pro.exe (0)
+2018-11-15 03:20:19Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Wondershare\Wondershare Filmora\Filmora.exe (0)
+2018-11-15 03:12:39Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Live\Photo Gallery\MovieMaker.exe (0)
+2018-11-15 03:05:36Z
+  C:\Users\Usuario\Downloads\filmora_setup_full846 (1).exe (0)
+2018-11-04 01:07:10Z
+  Microsoft.AutoGenerated.{277B765E-14E6-9555-9CF6-7D4B6420864F} (0)
+2018-10-04 01:53:34Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Live\Photo Gallery\WLXPhotoGallery.exe (0)
+2018-09-27 21:42:36Z
+  Microsoft.InternetExplorer.Default (0)
+2018-08-29 04:45:38Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\AVAST Software\Browser\Application\AvastBrowser.exe (0)
+2018-05-26 03:28:46Z
+  {F38BF404-1D43-42F2-9305-67DE0B28FC23}\avastSS.scr (0)
+2018-04-23 03:29:21Z
+  C:\Users\Usuario\Desktop\JKarelRobot.exe (0)
+2018-04-21 03:16:04Z
+  OperaSoftware.OperaWebBrowser.1470261285 (0)
+2018-04-21 03:13:15Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\AVAST Software\SZBrowser\Launcher.exe (0)
+2018-04-21 02:47:30Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Java\jre1.8.0_65\bin\javaw.exe (0)
+2018-04-21 01:46:19Z
+  C:\Users\Usuario\Documents\Videos dany\JKarelRobot.exe (0)
+2018-04-21 01:41:47Z
+  C:\Users\Usuario\Downloads\KAREL ESPAÑOL (1).exe (0)
+2018-04-21 01:32:20Z
+  C:\Users\Usuario\Downloads\KAREL ESPAÑOL.exe (0)
+2018-02-27 01:22:17Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\CCleaner\CCleaner64.exe (0)
+2018-02-10 22:33:27Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Shape Collage\ShapeCollage.exe (0)
+2018-02-10 22:21:40Z
+  C:\Users\Usuario\Downloads\ShapeCollage-3.1-Setup.exe (0)
+2018-02-01 04:54:51Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\dfrgui.exe (0)
+2018-01-20 00:46:20Z
+  C:\Users\Usuario\Documents\KMSP931\KMSpico.v9.3.1.290614\KMSpico Install\KMSpico_setup.exe (0)
+2017-05-18 16:31:11Z
+  com.squirrel.WhatsApp.WhatsApp (0)
+2017-05-15 02:54:31Z
+  Microsoft.Windows.MediaPlayer32 (0)
+2016-11-19 11:53:23Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Apple Software Update\SoftwareUpdate.exe (0)
+2016-11-19 03:30:06Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msdt.exe (0)
+2015-08-30 20:24:26Z
+  Microsoft.Protection.OOB (0)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+  Microsoft.Windows.Explorer
+  Microsoft.Windows.ControlPanel
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\OpenWith.exe
+  Microsoft.Windows.ControlPanel.Taskbar
+  Microsoft.Windows.PhotoViewer
+  Microsoft.Windows.Helppane
+  Windows.UI.Search
+  C:\Users\Usuario\AppData\Local\Temp\~nsu.tmp\Au_.exe
+  Microsoft.Windows.WindowsInstaller
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\PrintDialogHost.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\taskhost.exe
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Windows Mail\wab.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\EaseOfAccessDialog.exe
+  Microsoft.DXP.AttachedDevice.{A4B6188B-CF67-5DBA-A93D-E2430CCF37CB}
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Canon\IJPLM\ijplmui.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Canon\IJ Scan Utility\SCANUTILITY.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Canon\My Image Garden\cnmigmain.exe
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe
+  Chrome.UserData.Profile1
+  Chrome.UserData.SystemProfile
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\wuauclt.exe
+  Microsoft.Windows.Shell.RunDialog
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+  C:\Users\Usuario\Downloads\Setup.X86.es-es_O365ProPlusRetail_0df4d563-7041-4beb-bfc7-aaa70e0a31b3_TX_PR_b_16_.exe
+  Microsoft.DSUI.Device.{34503CB8-3578-55A4-B5B3-CCA8C4E1FC0E}
+  Microsoft.DSUI.Device.{5E93C63B-9908-506B-8AC5-2E8A96FE43DE}
+  C:\Users\Usuario\AppData\Local\Temp\HW_UTPS_SP_Autorun\HiSuiteDownLoader.exe
+  C:\Users\Usuario\AppData\Local\Temp\HiSuiteDownLoader\HiSuite_9.0.2.301_OVE.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\HiSuite\HiSuite.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\colorcpl.exe
+  Microsoft.DXP.AttachedDevice.{DD7ED4C1-AB5E-5BE6-B966-7A10A948F5BF}
+  Microsoft.DSUI.Device.{5EF7A198-990D-11E9-83C0-001DBAB3ACC5}
+  E:\Epson.exe
+  C:\Users\Usuario\Downloads\L200_x64_671A.exe
+  C:\Users\Usuario\AppData\Local\Temp\WZSE0.TMP\WINX64\SETUP\SETUP64.EXE
+  C:\Users\Usuario\AppData\Local\Temp\{C73E320E-D099-4456-BB32-F524C6CD6D13}\.cr\python-3.7.4.exe
+  C:\Users\Usuario\AppData\Local\Temp\{E0131FFA-122F-4C07-A669-DCA92560AE8B}\.cr\python-3.7.4.exe
+  C:\Users\Usuario\AppData\Local\Temp\{A4A48577-F37C-45CE-9B82-75418853DE6A}\.cr\python-3.7.4.exe
+  C:\Users\Usuario\Downloads\Anaconda3-2019.07-Windows-x86_64 (1).exe
+  spyder.Spyder
+  C:\Users\Usuario\Anaconda3\Scripts\conda.exe
+  灳摹牥匮祰敤r
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Canon\MyPrinter\BJMyDgn.exe
+  Microsoft.DXP.AttachedDevice.{404C84D6-B657-5617-B2DD-160DE1EA8527}
+  Microsoft.DSUI.Device.{DFA1EF9F-0576-54F7-8F5B-89E24D7E5E2D}
+  C:\Users\Usuario\AppData\Local\Temp\~nsu.tmp\Un_A.exe
+  C:\Users\Usuario\AppData\Local\Package Cache\{b66087e3-469e-4725-8b9b-f0981244afea}\python-3.7.4.exe
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\msdt.exe
+  C:\Users\Usuario\AppData\Local\Temp\{986F8D7A-559F-418B-942D-4DFB22FEA8CA}\.cr\python-3.8.1.exe
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\notepad.exe
+  Microsoft.DSUI.Device.{E9C90E74-80F1-51A2-BAF5-BF0EC7091F55}
+  {6D809377-6AF0-444B-8957-A3773F02200E}\7-Zip\7zFM.exe
+  C:\Users\Usuario\Downloads\fuu_-win-g3000-1_1-ea7.exe
+  C:\Users\Usuario\AppData\Local\Package Cache\{4e3c79d9-fd08-4d23-ba50-d6f19553b0ee}\python-3.8.1.exe
+  C:\Users\Usuario\AppData\Local\SquirrelTemp\Update.exe
+  C:\Users\Usuario\AppData\Local\Temp\{F229C296-3184-4C7D-BC4C-993B2E0332F9}\.cr\python-3.8.2.exe
+  C:\Users\Usuario\Downloads\Anaconda3-2020.02-Windows-x86_64.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\spool\drivers\x64\3\E_YINSI4E.EXE
+  Microsoft.AutoGenerated.{408EE852-E417-1E68-B69F-C9CAA7E6A025}
+  anaconda.Anaconda-Navigator
+  C:\Users\Usuario\AppData\Local\Temp\kiteSetup.exe
+  C:\Users\Usuario\AppData\Local\Package Cache\{3182483d-078b-48fa-92c2-798baa1fe27d}\python-3.8.2.exe
+  C:\Users\Usuario\Downloads\pycharm-community-2020.1.1.exe
+  C:\Users\Usuario\AppData\Local\Package Cache\{6b043b92-4219-49e9-98cb-80558c6db697}\python-3.7.7-amd64.exe
+  C:\Users\Usuario\AppData\Local\Temp\~nsuA.tmp\Un_A.exe
+  C:\Users\Usuario\Downloads\Miniconda3-latest-Windows-x86.exe
+  C:\Users\Usuario\Downloads\vs_community__714041959.1590606621.exe
+  C:\Users\Usuario\AppData\Local\Temp\4a00fa9de2b8d590f1d39b\vs_bootstrapper_d15\vs_setup_bootstrapper.exe
+  Microsoft.VisualStudio.Installer
+  C:\ProgramData\Package Cache\{7d607fb4-7e28-4c7a-a92f-3fcdaf555faf}\VC_redist.x64.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Visual Studio\Installer\vswhere.exe
+  C:\Users\Usuario\AppData\Local\Temp\visualstudioinstaller\vs_installer.windows.exe
+  C:\ProgramData\Package Cache\{86380aef-fd23-4fc3-8723-a98ccad8f2c6}\VC_redist.x86.exe
+  C:\Users\Usuario\AppData\Local\Temp\{3001E42A-51DB-46B9-97B4-3EA8CF37A0DD}\.cr\python-3.8.3.exe
+  C:\Users\Usuario\Downloads\Anaconda3-2020.02-Windows-x86_64 (1).exe
+  C:\Users\Usuario\Downloads\Anaconda3-2020.02-Windows-x86.exe
+  Microsoft.DSUI.Device.{6ACC9A5B-E3C7-5D42-A59C-58421A22107C}
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBoxVM.exe
+  Microsoft.DSUI.Device.{41D9CC97-4198-5307-93EB-B5F35537B6F8}
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Git\mingw32\libexec\git-core\git-credential-manager.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+  C:\Users\Usuario\Downloads\VirtualBox-6.1.14-140239-Win.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\OptionalFeatures.exe
+  Microsoft.AutoGenerated.{39F3B85B-63FB-0256-8A0A-AAC177410D28}
+  C:\Users\Usuario\Downloads\VMware-workstation-full-16.0.0-16894299.exe
+  C:\Users\Usuario\Downloads\VMware-workstation-full-16.0.0-16894299 (1).exe
+  Microsoft.DSUI.Device.{F4490AEB-4D15-57AF-9343-83AC57D55ED6}
+  Microsoft.DSUI.Device.{408F3436-A1BE-5310-A0CC-C9BA22E765BA}
+  {6D809377-6AF0-444B-8957-A3773F02200E}\7-Zip\7zG.exe
+  MSEdge.UserData.Default
+  C:\Users\Usuario\AppData\Local\Temp\nspA1B.tmp\npcap-1.00.exe
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Npcap\NPFInstall.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\SystemPropertiesAdvanced.exe
+  C:\Users\Usuario\AppData\Local\Temp\nsm8116.tmp\npcap-1.00.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Nmap\nmap.exe
+  C:\Users\Usuario\Downloads\FileZilla_3.51.0_win32_sponsored-setup.exe
+  C:\Users\Usuario\AppData\Local\Temp\{7EFD506D-7F7B-4E27-ADD2-C2BF820E973F}\.cr\Cyberduck-Installer-7.7.0.33744.exe
+  Cyberduck
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\Speech\SpeechUX\SpeechUXWiz.exe
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\cmd.exe
+  C:\ProgramData\Package Cache\{7ff82b99-bd95-4708-b3fc-00cee82877f0}\Cyberduck-Installer-7.7.0.33744.exe
+
+{F2A1CB5A-E3CC-4A2E-AF9D-505A7009D442}
+
+Value names with no time stamps:
+
+{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}
+2020-11-28 00:26:10Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Desktop.lnk (6)
+2020-11-27 23:33:25Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\f.lnk (12)
+2020-11-27 03:05:48Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Word.lnk (4)
+2020-11-26 02:36:55Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\IDLE (Python 3.8 32-bit).lnk (7)
+2020-11-24 02:15:55Z
+  C:\Users\Usuario\Desktop\Nmap - Zenmap GUI.lnk (1)
+2020-11-23 20:21:45Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Outlook.lnk (2)
+2020-11-23 03:59:49Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Windows PowerShell.lnk (1)
+2020-11-23 03:14:06Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Excel.lnk (1)
+2020-11-23 00:11:48Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Command Prompt.lnk (3)
+2020-11-14 23:20:37Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Outlook.lnk (0)
+2020-11-14 19:46:48Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Cyberduck\Cyberduck.lnk (0)
+2020-11-14 19:46:18Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\FileZilla FTP Client\FileZilla.lnk (0)
+2020-11-14 18:37:51Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Python 3.8\Python 3.8 (32-bit).lnk (0)
+2020-11-13 20:48:28Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Python 3.8\IDLE (Python 3.8 32-bit).lnk (0)
+2020-11-11 22:47:58Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Spyder (anaconda3.1).lnk (0)
+2020-11-10 22:45:18Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Accessories\Notepad.lnk (0)
+2020-10-29 04:39:24Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Python 3.8\Python 3.8 Module Docs (32-bit).lnk (0)
+2020-10-25 04:22:38Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\System Tools\Command Prompt.lnk (0)
+2020-10-24 15:43:20Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Camera.lnk (0)
+2020-10-22 04:45:25Z
+  C:\Users\Public\Desktop\Microsoft Edge.lnk (0)
+2020-10-17 19:30:13Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\ImplicitAppShortcuts\58dc9c9c4a87b968\Git Bash.lnk (0)
+2020-10-13 13:22:34Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\PowerPoint.lnk (0)
+2020-10-10 15:42:27Z
+  C:\Users\Usuario\AppData\Local\Microsoft\Windows\Application Shortcuts\Microsoft.Reader_8wekyb3d8bbwe\Microsoft.Reader.lnk (0)
+2020-10-08 19:33:48Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Publisher.lnk (0)
+2020-10-03 04:47:32Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Sticky Notes.lnk (0)
+2020-10-02 23:37:01Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Administrative Tools\Hyper-V Manager.lnk (0)
+2020-10-02 23:13:52Z
+  C:\Users\Public\Desktop\Oracle VM VirtualBox.lnk (0)
+2020-10-02 22:14:23Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Hyper-V Management Tools\VMConnect.lnk (0)
+2020-09-23 01:23:10Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\OneNote.lnk (0)
+2020-09-23 01:14:16Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\OneNote.lnk (0)
+2020-09-14 02:06:54Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Git\Git Bash.lnk (0)
+2020-09-07 20:51:05Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\System Tools\Windows PowerShell.lnk (0)
+2020-09-05 17:30:53Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Discord Inc\Discord.lnk (0)
+2020-09-05 17:28:36Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Discord.lnk (0)
+2020-09-04 21:36:13Z
+  C:\Users\Usuario\AppData\Local\Microsoft\Windows\Application Shortcuts\Microsoft.WindowsCalculator_8wekyb3d8bbwe\App.lnk (0)
+2020-08-31 17:27:23Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Microsoft Teams.lnk (0)
+2020-06-14 03:08:14Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\PuTTY.lnk (0)
+2020-06-13 21:26:47Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Xming\Xming.lnk (0)
+2020-06-02 03:17:51Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Anaconda3 (32-bit)\Spyder (anaconda3.1).lnk (0)
+2020-06-02 00:44:42Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Spyder (Anaconda3).lnk (0)
+2020-06-02 00:35:00Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Anaconda3 (64-bit)\Spyder (Anaconda3).lnk (0)
+2020-06-02 00:34:38Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Anaconda3 (64-bit)\Jupyter Notebook (Anaconda3).lnk (0)
+2020-06-01 00:48:29Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Anaconda3 (64-bit)\Anaconda Prompt (Anaconda3).lnk (0)
+2020-05-31 23:17:58Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Python 3.8\Python 3.8 Manuals (32-bit).lnk (0)
+2020-05-31 23:05:19Z
+  C:\Users\Usuario\Desktop\Visual Studio Code.lnk (0)
+2020-05-28 21:35:05Z
+  C:\Users\Public\Desktop\EPSON Scan.lnk (0)
+2020-05-27 21:14:10Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Visual Studio 2019.lnk (0)
+2020-05-27 19:09:23Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Anaconda3 (32-bit)\Anaconda Powershell Prompt (miniconda3).lnk (0)
+2020-05-27 19:08:58Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Anaconda3 (32-bit)\Anaconda Prompt (miniconda3).lnk (0)
+2020-05-27 18:08:32Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\PyCharm Community Edition 2020.1.1.lnk (0)
+2020-05-26 01:31:53Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\JetBrains\PyCharm Community Edition 2020.1.1.lnk (0)
+2020-05-22 15:01:48Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Microsoft Teams.lnk (0)
+2020-05-15 00:34:20Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Anaconda3 (64-bit)\Anaconda Navigator (Anaconda3).lnk (0)
+2020-05-14 22:59:17Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\K-Lite Codec Pack x64\Uninstall\Uninstall K-Lite Codec Pack x64.lnk (0)
+2020-05-14 20:45:37Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Visual Studio Code\Visual Studio Code.lnk (0)
+2020-05-12 02:26:39Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Windows Store.lnk (0)
+2020-05-02 19:55:50Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Word.lnk (0)
+2020-05-02 02:18:18Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\PhotosApp.lnk (0)
+2020-04-28 22:44:58Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\PuTTY (64-bit)\PuTTY.lnk (0)
+2020-04-28 22:03:17Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\PuTTY (64-bit)\Pageant.lnk (0)
+2020-04-28 20:35:03Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\PuTTY (64-bit)\PSFTP.lnk (0)
+2020-04-28 20:26:43Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\PuTTY (64-bit)\PuTTYgen.lnk (0)
+2020-04-28 03:22:30Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\PuTTY (64-bit)\PuTTY Manual.lnk (0)
+2020-03-02 01:52:43Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\PowerPoint.lnk (0)
+2020-02-09 02:36:32Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\OneNote 2016.lnk (0)
+2019-09-01 22:43:30Z
+  C:\Users\Usuario\AppData\Local\Microsoft\Windows\Application Shortcuts\60061LinaManjarresApps.FlashReading_svpzzx4171ng6\App.lnk (0)
+2019-09-01 22:11:06Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Anaconda3 (64-bit)\Spyder (Anaconda2).lnk (0)
+2019-09-01 17:47:46Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Python 3.7\IDLE (Python 3.7 32-bit).lnk (0)
+2019-09-01 17:47:11Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Python 3.7\Python 3.7 Module Docs (32-bit).lnk (0)
+2019-08-31 04:05:05Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Anaconda3 (64-bit)\Reset Spyder Settings (Anaconda3).lnk (0)
+2019-08-29 23:06:17Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Python 3.7\Python 3.7 (32-bit).lnk (0)
+2019-07-28 20:18:09Z
+  C:\Users\Public\Desktop\MyEpson Portal.lnk (0)
+2019-07-28 19:39:49Z
+  C:\Users\Public\Desktop\Manual del usuario L200.lnk (0)
+2019-06-27 19:09:09Z
+  C:\Users\Public\Desktop\Canon Quick Menu.lnk (0)
+2019-06-11 01:59:46Z
+  C:\Users\Public\Desktop\Canon G3000 series Manual en pantalla.lnk (0)
+2019-03-25 02:24:13Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Excel.lnk (0)
+2019-03-05 02:31:36Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Snipping Tool.lnk (0)
+2019-02-07 02:46:01Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Google Chrome.lnk (0)
+2019-01-27 00:31:27Z
+  C:\Users\Public\Desktop\Avast Free Antivirus.lnk (0)
+2018-11-16 22:05:34Z
+  C:\Users\Public\Desktop\ApowerEdit.lnk (0)
+2018-11-15 03:20:19Z
+  C:\Users\Public\Desktop\Wondershare Filmora.lnk (0)
+2018-11-15 03:12:39Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Movie Maker.lnk (0)
+2018-11-04 01:07:10Z
+  D:\KINGSTON (16GB).lnk (0)
+2018-10-04 01:53:34Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Photo Gallery.lnk (0)
+2018-09-29 04:11:20Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Paint.lnk (0)
+2018-09-27 21:42:36Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Internet Explorer.lnk (0)
+2018-09-09 20:17:56Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Foxit Reader\Foxit Reader.lnk (0)
+2018-05-24 02:33:03Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\PowerPoint 2016.lnk (0)
+2018-05-24 00:43:43Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Word 2016.lnk (0)
+2018-05-17 01:18:47Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Publisher 2016.lnk (0)
+2018-04-21 03:16:04Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Avast SafeZone Browser.lnk (0)
+2018-02-27 01:22:17Z
+  C:\Users\Public\Desktop\CCleaner.lnk (0)
+2018-02-10 22:33:27Z
+  C:\Users\Public\Desktop\Shape Collage.lnk (0)
+2018-02-01 04:54:51Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Administrative Tools\dfrgui.lnk (0)
+2018-01-21 21:46:42Z
+  C:\Users\Public\Desktop\Manual EPSON L355.lnk (0)
+2017-12-29 03:40:57Z
+  C:\Users\Usuario\AppData\Local\Microsoft\Windows\Application Shortcuts\Microsoft.ZuneMusic_8wekyb3d8bbwe\Microsoft.ZuneMusic.lnk (0)
+2017-12-19 06:22:55Z
+  C:\Users\Public\Desktop\iTunes.lnk (0)
+2017-12-05 15:01:53Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\WicReset\WicReset.lnk (0)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+
+{FA99DFC7-6AC2-453A-A5E2-5E2AFF4507BD}
+
+Value names with no time stamps:
+
+----------------------------------------
+wc_shares v.20200515
+- Gets contents of user's WorkgroupCrawler/Shares subkeys
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\WorkgroupCrawler\Shares not found.
+----------------------------------------
+winrar v.20200526
+(NTUSER.DAT) Get WinRAR\ArcHistory entries
+
+WinRAR
+Software\WinRAR\ArcHistory
+LastWrite Time 2020-11-26 17:20:26Z
+
+0 -> C:\Users\Usuario\Downloads\ilovepdf_jpg-to-pdf.zip
+1 -> C:\Users\Usuario\Downloads\imagenes.rar
+2 -> C:\Users\Usuario\Desktop\Practicas\Practica-4.zip
+3 -> C:\Users\Usuario\Downloads\EJ3.rar
+----------------------------------------
+winspc v.20200525
+(NTUSER.DAT) Gets user's WinSCP 2 data
+
+Software\Martin Prikryl\WinSCP 2 not found.
+----------------------------------------
+winzip v.20200526
+(NTUSER.DAT) Get WinZip extract and filemenu values
+
+Software\Nico Mak Computing\WinZip not found.
+----------------------------------------
+wordwheelquery v.20200823
+(NTUSER.DAT) Gets contents of user's WordWheelQuery key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery
+LastWrite Time 2020-11-19 21:23:14Z
+
+Searches listed in MRUListEx order
+
+85   k9hdxn8p                      
+84   pyth                          
+83   Practica.                     
+82   Programs                      
+81   program file                  
+80   lista.txt                     
+79   python                        
+77   nmap                          
+78   nm                            
+76   panel                         
+75   liberacion                    
+74   reyes del camino              
+73   bronco                        
+72   re                            
+71   r                             
+70   temerarios                    
+69   caminantes                    
+68   mañ                           
+67   txt                           
+66   py                            
+55   capturas de pantalla          
+65   putty                         
+64   bonita                        
+63   avientame                     
+62   23                            
+61   libr                          
+60   phyton                        
+39   traileros                     
+59   trai                          
+58   muchas                        
+57   paint                         
+56   accesprio                     
+54   screen                        
+14   ramon ayala                   
+53   los hermanos barron           
+52   tropical panama               
+23   el poder                      
+51   los cardenales                
+50   los liricos                   
+49   toppaz                        
+48   tropical florida              
+47   tropical                      
+26   pegasso                       
+46   los humildes                  
+45   los tigres del norte          
+44   la adictiva                   
+43   huapangos                     
+42   julion alvarez                
+29   julion                        
+41   banda ms                      
+28   banda                         
+40   rigo tovar                    
+11   pia                           
+38   rigo                          
+37   k                             
+36   tigres                        
+35   mazz                          
+34   ma                            
+33   baron                         
+32   humildes                      
+31   liri                          
+30   mier                          
+27   mitades                       
+25   sonora                        
+24   vaquero                       
+22   salo                          
+15   invasores                     
+18   arn                           
+21   inva                          
+20   ramon                         
+19   a                             
+9    w                             
+17   quimica                       
+16   cadetes                       
+13   2.2                           
+12   pia definitivo                
+10   apli                          
+8    ll                            
+6    pe                            
+7    pan                           
+5    how                           
+4    PEN                           
+3    PANDA                         
+2    tic                           
+1    b                             
+0    INTE                          
+----------------------------------------
